@@ -1,0 +1,34 @@
+{
+  "id": "888fe44f2929b4d5",
+  "title": "JMIR Mental Health - Differentiating Pediatric Bipolar Disorder, Attention-Deficit/Hyperactivity Disorder, and Other Psychopathologies Using Self-Reported Mood and Energy Data and Actigraphy Findings: Correlation and Machine Learning\u2013Based Prediction of M",
+  "description": "Background: Distinguishing pediatric bipolar disorder (BD) from ADHD is challenging due to overlapping fluctuations in mood, energy, and activity. Combining objective actigraphy with self-reported mood/energy may aid differential diagnosis and risk monitoring\u2026",
+  "content": "Introduction\r\nThe early and accurate diagnosis of bipolar disorder (BD) in youth is critical, given the high risk of both over- and underdiagnosis in clinical practice. On average, it takes nearly a \u2026 [+46194 chars]",
+  "source": "Jmir.org",
+  "source_url": "https://mental.jmir.org/2025/1/e78163",
+  "published_at": "2025-12-04T21:33:46Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "machine learning",
+    "ai",
+    "mental health",
+    "ipo",
+    "energy",
+    "search:synthetic data training"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Jmir.org"
+    },
+    "author": null,
+    "title": "JMIR Mental Health - Differentiating Pediatric Bipolar Disorder, Attention-Deficit/Hyperactivity Disorder, and Other Psychopathologies Using Self-Reported Mood and Energy Data and Actigraphy Findings: Correlation and Machine Learning\u2013Based Prediction of M",
+    "description": "Background: Distinguishing pediatric bipolar disorder (BD) from ADHD is challenging due to overlapping fluctuations in mood, energy, and activity. Combining objective actigraphy with self-reported mood/energy may aid differential diagnosis and risk monitoring\u2026",
+    "url": "https://mental.jmir.org/2025/1/e78163",
+    "urlToImage": "https://asset.jmir.pub/assets/8d4075dd769167e98be7b5702a4d7bb3.png",
+    "publishedAt": "2025-12-04T21:33:46Z",
+    "content": "Introduction\r\nThe early and accurate diagnosis of bipolar disorder (BD) in youth is critical, given the high risk of both over- and underdiagnosis in clinical practice. On average, it takes nearly a \u2026 [+46194 chars]"
+  }
+}

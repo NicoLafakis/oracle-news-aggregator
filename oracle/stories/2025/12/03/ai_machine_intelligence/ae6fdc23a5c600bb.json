@@ -1,0 +1,29 @@
+{
+  "id": "ae6fdc23a5c600bb",
+  "title": "Show HN: Beads Viewer (Bv)",
+  "description": "I'm a huge fan of Steve Yegge's great beads project, which is a task management system for use by coding agents.In fact, I probably type or paste the string \"beads\" 500+ times a day nowadays across all my coding agent sessions (I'm juggling like 10 projects a\u2026",
+  "content": "The elegant, keyboard-driven terminal interface for the Beads issue tracker.\r\ncurl -fsSL \"https://raw.githubusercontent.com/Dicklesworthstone/beads_viewer/main/install.sh?$(date +%s)\"| bash\r\nbv is a \u2026 [+58578 chars]",
+  "source": "Github.com",
+  "source_url": "https://github.com/Dicklesworthstone/beads_viewer",
+  "published_at": "2025-12-03T05:04:33Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "search:AI model release benchmark"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Github.com"
+    },
+    "author": "eigenvalue",
+    "title": "Show HN: Beads Viewer (Bv)",
+    "description": "I'm a huge fan of Steve Yegge's great beads project, which is a task management system for use by coding agents.In fact, I probably type or paste the string \"beads\" 500+ times a day nowadays across all my coding agent sessions (I'm juggling like 10 projects a\u2026",
+    "url": "https://github.com/Dicklesworthstone/beads_viewer",
+    "urlToImage": "https://opengraph.githubassets.com/0c3e629e1cb2ed065c54fbeab9136b40a84dc205114a66c21689c6fd975dcd1e/Dicklesworthstone/beads_viewer",
+    "publishedAt": "2025-12-03T05:04:33Z",
+    "content": "The elegant, keyboard-driven terminal interface for the Beads issue tracker.\r\ncurl -fsSL \"https://raw.githubusercontent.com/Dicklesworthstone/beads_viewer/main/install.sh?$(date +%s)\"| bash\r\nbv is a \u2026 [+58578 chars]"
+  }
+}

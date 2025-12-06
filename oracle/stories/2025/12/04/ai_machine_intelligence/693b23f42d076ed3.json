@@ -1,0 +1,29 @@
+{
+  "id": "693b23f42d076ed3",
+  "title": "Decoupled contrastive multi-view clustering with adaptive false negative elimination for cancer subtyping",
+  "description": "Author summary Cancer is a heterogeneous disease characterized by diverse etiologies and clinical features. Different cancer subtypes exhibit substantial variations in prognostic responses and treatment outcomes. Therefore, accurate subtype identification is \u2026",
+  "content": "Citation: Lin M, Fan R, Zhu S, Yan X, Zou Q, Tian Z (2025) Decoupled contrastive multi-view clustering with adaptive false negative elimination for cancer subtyping. PLoS Comput Biol 21(12):\r\n e10137\u2026 [+63767 chars]",
+  "source": "Plos.org",
+  "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013780",
+  "published_at": "2025-12-04T14:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "search:foundation model training comp"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Mengxiang Lin, Rongqi Fan, Saisai Zhu, Xiaoqiang Yan, Quan Zou, Zhen Tian",
+    "title": "Decoupled contrastive multi-view clustering with adaptive false negative elimination for cancer subtyping",
+    "description": "Author summary Cancer is a heterogeneous disease characterized by diverse etiologies and clinical features. Different cancer subtypes exhibit substantial variations in prognostic responses and treatment outcomes. Therefore, accurate subtype identification is \u2026",
+    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013780",
+    "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013780.g008&size=inline",
+    "publishedAt": "2025-12-04T14:00:00Z",
+    "content": "Citation: Lin M, Fan R, Zhu S, Yan X, Zou Q, Tian Z (2025) Decoupled contrastive multi-view clustering with adaptive false negative elimination for cancer subtyping. PLoS Comput Biol 21(12):\r\n e10137\u2026 [+63767 chars]"
+  }
+}

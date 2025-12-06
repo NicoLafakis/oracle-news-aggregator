@@ -1,0 +1,31 @@
+{
+  "id": "b11d09bfcf047d7d",
+  "title": "The Daily Mail recipe not returning articles",
+  "description": "From two days ago the recipe for The Daily Mail no longer returns articles. When I view the RSS feed pages, the links to articles open them normally. Job Details in the spoiler. Any help would be appreciated - thanks in advance.\n\nFetch news from The Daily Mai\u2026",
+  "content": "Fetch news from The Daily MailConversion options changed from defaults:verbose: 2output_profile: 'kindle_voyage'Resolved conversion optionscalibre version: 8.15.0{'add_alt_text_to_img': False,'asciii\u2026 [+725612 chars]",
+  "source": "Mobileread.com",
+  "source_url": "https://www.mobileread.com/forums/showthread.php?s=0dc65319dc0b19d4b380bbca5e518975&p=4551959#post4551959",
+  "published_at": "2025-12-04T14:03:27Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "oil",
+    "ai",
+    "search:open source AI model release"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Mobileread.com"
+    },
+    "author": "jma1",
+    "title": "The Daily Mail recipe not returning articles",
+    "description": "From two days ago the recipe for The Daily Mail no longer returns articles. When I view the RSS feed pages, the links to articles open them normally. Job Details in the spoiler. Any help would be appreciated - thanks in advance.\n\nFetch news from The Daily Mai\u2026",
+    "url": "https://www.mobileread.com/forums/showthread.php?s=0dc65319dc0b19d4b380bbca5e518975&p=4551959#post4551959",
+    "urlToImage": null,
+    "publishedAt": "2025-12-04T14:03:27Z",
+    "content": "Fetch news from The Daily MailConversion options changed from defaults:verbose: 2output_profile: 'kindle_voyage'Resolved conversion optionscalibre version: 8.15.0{'add_alt_text_to_img': False,'asciii\u2026 [+725612 chars]"
+  }
+}

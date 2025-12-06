@@ -1,0 +1,30 @@
+{
+  "id": "06fc108132ee4488",
+  "title": "Introducing Data Ingestion Building Blocks (Preview)",
+  "description": "Announcing the preview of open, modular data ingestion building blocks in .NET, empowering developers to build scalable AI pipelines with seamless integration, extensibility, and easy getting started experiences across the .NET ecosystem.\nThe post Introducing\u2026",
+  "content": "When building AI applications, context is key.\r\nAI models have a knowledge cutoff and do not have access to your personal or company data by default. To generate high-quality answers, AI apps need tw\u2026 [+16053 chars]",
+  "source": "Microsoft.com",
+  "source_url": "https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/",
+  "published_at": "2025-12-03T18:05:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "search:open source AI model release"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Microsoft.com"
+    },
+    "author": "Luis Quintanilla, Adam Sitnik",
+    "title": "Introducing Data Ingestion Building Blocks (Preview)",
+    "description": "Announcing the preview of open, modular data ingestion building blocks in .NET, empowering developers to build scalable AI pipelines with seamless integration, extensibility, and easy getting started experiences across the .NET ecosystem.\nThe post Introducing\u2026",
+    "url": "https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/",
+    "urlToImage": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/introducing-data-ingestion.webp",
+    "publishedAt": "2025-12-03T18:05:00Z",
+    "content": "When building AI applications, context is key.\r\nAI models have a knowledge cutoff and do not have access to your personal or company data by default. To generate high-quality answers, AI apps need tw\u2026 [+16053 chars]"
+  }
+}

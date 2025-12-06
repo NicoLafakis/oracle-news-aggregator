@@ -1,0 +1,30 @@
+{
+  "id": "588ae260c23b8cae",
+  "title": "How We Debug 1000s of Databases with AI at Databricks",
+  "description": "At Databricks, we\u2019ve replaced manual database operations with AI-assisted debugging. Here are the key lessons we learned building it.",
+  "content": "At Databricks, weve replaced manual database operations with AI, reducing time spent debugging by up to 90%.\r\nOur AI agent interprets, executes, and debugs by retrieving key metrics and logs, and aut\u2026 [+12931 chars]",
+  "source": "Databricks.com",
+  "source_url": "https://www.databricks.com/blog/how-we-debug-1000s-databases-ai-databricks",
+  "published_at": "2025-12-03T21:55:20Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "search:AI reasoning breakthrough"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Databricks.com"
+    },
+    "author": null,
+    "title": "How We Debug 1000s of Databases with AI at Databricks",
+    "description": "At Databricks, we\u2019ve replaced manual database operations with AI-assisted debugging. Here are the key lessons we learned building it.",
+    "url": "https://www.databricks.com/blog/how-we-debug-1000s-databases-ai-databricks",
+    "urlToImage": "https://www.databricks.com/sites/default/files/2025-12/2025-11-blog-how-we-brought-ai-to-database-debugging-at-databricks-og-1200x628-2x-1.png",
+    "publishedAt": "2025-12-03T21:55:20Z",
+    "content": "At Databricks, weve replaced manual database operations with AI, reducing time spent debugging by up to 90%.\r\nOur AI agent interprets, executes, and debugs by retrieving key metrics and logs, and aut\u2026 [+12931 chars]"
+  }
+}

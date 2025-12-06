@@ -1,0 +1,32 @@
+{
+  "id": "a584f8ff017ed873",
+  "title": "AWS rolls out autonomous AI agents to bolster Nvidia-led cloud push",
+  "description": "Per the company blog post, the agents are autonomous, scalable, and independent of human intervention. The move follows Amazon's AWS cloud computing unit laying out plans to adopt Nvidia\u2019s technology in its AI computing chips as part of the former\u2019s efforts t\u2026",
+  "content": "Software giant Amazon unveiled three artificial intelligence (AI) agents Kiro, AWS Security Agent, and AWS DevOps on Tuesday.In a blog post, the company said the frontier agents are \"autonomous, scal\u2026 [+1966 chars]",
+  "source": "The Times of India",
+  "source_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/aws-rolls-out-autonomous-ai-agents-to-bolster-nvidia-led-cloud-push/articleshow/125770074.cms",
+  "published_at": "2025-12-04T16:35:19Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "autonomous",
+    "chip",
+    "ai",
+    "search:AI agent autonomous"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ETtech",
+    "title": "AWS rolls out autonomous AI agents to bolster Nvidia-led cloud push",
+    "description": "Per the company blog post, the agents are autonomous, scalable, and independent of human intervention. The move follows Amazon's AWS cloud computing unit laying out plans to adopt Nvidia\u2019s technology in its AI computing chips as part of the former\u2019s efforts t\u2026",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/aws-rolls-out-autonomous-ai-agents-to-bolster-nvidia-led-cloud-push/articleshow/125770074.cms",
+    "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-239428,resizemode-75,msid-125770074/tech/artificial-intelligence/aws-rolls-out-autonomous-ai-agents-to-bolster-nvidia-led-cloud-push.jpg",
+    "publishedAt": "2025-12-04T16:35:19Z",
+    "content": "Software giant Amazon unveiled three artificial intelligence (AI) agents Kiro, AWS Security Agent, and AWS DevOps on Tuesday.In a blog post, the company said the frontier agents are \"autonomous, scal\u2026 [+1966 chars]"
+  }
+}

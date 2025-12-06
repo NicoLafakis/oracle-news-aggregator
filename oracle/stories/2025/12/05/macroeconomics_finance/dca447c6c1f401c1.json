@@ -1,0 +1,30 @@
+{
+  "id": "dca447c6c1f401c1",
+  "title": "Show HN: I built a Python library for central bank economic announcement data",
+  "description": "Python client library to give traders, quants, and analysts access to forex macroeconomic data via the FXMacroData API. - fxmacrodata/fxmacrodata",
+  "content": "The FXMacroData Python SDK provides a simple and efficient interface for fetching macroeconomic indicators and forex price history from FXMacroData.\r\nIt includes both synchronous and asynchronous cli\u2026 [+3249 chars]",
+  "source": "Github.com",
+  "source_url": "https://github.com/fxmacrodata/fxmacrodata",
+  "published_at": "2025-12-05T12:49:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "macroeconomics_finance",
+  "subcategory": null,
+  "keywords": [
+    "bank",
+    "search:inflation CPI data"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Github.com"
+    },
+    "author": "roberttidball",
+    "title": "Show HN: I built a Python library for central bank economic announcement data",
+    "description": "Python client library to give traders, quants, and analysts access to forex macroeconomic data via the FXMacroData API. - fxmacrodata/fxmacrodata",
+    "url": "https://github.com/fxmacrodata/fxmacrodata",
+    "urlToImage": "https://repository-images.githubusercontent.com/1098260499/bdf9b325-e301-4ceb-b9c2-7dcafd654a1a",
+    "publishedAt": "2025-12-05T12:49:00Z",
+    "content": "The FXMacroData Python SDK provides a simple and efficient interface for fetching macroeconomic indicators and forex price history from FXMacroData.\r\nIt includes both synchronous and asynchronous cli\u2026 [+3249 chars]"
+  }
+}

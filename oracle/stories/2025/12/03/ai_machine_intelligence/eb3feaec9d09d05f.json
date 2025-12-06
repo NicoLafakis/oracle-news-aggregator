@@ -1,0 +1,31 @@
+{
+  "id": "eb3feaec9d09d05f",
+  "title": "NVIDIA Shatters MoE AI Performance Records With a Massive 10x Leap on GB200 \u2018Blackwell\u2019 NVL72 Servers, Fueled by Co-Design Breakthroughs",
+  "description": "Scaling performance on 'Mixture of Experts' AI models is one of the biggest industry constraints, but it appears that NVIDIA has managed to make a breakthrough, credited to co-design performance scaling laws. NVIDIA's GB200 NVL72 AI Cluster Manages to Bring I\u2026",
+  "content": "Scaling performance on 'Mixture of Experts' AI models is one of the biggest industry constraints, but it appears that NVIDIA has managed to make a breakthrough, credited to co-design performance scal\u2026 [+2655 chars]",
+  "source": "Wccftech",
+  "source_url": "https://wccftech.com/nvidia-shatters-moe-ai-performance-records-with-a-massive-10x-leap-on-gb200-nvl72/",
+  "published_at": "2025-12-03T16:02:09Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "model",
+    "search:open source AI model release"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Wccftech"
+    },
+    "author": "Muhammad Zuhair",
+    "title": "NVIDIA Shatters MoE AI Performance Records With a Massive 10x Leap on GB200 \u2018Blackwell\u2019 NVL72 Servers, Fueled by Co-Design Breakthroughs",
+    "description": "Scaling performance on 'Mixture of Experts' AI models is one of the biggest industry constraints, but it appears that NVIDIA has managed to make a breakthrough, credited to co-design performance scaling laws. NVIDIA's GB200 NVL72 AI Cluster Manages to Bring I\u2026",
+    "url": "https://wccftech.com/nvidia-shatters-moe-ai-performance-records-with-a-massive-10x-leap-on-gb200-nvl72/",
+    "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/MoE-Image.png",
+    "publishedAt": "2025-12-03T16:02:09Z",
+    "content": "Scaling performance on 'Mixture of Experts' AI models is one of the biggest industry constraints, but it appears that NVIDIA has managed to make a breakthrough, credited to co-design performance scal\u2026 [+2655 chars]"
+  }
+}

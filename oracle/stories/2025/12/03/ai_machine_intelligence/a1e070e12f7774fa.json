@@ -1,0 +1,32 @@
+{
+  "id": "a1e070e12f7774fa",
+  "title": "Introducing checkpointless and elastic training on Amazon SageMaker HyperPod",
+  "description": "Accelerate AI model development with new training features that enable instant recovery from failures and automatic scaling based on resource availability.",
+  "content": "Today, were announcing two new AI model training features within Amazon SageMaker HyperPod: checkpointless training, an approach that mitigates the need for traditional checkpoint-based recovery by e\u2026 [+6394 chars]",
+  "source": "Amazon.com",
+  "source_url": "https://aws.amazon.com/blogs/aws/introducing-checkpointless-and-elastic-training-on-amazon-sagemaker-hyperpod/",
+  "published_at": "2025-12-03T16:07:52Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "model",
+    "training",
+    "search:AI inference cost pricing"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Amazon.com"
+    },
+    "author": "Channy Yun (\uc724\uc11d\ucc2c)",
+    "title": "Introducing checkpointless and elastic training on Amazon SageMaker HyperPod",
+    "description": "Accelerate AI model development with new training features that enable instant recovery from failures and automatic scaling based on resource availability.",
+    "url": "https://aws.amazon.com/blogs/aws/introducing-checkpointless-and-elastic-training-on-amazon-sagemaker-hyperpod/",
+    "urlToImage": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2025/11/26/Checkpointless-1196x630.png",
+    "publishedAt": "2025-12-03T16:07:52Z",
+    "content": "Today, were announcing two new AI model training features within Amazon SageMaker HyperPod: checkpointless training, an approach that mitigates the need for traditional checkpoint-based recovery by e\u2026 [+6394 chars]"
+  }
+}

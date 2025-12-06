@@ -1,0 +1,31 @@
+{
+  "id": "9c800142a1c4affe",
+  "title": "A place-based assessment of biodiversity intactness in sub-Saharan Africa",
+  "description": "Regional, place-based biodiversity information is used to comprehensively map and quantify biodiversity intactness of sub-Saharan Africa to inform national and global sustainability policies and planning.",
+  "content": "The BII represents the average remaining proportion of the abundance of indigenous faunal and floral populations in an area relative to an intact reference state. In this case, it means pre-colonial \u2026 [+30449 chars]",
+  "source": "Nature.com",
+  "source_url": "https://www.nature.com/articles/s41586-025-09781-7",
+  "published_at": "2025-12-03T00:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "biodiversity",
+    "search:species extinction biodiversit"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Nature.com"
+    },
+    "author": "Hayley S. Clements, Reinette Biggs, Alta De Vos, Emmanuel Do Linh San, Gareth P. Hempson, Birthe Linden, Bryan Maritz, Ara Monadjem, Chevonne Reynolds, Frances Siebert, Nicola Stevens, Matthew Child, Enrico Di Minin, Karen J. Esler, Maike Hamann, Ty Loft, Belinda Reyers, Odirilwe Selomane, Geethen Singh, Andrew L. Skowno",
+    "title": "A place-based assessment of biodiversity intactness in sub-Saharan Africa",
+    "description": "Regional, place-based biodiversity information is used to comprehensively map and quantify biodiversity intactness of sub-Saharan Africa to inform national and global sustainability policies and planning.",
+    "url": "https://www.nature.com/articles/s41586-025-09781-7",
+    "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09781-7/MediaObjects/41586_2025_9781_Fig1_HTML.png",
+    "publishedAt": "2025-12-03T00:00:00Z",
+    "content": "The BII represents the average remaining proportion of the abundance of indigenous faunal and floral populations in an area relative to an intact reference state. In this case, it means pre-colonial \u2026 [+30449 chars]"
+  }
+}

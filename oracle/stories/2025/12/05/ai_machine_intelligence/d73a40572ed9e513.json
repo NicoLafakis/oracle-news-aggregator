@@ -1,0 +1,31 @@
+{
+  "id": "d73a40572ed9e513",
+  "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
+  "description": "Explainable AI isn\u2019t just a challenge for data scientists. It\u2019s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
+  "content": "In my last piece, we established a foundational truth: for users to adopt and rely on AI, they must trust it. We talked about trust being a multifaceted construct, built on perceptions of an AIs Abil\u2026 [+28118 chars]",
+  "source": "Smashingmagazine.com",
+  "source_url": "https://www.smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
+  "published_at": "2025-12-05T15:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "trust",
+    "search:regulatory agency action"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Smashingmagazine.com"
+    },
+    "author": "hello@smashingmagazine.com (Victor Yocco)",
+    "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
+    "description": "Explainable AI isn\u2019t just a challenge for data scientists. It\u2019s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
+    "url": "https://www.smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
+    "urlToImage": "https://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
+    "publishedAt": "2025-12-05T15:00:00Z",
+    "content": "In my last piece, we established a foundational truth: for users to adopt and rely on AI, they must trust it. We talked about trust being a multifaceted construct, built on perceptions of an AIs Abil\u2026 [+28118 chars]"
+  }
+}

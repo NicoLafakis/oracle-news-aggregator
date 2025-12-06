@@ -1,0 +1,29 @@
+{
+  "id": "129949069d3a3818",
+  "title": "SolisCloud Monitoring Platform",
+  "description": "View CSAF\n1. EXECUTIVE SUMMARY\n<ul>\n<li>CVSS v4 8.3</li>\n<li>ATTENTION: Exploitable remotely/low attack complexity</li>\n<li>Vendor: SolisCloud</li>\n<li>Equipment: Monitoring Platform (Cloud API & Device Control API)</li>\n<li>Vulnerability: Authorization Bypas\u2026",
+  "content": "View CSAF\r\n<ul><li>CVSS v4 8.3</li><li>ATTENTION: Exploitable remotely/low attack complexity</li><li>Vendor: SolisCloud</li><li>Equipment: Monitoring Platform (Cloud API &amp; Device Control API)</li\u2026 [+3464 chars]",
+  "source": "Cisa.gov",
+  "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-338-06",
+  "published_at": "2025-12-04T12:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [
+    "search:cyber attack infrastructure"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Cisa.gov"
+    },
+    "author": "CISA",
+    "title": "SolisCloud Monitoring Platform",
+    "description": "View CSAF\n1. EXECUTIVE SUMMARY\n<ul>\n<li>CVSS v4 8.3</li>\n<li>ATTENTION: Exploitable remotely/low attack complexity</li>\n<li>Vendor: SolisCloud</li>\n<li>Equipment: Monitoring Platform (Cloud API & Device Control API)</li>\n<li>Vulnerability: Authorization Bypas\u2026",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-338-06",
+    "urlToImage": null,
+    "publishedAt": "2025-12-04T12:00:00Z",
+    "content": "View CSAF\r\n<ul><li>CVSS v4 8.3</li><li>ATTENTION: Exploitable remotely/low attack complexity</li><li>Vendor: SolisCloud</li><li>Equipment: Monitoring Platform (Cloud API &amp; Device Control API)</li\u2026 [+3464 chars]"
+  }
+}

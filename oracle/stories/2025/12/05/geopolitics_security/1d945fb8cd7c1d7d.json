@@ -1,0 +1,31 @@
+{
+  "id": "1d945fb8cd7c1d7d",
+  "title": "Cyber teams on alert as React2Shell exploitation spreads",
+  "description": "Exploitation of an RCE flaw in a widely-used open source library is spreading quickly, with China-backed threat actors in the driving seat",
+  "content": "A remote code execution (RCE) vulnerability in the React JavaScript library, which earlier today caused disruption across the internet as Cloudflare pushed mitigations live on its network, is now bei\u2026 [+4070 chars]",
+  "source": "ComputerWeekly.com",
+  "source_url": "https://www.computerweekly.com/news/366636015/Cyber-teams-on-alert-as-React2Shell-exploitation-spreads",
+  "published_at": "2025-12-05T12:48:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [
+    "cyber",
+    "china",
+    "search:cyber attack infrastructure"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "ComputerWeekly.com"
+    },
+    "author": "Alex Scroxton",
+    "title": "Cyber teams on alert as React2Shell exploitation spreads",
+    "description": "Exploitation of an RCE flaw in a widely-used open source library is spreading quickly, with China-backed threat actors in the driving seat",
+    "url": "https://www.computerweekly.com/news/366636015/Cyber-teams-on-alert-as-React2Shell-exploitation-spreads",
+    "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/cyber-security-attack-virus-malware-Skorzewiak-adobe.jpg",
+    "publishedAt": "2025-12-05T12:48:00Z",
+    "content": "A remote code execution (RCE) vulnerability in the React JavaScript library, which earlier today caused disruption across the internet as Cloudflare pushed mitigations live on its network, is now bei\u2026 [+4070 chars]"
+  }
+}

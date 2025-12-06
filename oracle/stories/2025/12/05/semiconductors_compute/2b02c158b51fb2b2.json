@@ -1,0 +1,23 @@
+{
+  "id": "2b02c158b51fb2b2",
+  "title": "SteamOS tested on dedicated GPUs: No, it\u2019s not always faster than Windows",
+  "description": "Ars testing shows SteamOS fares better on iGPUs than powerful graphics cards.",
+  "content": "Ars testing shows SteamOS fares better on iGPUs than powerful graphics cards.",
+  "source": "Tech \u2013 Ars Technica",
+  "source_url": "https://arstechnica.com/gadgets/2025/12/steamos-vs-windows-on-dedicated-gpus-its-complicated-but-windows-has-an-edge/",
+  "published_at": "2025-12-05T17:29:37+00:00",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "semiconductors_compute",
+  "subcategory": null,
+  "keywords": [
+    "gpu"
+  ],
+  "location": null,
+  "raw_data": {
+    "title": "SteamOS tested on dedicated GPUs: No, it\u2019s not always faster than Windows",
+    "description": "Ars testing shows SteamOS fares better on iGPUs than powerful graphics cards.",
+    "url": "https://arstechnica.com/gadgets/2025/12/steamos-vs-windows-on-dedicated-gpus-its-complicated-but-windows-has-an-edge/",
+    "published": "2025-12-05T17:29:37+00:00",
+    "source": "Tech \u2013 Ars Technica"
+  }
+}

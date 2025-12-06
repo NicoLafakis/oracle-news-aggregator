@@ -1,0 +1,33 @@
+{
+  "id": "dad9bc7c10eba504",
+  "title": "Podcast: GenAI Security: Defending Against Deepfakes and Automated Social Engineering",
+  "description": "In this episode, QCon AI New York 2025 Chair Wes Reisz speaks with Reken CEO and Google Trust & Safety founder Shuman Ghosemajumder about the erosion of digital trust. They explore how deepfakes and automated social engineering are scaling cybercrime and argu\u2026",
+  "content": "<ul><li>Cybercrime has shifted from linear physical threats to exponential digital attacks, where Generative AI enables criminals to simulate human behavior and launch simultaneous, high-volume attac\u2026 [+45143 chars]",
+  "source": "InfoQ.com",
+  "source_url": "https://www.infoq.com/podcasts/defending-against-deepfakes-automated-engineering/",
+  "published_at": "2025-12-03T09:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "media_information_trust",
+  "subcategory": null,
+  "keywords": [
+    "cyber",
+    "ai",
+    "deepfake",
+    "trust",
+    "search:nuclear weapons proliferation"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "InfoQ.com"
+    },
+    "author": "Shuman Ghosemajumder",
+    "title": "Podcast: GenAI Security: Defending Against Deepfakes and Automated Social Engineering",
+    "description": "In this episode, QCon AI New York 2025 Chair Wes Reisz speaks with Reken CEO and Google Trust & Safety founder Shuman Ghosemajumder about the erosion of digital trust. They explore how deepfakes and automated social engineering are scaling cybercrime and argu\u2026",
+    "url": "https://www.infoq.com/podcasts/defending-against-deepfakes-automated-engineering/",
+    "urlToImage": "https://res.infoq.com/podcasts/defending-against-deepfakes-automated-engineering/en/card_header_image/shuman-twitter-card-1764252197249.jpg",
+    "publishedAt": "2025-12-03T09:00:00Z",
+    "content": "<ul><li>Cybercrime has shifted from linear physical threats to exponential digital attacks, where Generative AI enables criminals to simulate human behavior and launch simultaneous, high-volume attac\u2026 [+45143 chars]"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "a672e111e7a67ddd",
+  "title": "Mixture of Experts Powers the Most Intelligent Frontier AI Models, Runs 10x Faster on NVIDIA Blackwell NVL72",
+  "description": "The top 10 most intelligent open-source models all use a mixture-of-experts architecture. Kimi K2 Thinking, DeepSeek-R1, Mistral Large 3 and others run 10x faster on NVIDIA GB200 NVL72. A look under the hood of virtually any frontier model today will reveal a\u2026",
+  "content": "<ul><li>The top 10 most intelligent open-source models all use a mixture-of-experts architecture.</li><li>Kimi K2 Thinking, DeepSeek-R1, Mistral Large 3 and others run 10x faster on NVIDIA GB200 NVL7\u2026 [+11458 chars]",
+  "source": "Nvidia.com",
+  "source_url": "https://blogs.nvidia.com/blog/mixture-of-experts-frontier-models/",
+  "published_at": "2025-12-03T16:00:32Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "model",
+    "intel",
+    "search:AI reasoning breakthrough"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Nvidia.com"
+    },
+    "author": "Shruti Koparkar",
+    "title": "Mixture of Experts Powers the Most Intelligent Frontier AI Models, Runs 10x Faster on NVIDIA Blackwell NVL72",
+    "description": "The top 10 most intelligent open-source models all use a mixture-of-experts architecture. Kimi K2 Thinking, DeepSeek-R1, Mistral Large 3 and others run 10x faster on NVIDIA GB200 NVL72. A look under the hood of virtually any frontier model today will reveal a\u2026",
+    "url": "https://blogs.nvidia.com/blog/mixture-of-experts-frontier-models/",
+    "urlToImage": "https://blogs.nvidia.com/wp-content/uploads/2025/12/moe-main-feature-image-2.jpg",
+    "publishedAt": "2025-12-03T16:00:32Z",
+    "content": "<ul><li>The top 10 most intelligent open-source models all use a mixture-of-experts architecture.</li><li>Kimi K2 Thinking, DeepSeek-R1, Mistral Large 3 and others run 10x faster on NVIDIA GB200 NVL7\u2026 [+11458 chars]"
+  }
+}

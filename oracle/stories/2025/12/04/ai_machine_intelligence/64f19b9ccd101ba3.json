@@ -1,0 +1,30 @@
+{
+  "id": "64f19b9ccd101ba3",
+  "title": "AWS launches Kiro powers with Stripe, Figma, and Datadog integrations for AI-assisted coding",
+  "description": "Amazon Web Services\u2019 new Kiro powers let AI coding assistants load specialized tools like Stripe and Figma on demand, cutting token costs and speeding software development.",
+  "content": "Amazon Web Services on Wednesday introduced Kiro powers, a system that allows software developers to give their AI coding assistants instant, specialized expertise in specific tools and workflows add\u2026 [+8950 chars]",
+  "source": "VentureBeat",
+  "source_url": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai",
+  "published_at": "2025-12-04T14:02:40Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "search:AI agent autonomous"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "VentureBeat"
+    },
+    "author": "Michael Nu\u00f1ez",
+    "title": "AWS launches Kiro powers with Stripe, Figma, and Datadog integrations for AI-assisted coding",
+    "description": "Amazon Web Services\u2019 new Kiro powers let AI coding assistants load specialized tools like Stripe and Figma on demand, cutting token costs and speeding software development.",
+    "url": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai",
+    "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/53TbLNDfKawmAd8kGfw7ce/17400e5e49710944890e2a6b69cf04f8/nuneybits_Vector_art_of_a_server_rack_in_the_clouds_bf8ba787-9002-494b-b6be-fedd40deb4f9.webp?w=800&q=75",
+    "publishedAt": "2025-12-04T14:02:40Z",
+    "content": "Amazon Web Services on Wednesday introduced Kiro powers, a system that allows software developers to give their AI coding assistants instant, specialized expertise in specific tools and workflows add\u2026 [+8950 chars]"
+  }
+}

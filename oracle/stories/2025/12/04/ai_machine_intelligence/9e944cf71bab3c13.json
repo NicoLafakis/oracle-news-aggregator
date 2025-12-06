@@ -1,0 +1,31 @@
+{
+  "id": "9e944cf71bab3c13",
+  "title": "Show HN: Crovia \u2013 offline-verifiable AI royalty evidence (CEP.v1)",
+  "description": "Crovia generates a single ~8 KB file (CEP.v1) containing: \n\u2022 trust bundle (EU AI Act ready)\u2022 royalty receipts from real FAISS provenance\u2022 payouts summary + Gini coefficient \n\u2022 full hashchain\u2022 compliance metadataZero cloud, zero blockchain, fully offline-verif\u2026",
+  "content": "Open, minimal audit pack that turns AI training-data attribution logs into:\r\n<ul><li>per-provider payouts,</li><li>an offline-verifiable trust bundle,</li><li>an EU AI Actstyle compliance summary,</l\u2026 [+5025 chars]",
+  "source": "Github.com",
+  "source_url": "https://github.com/croviatrust/crovia-core",
+  "published_at": "2025-12-04T07:28:45Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "trust",
+    "search:synthetic data training"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Github.com"
+    },
+    "author": "crovia",
+    "title": "Show HN: Crovia \u2013 offline-verifiable AI royalty evidence (CEP.v1)",
+    "description": "Crovia generates a single ~8 KB file (CEP.v1) containing: \n\u2022 trust bundle (EU AI Act ready)\u2022 royalty receipts from real FAISS provenance\u2022 payouts summary + Gini coefficient \n\u2022 full hashchain\u2022 compliance metadataZero cloud, zero blockchain, fully offline-verif\u2026",
+    "url": "https://github.com/croviatrust/crovia-core",
+    "urlToImage": "https://opengraph.githubassets.com/e8365c06704df09782d3359a59409d3769216ec7c75930b7de5a0c58b3f014de/croviatrust/crovia-core",
+    "publishedAt": "2025-12-04T07:28:45Z",
+    "content": "Open, minimal audit pack that turns AI training-data attribution logs into:\r\n<ul><li>per-provider payouts,</li><li>an offline-verifiable trust bundle,</li><li>an EU AI Actstyle compliance summary,</l\u2026 [+5025 chars]"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "3d708313ff12fc2b",
+  "title": "C-COMPASS: a user-friendly neural network tool profiles cell compartments at protein and lipid levels",
+  "description": "C-COMPASS is an open-source software designed to predict the spatial cellular distribution of proteins and lipids from cellular organelle profiling using a neural network-based regression model.",
+  "content": "Mouse models\r\nSix-week-old female C57BL/6N FRG KO mice repopulated with human hepatocytes (HHF13022, PNPLA3I148M +/+), purchased from Yecuris, were housed at Regeneron Pharmaceuticals, New York Medic\u2026 [+37218 chars]",
+  "source": "Nature.com",
+  "source_url": "https://www.nature.com/articles/s41592-025-02880-3",
+  "published_at": "2025-12-04T00:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "neural",
+    "model",
+    "search:synthetic data training"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Nature.com"
+    },
+    "author": "Daniel T. Haas, Daniel Weindl, Pamela Kakimoto, Eva-Maria Trautmann, Julia P. Schessner, Xia Mao, Mathias J. Gerl, Maximilian Gerwien, Timo D. M\u00fcller, Christian Klose, Xiping Cheng, Jan Hasenauer, Natalie Krahmer",
+    "title": "C-COMPASS: a user-friendly neural network tool profiles cell compartments at protein and lipid levels",
+    "description": "C-COMPASS is an open-source software designed to predict the spatial cellular distribution of proteins and lipids from cellular organelle profiling using a neural network-based regression model.",
+    "url": "https://www.nature.com/articles/s41592-025-02880-3",
+    "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-025-02880-3/MediaObjects/41592_2025_2880_Fig1_HTML.png",
+    "publishedAt": "2025-12-04T00:00:00Z",
+    "content": "Mouse models\r\nSix-week-old female C57BL/6N FRG KO mice repopulated with human hepatocytes (HHF13022, PNPLA3I148M +/+), purchased from Yecuris, were housed at Regeneron Pharmaceuticals, New York Medic\u2026 [+37218 chars]"
+  }
+}

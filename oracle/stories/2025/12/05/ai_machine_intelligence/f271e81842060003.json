@@ -1,0 +1,32 @@
+{
+  "id": "f271e81842060003",
+  "title": "Huawei Ascend NPU roadmap examined \u2014 company targets 4 ZettaFLOPS FP4 performance by 2028, amid manufacturing constraints",
+  "description": "Huawei has unveiled its Ascend NPU roadmap featuring Ascend 950, 960, 970 processors and massive SuperClusters with over a million of processors and up to 4 ZettaFLOPS FP4 performance in 2028, shifting from chip scaling to system-level scaling, amid U.S. sanc\u2026",
+  "content": "In addition to announcing its first AI cluster with 1 FP4 ZettaFLOPS performance, Huawei also revealed a detailed roadmap of its upcoming Ascend neural processing units (NPUs) that accelerate AI work\u2026 [+15589 chars]",
+  "source": "Tom's Hardware UK",
+  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-ascend-npu-roadmap-examined-company-targets-4-zettaflops-fp4-performance-by-2028-amid-manufacturing-constraints",
+  "published_at": "2025-12-05T17:35:34Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "chip",
+    "ai",
+    "manufacturing",
+    "search:TSMC Intel Samsung foundry"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Tom's Hardware UK"
+    },
+    "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+    "title": "Huawei Ascend NPU roadmap examined \u2014 company targets 4 ZettaFLOPS FP4 performance by 2028, amid manufacturing constraints",
+    "description": "Huawei has unveiled its Ascend NPU roadmap featuring Ascend 950, 960, 970 processors and massive SuperClusters with over a million of processors and up to 4 ZettaFLOPS FP4 performance in 2028, shifting from chip scaling to system-level scaling, amid U.S. sanc\u2026",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-ascend-npu-roadmap-examined-company-targets-4-zettaflops-fp4-performance-by-2028-amid-manufacturing-constraints",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/GgPdYEHgr4MXhF4VFT3HtR-2560-80.png",
+    "publishedAt": "2025-12-05T17:35:34Z",
+    "content": "In addition to announcing its first AI cluster with 1 FP4 ZettaFLOPS performance, Huawei also revealed a detailed roadmap of its upcoming Ascend neural processing units (NPUs) that accelerate AI work\u2026 [+15589 chars]"
+  }
+}

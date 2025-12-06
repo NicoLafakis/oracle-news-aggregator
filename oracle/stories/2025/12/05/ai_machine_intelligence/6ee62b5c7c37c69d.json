@@ -1,0 +1,32 @@
+{
+  "id": "6ee62b5c7c37c69d",
+  "title": "Nominal elastic modulus assessment in 3D-printed components under varying printing parameters using Bayesian methods and random forest surrogate modeling",
+  "description": "The expanding range of materials available for 3D printing is driving its widespread adoption in advanced fields. As 3D printing becomes increasingly prevalent in the manufacturing of industrial components, its advantages in accommodating complex geometries a\u2026",
+  "content": "1. Introduction\r\n3D printing has significantly advanced the industrial lightweighting process through its capabilities in free design, topological optimization, and the formation of complex structure\u2026 [+41326 chars]",
+  "source": "Plos.org",
+  "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338204",
+  "published_at": "2025-12-05T14:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "model",
+    "manufacturing",
+    "search:foundation model training comp"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Jin Zhang, Lili Lu, Ping Feng, Ting Zhu",
+    "title": "Nominal elastic modulus assessment in 3D-printed components under varying printing parameters using Bayesian methods and random forest surrogate modeling",
+    "description": "The expanding range of materials available for 3D printing is driving its widespread adoption in advanced fields. As 3D printing becomes increasingly prevalent in the manufacturing of industrial components, its advantages in accommodating complex geometries a\u2026",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338204",
+    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0338204.g010&size=inline",
+    "publishedAt": "2025-12-05T14:00:00Z",
+    "content": "1. Introduction\r\n3D printing has significantly advanced the industrial lightweighting process through its capabilities in free design, topological optimization, and the formation of complex structure\u2026 [+41326 chars]"
+  }
+}

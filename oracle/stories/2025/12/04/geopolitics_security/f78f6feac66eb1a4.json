@@ -1,0 +1,29 @@
+{
+  "id": "f78f6feac66eb1a4",
+  "title": "Johnson Controls iSTAR",
+  "description": "View CSAF\n1. EXECUTIVE SUMMARY\n<ul>\n<li>CVSS v4 7.1</li>\n<li>ATTENTION: Low attack complexity</li>\n<li>Vendor: Johnson Controls Inc.</li>\n<li>Equipment: iSTAR eX, iSTAR Edge, iSTAR Ultra LT, iSTAR Ultra, iSTAR Ultra SE</li>\n<li>Vulnerability: Improper Validat\u2026",
+  "content": "View CSAF\r\n<ul><li>CVSS v4 7.1</li><li>ATTENTION: Low attack complexity</li><li>Vendor: Johnson Controls Inc.</li><li>Equipment: iSTAR eX, iSTAR Edge, iSTAR Ultra LT, iSTAR Ultra, iSTAR Ultra SE</li>\u2026 [+4973 chars]",
+  "source": "Cisa.gov",
+  "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-338-04",
+  "published_at": "2025-12-04T12:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [
+    "search:cyber attack infrastructure"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Cisa.gov"
+    },
+    "author": "CISA",
+    "title": "Johnson Controls iSTAR",
+    "description": "View CSAF\n1. EXECUTIVE SUMMARY\n<ul>\n<li>CVSS v4 7.1</li>\n<li>ATTENTION: Low attack complexity</li>\n<li>Vendor: Johnson Controls Inc.</li>\n<li>Equipment: iSTAR eX, iSTAR Edge, iSTAR Ultra LT, iSTAR Ultra, iSTAR Ultra SE</li>\n<li>Vulnerability: Improper Validat\u2026",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-338-04",
+    "urlToImage": null,
+    "publishedAt": "2025-12-04T12:00:00Z",
+    "content": "View CSAF\r\n<ul><li>CVSS v4 7.1</li><li>ATTENTION: Low attack complexity</li><li>Vendor: Johnson Controls Inc.</li><li>Equipment: iSTAR eX, iSTAR Edge, iSTAR Ultra LT, iSTAR Ultra, iSTAR Ultra SE</li>\u2026 [+4973 chars]"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "a4cecbea961a70c3",
+  "title": "Joint modelling of brain and behaviour dynamics with artificial intelligence",
+  "description": "Artificial intelligence is rapidly advancing our mechanistic understanding of the shared structure between the brain and higher-order behaviours. In this Review, Mathis and Mathis synthesize state-of-the-art methods in joint modelling of neural activity and b\u2026",
+  "content": "<li>Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A. &amp; Poeppel, D. Neuroscience needs behavior: correcting a reductionist bias. Neuron93, 480490 (2017).\r\nArticle\u00a0\r\n CAS\u00a0\r\n PubMe\u2026 [+30008 chars]",
+  "source": "Nature.com",
+  "source_url": "https://www.nature.com/articles/s41583-025-00996-1",
+  "published_at": "2025-12-03T00:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "artificial intelligence",
+    "ai",
+    "neural",
+    "model",
+    "intel",
+    "search:synthetic data training"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Nature.com"
+    },
+    "author": "Mackenzie Weygandt Mathis, Alexander Mathis",
+    "title": "Joint modelling of brain and behaviour dynamics with artificial intelligence",
+    "description": "Artificial intelligence is rapidly advancing our mechanistic understanding of the shared structure between the brain and higher-order behaviours. In this Review, Mathis and Mathis synthesize state-of-the-art methods in joint modelling of neural activity and b\u2026",
+    "url": "https://www.nature.com/articles/s41583-025-00996-1",
+    "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41583-025-00996-1/MediaObjects/41583_2025_996_Fig1_HTML.png",
+    "publishedAt": "2025-12-03T00:00:00Z",
+    "content": "<li>Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A. &amp; Poeppel, D. Neuroscience needs behavior: correcting a reductionist bias. Neuron93, 480490 (2017).\r\nArticle\u00a0\r\n CAS\u00a0\r\n PubMe\u2026 [+30008 chars]"
+  }
+}

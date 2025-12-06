@@ -1,0 +1,30 @@
+{
+  "id": "e85c6172c73f296e",
+  "title": "AWS re:Invent 2025: Agentic AI leaves the POC graveyard",
+  "description": "These five announcements from Re:Invent are aimed at helping developers reclaim productivity by streamlining overhead cloud infrastructure and DevOps tasks with AI.",
+  "content": "LLMs are a commodity.The AI race is now all about a vendors end-to-end platform becoming the natural choice for enterprises to scale AI agents across business units and hierarchy levels.AWS re:Invent\u2026 [+10191 chars]",
+  "source": "Techtarget.com",
+  "source_url": "https://www.techtarget.com/searchapparchitecture/opinion/AWS-reInvent-2025-Agentic-AI-leaves-the-POC-graveyard",
+  "published_at": "2025-12-05T13:06:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "search:AI agent autonomous"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Techtarget.com"
+    },
+    "author": "Torsten Volk",
+    "title": "AWS re:Invent 2025: Agentic AI leaves the POC graveyard",
+    "description": "These five announcements from Re:Invent are aimed at helping developers reclaim productivity by streamlining overhead cloud infrastructure and DevOps tasks with AI.",
+    "url": "https://www.techtarget.com/searchapparchitecture/opinion/AWS-reInvent-2025-Agentic-AI-leaves-the-POC-graveyard",
+    "urlToImage": "https://www.techtarget.com/rms/onlineimages/ai_a238006601.jpg",
+    "publishedAt": "2025-12-05T13:06:00Z",
+    "content": "LLMs are a commodity.The AI race is now all about a vendors end-to-end platform becoming the natural choice for enterprises to scale AI agents across business units and hierarchy levels.AWS re:Invent\u2026 [+10191 chars]"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "776e0934c3c1a137",
+  "title": "A meta-contrastive learning approach for clinical drug-drug interaction extraction from biomedical literature",
+  "description": "Author summary Drug-drug interactions (DDIs) are a significant source of adverse drug events and pose critical challenges to patient safety. While existing drug databases offer valuable DDI information, they often struggle to keep pace with the rapidly expand\u2026",
+  "content": "Abstract\r\nDrugdrug interactions (DDIs) are a significant source of adverse drug events and pose critical challenges to patient safety and clinical decision-making. Extracting DDIs from biomedical lit\u2026 [+68495 chars]",
+  "source": "Plos.org",
+  "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013722",
+  "published_at": "2025-12-05T14:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "health_biotech",
+  "subcategory": null,
+  "keywords": [
+    "drug",
+    "search:foundation model training comp"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Yaxun Jia, Zhu Yuan, Lian Zhu, Zuo-lin Xiang",
+    "title": "A meta-contrastive learning approach for clinical drug-drug interaction extraction from biomedical literature",
+    "description": "Author summary Drug-drug interactions (DDIs) are a significant source of adverse drug events and pose critical challenges to patient safety. While existing drug databases offer valuable DDI information, they often struggle to keep pace with the rapidly expand\u2026",
+    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013722",
+    "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013722.g011&size=inline",
+    "publishedAt": "2025-12-05T14:00:00Z",
+    "content": "Abstract\r\nDrugdrug interactions (DDIs) are a significant source of adverse drug events and pose critical challenges to patient safety and clinical decision-making. Extracting DDIs from biomedical lit\u2026 [+68495 chars]"
+  }
+}
