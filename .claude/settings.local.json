@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(git -C /c/programming/oracle-news-aggregator log --oneline -20)",
+      "Bash(python3 -m py_compile:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
