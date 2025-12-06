@@ -1,0 +1,31 @@
+{
+  "id": "ce64f927d49d84d7",
+  "title": "Show HN: Pylar \u2013 Fix over-querying, data leaks, and governance for AI agents",
+  "description": "Hey HN! We're Hoshang & Vishal, the team behind Pylar - a governed access layer between databases and LLMs. We previously led data and AI and we kept seeing the same problem across teams using LLMs internally: agents are great with unstructured data, but the \u2026",
+  "content": "Security wouldn't let us hook agents straight into Snowflake. Can't say I blame them honestly. Pylar fixed it though. We just tell it what's safe to share, agents get what they need, and our compute \u2026 [+1014 chars]",
+  "source": "Pylar.ai",
+  "source_url": "https://www.pylar.ai",
+  "published_at": "2025-12-03T14:24:33Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "llm",
+    "ai",
+    "search:AI agent autonomous"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Pylar.ai"
+    },
+    "author": "Hoshang07",
+    "title": "Show HN: Pylar \u2013 Fix over-querying, data leaks, and governance for AI agents",
+    "description": "Hey HN! We're Hoshang & Vishal, the team behind Pylar - a governed access layer between databases and LLMs. We previously led data and AI and we kept seeing the same problem across teams using LLMs internally: agents are great with unstructured data, but the \u2026",
+    "url": "https://www.pylar.ai",
+    "urlToImage": "https://www.pylar.ai/images/pylar_logo.png",
+    "publishedAt": "2025-12-03T14:24:33Z",
+    "content": "Security wouldn't let us hook agents straight into Snowflake. Can't say I blame them honestly. Pylar fixed it though. We just tell it what's safe to share, agents get what they need, and our compute \u2026 [+1014 chars]"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "857a413b08ab2c53",
+  "title": "(PR) AMD Instinct MI355X Drives Competitive Performance, Ideal for Optimized LLM Workloads",
+  "description": "AI training workloads are pushing the limits of modern GPU architectures. With the release of AMD ROCm 7.0 software, AMD is raising the bar for high-performance training by delivering optimized support for LLM workloads across the JAX and PyTorch frameworks. \u2026",
+  "content": "AI training workloads are pushing the limits of modern GPU architectures. With the release of AMD ROCm 7.0 software, AMD is raising the bar for high-performance training by delivering optimized suppo\u2026 [+5614 chars]",
+  "source": "Techpowerup.com",
+  "source_url": "https://www.techpowerup.com/343745/amd-instinct-mi355x-drives-competitive-performance-ideal-for-optimized-llm-workloads",
+  "published_at": "2025-12-05T17:11:48Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "llm",
+    "ai",
+    "gpu",
+    "training",
+    "search:AI model release benchmark"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Techpowerup.com"
+    },
+    "author": "T0@st",
+    "title": "(PR) AMD Instinct MI355X Drives Competitive Performance, Ideal for Optimized LLM Workloads",
+    "description": "AI training workloads are pushing the limits of modern GPU architectures. With the release of AMD ROCm 7.0 software, AMD is raising the bar for high-performance training by delivering optimized support for LLM workloads across the JAX and PyTorch frameworks. \u2026",
+    "url": "https://www.techpowerup.com/343745/amd-instinct-mi355x-drives-competitive-performance-ideal-for-optimized-llm-workloads",
+    "urlToImage": "https://www.techpowerup.com/img/Vjba5TzZaOF2zQn1.jpg",
+    "publishedAt": "2025-12-05T17:11:48Z",
+    "content": "AI training workloads are pushing the limits of modern GPU architectures. With the release of AMD ROCm 7.0 software, AMD is raising the bar for high-performance training by delivering optimized suppo\u2026 [+5614 chars]"
+  }
+}

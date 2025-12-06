@@ -1,0 +1,30 @@
+{
+  "id": "602476361601a716",
+  "title": "Amazon launches Trainium3 AI accelerator, competing directly against Blackwell Ultra in FP8 performance \u2014 new Trn3 Gen2 UltraServer takes vertical scaling notes from Nvidia's playbook",
+  "description": "AWS is taking pages from Nvidia's book with its new Trainium3 AI accelerators and Trn3 Gen2 UltraServers that are now built entirely on in-house silicon and are accompanies by the enhanced Neuron software stack that simplifies their adoption and gives users m\u2026",
+  "content": "Amazon Web Services this week introduced its next-generation Trainium3 accelerator for AI training and inference. As AWS puts it, the new processor is twice as fast as its predecessor and is four tim\u2026 [+16930 chars]",
+  "source": "Tom's Hardware UK",
+  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-launches-trainium3-ai-accelerator-competing-directly-against-blackwell-ultra-in-fp8-performance-new-trn3-gen2-ultraserver-takes-vertical-scaling-notes-from-nvidias-playbook",
+  "published_at": "2025-12-05T11:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "search:open source AI model release"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Tom's Hardware UK"
+    },
+    "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+    "title": "Amazon launches Trainium3 AI accelerator, competing directly against Blackwell Ultra in FP8 performance \u2014 new Trn3 Gen2 UltraServer takes vertical scaling notes from Nvidia's playbook",
+    "description": "AWS is taking pages from Nvidia's book with its new Trainium3 AI accelerators and Trn3 Gen2 UltraServers that are now built entirely on in-house silicon and are accompanies by the enhanced Neuron software stack that simplifies their adoption and gives users m\u2026",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-launches-trainium3-ai-accelerator-competing-directly-against-blackwell-ultra-in-fp8-performance-new-trn3-gen2-ultraserver-takes-vertical-scaling-notes-from-nvidias-playbook",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/F4LMLpFr3FBTaE2KzR78zf-1920-80.jpg",
+    "publishedAt": "2025-12-05T11:00:00Z",
+    "content": "Amazon Web Services this week introduced its next-generation Trainium3 accelerator for AI training and inference. As AWS puts it, the new processor is twice as fast as its predecessor and is four tim\u2026 [+16930 chars]"
+  }
+}

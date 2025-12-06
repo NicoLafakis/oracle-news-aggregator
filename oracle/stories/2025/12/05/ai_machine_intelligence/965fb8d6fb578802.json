@@ -1,0 +1,33 @@
+{
+  "id": "965fb8d6fb578802",
+  "title": "An AI for an AI: Anthropic says AI agents require AI defense",
+  "description": "Automated software keeps getting better at pilfering cryptocurrency Anthropic could have scored an easy $4.6 million by using its Claude AI models to find and exploit vulnerabilities in blockchain smart contracts.\u2026",
+  "content": "Anthropic could have scored an easy $4.6 million by using its Claude AI models to find and exploit vulnerabilities in blockchain smart contracts.\r\nThe AI upstart didnt use the attack it found, which \u2026 [+3399 chars]",
+  "source": "Theregister.com",
+  "source_url": "https://www.theregister.com/2025/12/05/an_ai_for_an_ai/",
+  "published_at": "2025-12-05T00:30:02Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "cryptocurrency",
+    "ai",
+    "model",
+    "claude",
+    "search:AI agent autonomous"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Theregister.com"
+    },
+    "author": "Thomas Claburn",
+    "title": "An AI for an AI: Anthropic says AI agents require AI defense",
+    "description": "Automated software keeps getting better at pilfering cryptocurrency Anthropic could have scored an easy $4.6 million by using its Claude AI models to find and exploit vulnerabilities in blockchain smart contracts.\u2026",
+    "url": "https://www.theregister.com/2025/12/05/an_ai_for_an_ai/",
+    "urlToImage": "https://regmedia.co.uk/2022/11/17/shutterstock_blockchain_breaking.jpg",
+    "publishedAt": "2025-12-05T00:30:02Z",
+    "content": "Anthropic could have scored an easy $4.6 million by using its Claude AI models to find and exploit vulnerabilities in blockchain smart contracts.\r\nThe AI upstart didnt use the attack it found, which \u2026 [+3399 chars]"
+  }
+}

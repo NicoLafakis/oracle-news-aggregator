@@ -1,0 +1,32 @@
+{
+  "id": "dbdee5abab3caa2f",
+  "title": "Show HN: EchoCopi Local-first, model-agnostic alternative to Google Antigravity",
+  "description": "I've been building an AI agent framework for myself for the last year because I got tired of re-explaining context to my LLM every morning.Google just announced \"Antigravity\" to solve this, which looks amazing, but it locks you into their cloud and their mode\u2026",
+  "content": "I've been building an AI agent framework for myself for the last year because I got tired of re-explaining context to my LLM every morning.Google just announced \"Antigravity\" to solve this, which loo\u2026 [+788 chars]",
+  "source": "Hacker News",
+  "source_url": "https://news.ycombinator.com/item?id=46142798",
+  "published_at": "2025-12-04T01:44:12Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "llm",
+    "ai",
+    "model",
+    "search:open source AI model release"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": "hacker-news",
+      "name": "Hacker News"
+    },
+    "author": "sparksupernova",
+    "title": "Show HN: EchoCopi Local-first, model-agnostic alternative to Google Antigravity",
+    "description": "I've been building an AI agent framework for myself for the last year because I got tired of re-explaining context to my LLM every morning.Google just announced \"Antigravity\" to solve this, which looks amazing, but it locks you into their cloud and their mode\u2026",
+    "url": "https://news.ycombinator.com/item?id=46142798",
+    "urlToImage": null,
+    "publishedAt": "2025-12-04T01:44:12Z",
+    "content": "I've been building an AI agent framework for myself for the last year because I got tired of re-explaining context to my LLM every morning.Google just announced \"Antigravity\" to solve this, which loo\u2026 [+788 chars]"
+  }
+}

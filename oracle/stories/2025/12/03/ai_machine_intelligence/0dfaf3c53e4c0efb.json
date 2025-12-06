@@ -1,0 +1,31 @@
+{
+  "id": "0dfaf3c53e4c0efb",
+  "title": "Show HN: TabPFN Scaling Mode \u2013 Tabular Foundation Model on millions of rows",
+  "description": "I\u2019m excited to announce Scaling Mode for TabPFN-2.5, our tabular foundation model (Large Tabular Model). This removes any fixed upper limits on dataset sizes and extends TabPFN to datasets with millions of rows.What is Scaling Mode? A new pipeline around TabP\u2026",
+  "content": "Over the past 2 years, TabPFN has gone from a research prototype for tiny datasets to a productionready foundation model powering hundreds of tabular ML applications.\r\n<ul><li>TabPFN v1 started with \u2026 [+4000 chars]",
+  "source": "Priorlabs.ai",
+  "source_url": "https://priorlabs.ai/technical-reports/large-data-model",
+  "published_at": "2025-12-03T18:56:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "model",
+    "foundation model",
+    "search:foundation model training comp"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Priorlabs.ai"
+    },
+    "author": "onasta",
+    "title": "Show HN: TabPFN Scaling Mode \u2013 Tabular Foundation Model on millions of rows",
+    "description": "I\u2019m excited to announce Scaling Mode for TabPFN-2.5, our tabular foundation model (Large Tabular Model). This removes any fixed upper limits on dataset sizes and extends TabPFN to datasets with millions of rows.What is Scaling Mode? A new pipeline around TabP\u2026",
+    "url": "https://priorlabs.ai/technical-reports/large-data-model",
+    "urlToImage": "https://cdn.prod.website-files.com/68f8bca5da3ccc8e84bef00e/692d73925ad49aaa5ff253d2_Screenshot%202025-12-01%20at%2011.52.54.png",
+    "publishedAt": "2025-12-03T18:56:00Z",
+    "content": "Over the past 2 years, TabPFN has gone from a research prototype for tiny datasets to a productionready foundation model powering hundreds of tabular ML applications.\r\n<ul><li>TabPFN v1 started with \u2026 [+4000 chars]"
+  }
+}

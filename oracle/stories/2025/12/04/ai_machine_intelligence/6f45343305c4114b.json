@@ -1,0 +1,29 @@
+{
+  "id": "6f45343305c4114b",
+  "title": "Show HN: Onetone \u2013 A full-stack framework with custom C interpreter",
+  "description": "Hey HN,I've been working on Onetone Framework for the past few years and finally releasing it as open source (AGPL 3.0).*What is it?*Onetone is an ambitious full-stack development framework that includes:- Custom C interpreter with its own scripting language \u2026",
+  "content": "Onetone Framework is a modern full-stack PHP platform that combines advanced backend routing, controller autowiring, an ActiveRecord ORM, CLI tooling, native FFI integrations, AI model runtime suppor\u2026 [+58275 chars]",
+  "source": "Github.com",
+  "source_url": "https://github.com/onetoneframework/framework",
+  "published_at": "2025-12-04T06:03:19Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "search:open source AI model release"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Github.com"
+    },
+    "author": "tactics6655",
+    "title": "Show HN: Onetone \u2013 A full-stack framework with custom C interpreter",
+    "description": "Hey HN,I've been working on Onetone Framework for the past few years and finally releasing it as open source (AGPL 3.0).*What is it?*Onetone is an ambitious full-stack development framework that includes:- Custom C interpreter with its own scripting language \u2026",
+    "url": "https://github.com/onetoneframework/framework",
+    "urlToImage": "https://opengraph.githubassets.com/4a329e533ab9cbd7bdc0b4ad35767498fc956170f5ddb490f179b63d75aa87a2/onetoneframework/framework",
+    "publishedAt": "2025-12-04T06:03:19Z",
+    "content": "Onetone Framework is a modern full-stack PHP platform that combines advanced backend routing, controller autowiring, an ActiveRecord ORM, CLI tooling, native FFI integrations, AI model runtime suppor\u2026 [+58275 chars]"
+  }
+}

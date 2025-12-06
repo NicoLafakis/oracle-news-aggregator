@@ -1,0 +1,30 @@
+{
+  "id": "364e37f5a5954280",
+  "title": "Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability",
+  "description": "Two hacking groups with ties to China have been observed weaponizing the newly disclosed security flaw in React Server Components (RSC) within hours of it becoming public knowledge.\nThe vulnerability in question is CVE-2025-55182 (CVSS score: 10.0), aka React\u2026",
+  "content": "Two hacking groups with ties to China have been observed weaponizing the newly disclosed security flaw in React Server Components (RSC) within hours of it becoming public knowledge.\r\nThe vulnerabilit\u2026 [+3327 chars]",
+  "source": "Internet",
+  "source_url": "https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html",
+  "published_at": "2025-12-05T14:10:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [
+    "china",
+    "search:cyber attack infrastructure"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Internet"
+    },
+    "author": "info@thehackernews.com (The Hacker News)",
+    "title": "Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability",
+    "description": "Two hacking groups with ties to China have been observed weaponizing the newly disclosed security flaw in React Server Components (RSC) within hours of it becoming public knowledge.\nThe vulnerability in question is CVE-2025-55182 (CVSS score: 10.0), aka React\u2026",
+    "url": "https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html",
+    "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBGZGO0_jakOaCSssV2crSecm7odx1bUOTqtH1Z1k96_-HkFpjQA3TTjuMIDHiGEHV_xcPfwzcRyUaPsEclLOa7fVfVu3Z2h__gR0w1rzKGBoAGGXOXFZu0q1a-mFTP-RRjbGqOg89tnq66ErYqfLUh1TgWkG2WSzkXpOnbP-D9hOAm5x6e0cYz6phoGa8/s790-rw-e365/React2Shell.jpg",
+    "publishedAt": "2025-12-05T14:10:00Z",
+    "content": "Two hacking groups with ties to China have been observed weaponizing the newly disclosed security flaw in React Server Components (RSC) within hours of it becoming public knowledge.\r\nThe vulnerabilit\u2026 [+3327 chars]"
+  }
+}

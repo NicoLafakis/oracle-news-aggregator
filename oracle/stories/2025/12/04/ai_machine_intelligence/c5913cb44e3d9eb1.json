@@ -1,0 +1,31 @@
+{
+  "id": "c5913cb44e3d9eb1",
+  "title": "State of AI: An Empirical 100T Token Study with OpenRouter",
+  "description": "An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.",
+  "content": "This empirical study offers a data-driven perspective on how LLMs are actually being used, highlighting several themes that nuance the conventional wisdom about AI deployment:\r\n1. A Multi-Model Ecosy\u2026 [+6214 chars]",
+  "source": "Openrouter.ai",
+  "source_url": "https://openrouter.ai/state-of-ai",
+  "published_at": "2025-12-04T22:26:43Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "llm",
+    "ai",
+    "search:AI inference cost pricing"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Openrouter.ai"
+    },
+    "author": null,
+    "title": "State of AI: An Empirical 100T Token Study with OpenRouter",
+    "description": "An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.",
+    "url": "https://openrouter.ai/state-of-ai",
+    "urlToImage": "https://openrouter.ai/dynamic-og?pathname=state-of-ai&title=State+of+AI&description=An+empirical+study+analyzing+over+100+trillion+tokens+of+real-world+LLM+interactions+across+tasks%2C+geographies%2C+and+time.",
+    "publishedAt": "2025-12-04T22:26:43Z",
+    "content": "This empirical study offers a data-driven perspective on how LLMs are actually being used, highlighting several themes that nuance the conventional wisdom about AI deployment:\r\n1. A Multi-Model Ecosy\u2026 [+6214 chars]"
+  }
+}

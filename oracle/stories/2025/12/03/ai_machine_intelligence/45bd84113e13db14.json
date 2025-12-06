@@ -1,0 +1,30 @@
+{
+  "id": "45bd84113e13db14",
+  "title": "Show HN: Coding Agent Session Search (Cass)",
+  "description": "I\u2019m very pleased to introduce my latest tool for both humans and coding agents: the coding agent session search, or \u201ccass\u201d for short.This tool solves a direct pain point I\u2019ve been experiencing for months as a heavy user of coding agents, with tons of sessions\u2026",
+  "content": "Unified, high-performance TUI to index and search your local coding agent history.\r\nAggregates sessions from Codex, Claude Code, Gemini CLI, Cline, OpenCode, Amp, Cursor, ChatGPT, Aider, and Pi-Agent\u2026 [+67323 chars]",
+  "source": "Github.com",
+  "source_url": "https://github.com/Dicklesworthstone/coding_agent_session_search",
+  "published_at": "2025-12-03T05:00:56Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "search:open source AI model release"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Github.com"
+    },
+    "author": "eigenvalue",
+    "title": "Show HN: Coding Agent Session Search (Cass)",
+    "description": "I\u2019m very pleased to introduce my latest tool for both humans and coding agents: the coding agent session search, or \u201ccass\u201d for short.This tool solves a direct pain point I\u2019ve been experiencing for months as a heavy user of coding agents, with tons of sessions\u2026",
+    "url": "https://github.com/Dicklesworthstone/coding_agent_session_search",
+    "urlToImage": "https://opengraph.githubassets.com/cd645ee54db15d7ad381c04701998940d9b950da459d3a32f995434fc5d408f0/Dicklesworthstone/coding_agent_session_search",
+    "publishedAt": "2025-12-03T05:00:56Z",
+    "content": "Unified, high-performance TUI to index and search your local coding agent history.\r\nAggregates sessions from Codex, Claude Code, Gemini CLI, Cline, OpenCode, Amp, Cursor, ChatGPT, Aider, and Pi-Agent\u2026 [+67323 chars]"
+  }
+}

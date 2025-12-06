@@ -1,0 +1,30 @@
+{
+  "id": "f36352df626ed540",
+  "title": "Comparison of multivariable methods for determining cutpoints of biomarkers in the context of survival time analyses: A simulation study with practical applications to survival data",
+  "description": "Introduction Survival time models are commonly employed in medicine and health sciences when analysing data. In these time-to-event analyses, it is often necessary to dichotomise variables that are metrically measured. One example could be to assign patients \u2026",
+  "content": "Citation: Porthun J, Wienke A (2025) Comparison of multivariable methods for determining cutpoints of biomarkers in the context of survival time analyses: A simulation study with practical applicatio\u2026 [+30735 chars]",
+  "source": "Plos.org",
+  "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338425",
+  "published_at": "2025-12-05T14:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "model",
+    "search:open source AI model release"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Jan Porthun, Andreas Wienke",
+    "title": "Comparison of multivariable methods for determining cutpoints of biomarkers in the context of survival time analyses: A simulation study with practical applications to survival data",
+    "description": "Introduction Survival time models are commonly employed in medicine and health sciences when analysing data. In these time-to-event analyses, it is often necessary to dichotomise variables that are metrically measured. One example could be to assign patients \u2026",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338425",
+    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0338425.g006&size=inline",
+    "publishedAt": "2025-12-05T14:00:00Z",
+    "content": "Citation: Porthun J, Wienke A (2025) Comparison of multivariable methods for determining cutpoints of biomarkers in the context of survival time analyses: A simulation study with practical applicatio\u2026 [+30735 chars]"
+  }
+}

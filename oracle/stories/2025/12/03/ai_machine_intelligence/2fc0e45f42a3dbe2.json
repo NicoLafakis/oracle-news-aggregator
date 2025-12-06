@@ -1,0 +1,29 @@
+{
+  "id": "2fc0e45f42a3dbe2",
+  "title": "Defining Reinforcement Learning Down",
+  "description": "It's a lot simpler than I realized.",
+  "content": "On Monday, I described reformist reinforcement learning in a paragraph. Today Ill do it in about 800 words with no equations. Im indebted to Lior Fox, who, in a back-and-forth in the comment section,\u2026 [+4920 chars]",
+  "source": "Argmin.net",
+  "source_url": "https://www.argmin.net/p/defining-reinforcement-learning-down",
+  "published_at": "2025-12-03T15:03:39Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "search:AI agent autonomous"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Argmin.net"
+    },
+    "author": "Ben Recht",
+    "title": "Defining Reinforcement Learning Down",
+    "description": "It's a lot simpler than I realized.",
+    "url": "https://www.argmin.net/p/defining-reinforcement-learning-down",
+    "urlToImage": "https://substackcdn.com/image/fetch/$s_!3BaV!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18935aa4-3dc2-4384-9bf3-9a2ace764616_840x600.jpeg",
+    "publishedAt": "2025-12-03T15:03:39Z",
+    "content": "On Monday, I described reformist reinforcement learning in a paragraph. Today Ill do it in about 800 words with no equations. Im indebted to Lior Fox, who, in a back-and-forth in the comment section,\u2026 [+4920 chars]"
+  }
+}

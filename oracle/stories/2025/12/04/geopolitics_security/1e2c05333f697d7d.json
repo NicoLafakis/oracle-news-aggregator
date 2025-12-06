@@ -1,0 +1,29 @@
+{
+  "id": "1e2c05333f697d7d",
+  "title": "Johnson Controls OpenBlue Mobile Web Application for OpenBlue Workplace",
+  "description": "View CSAF\n1. EXECUTIVE SUMMARY\n<ul>\n<li>CVSS v4 6.5</li>\n<li>ATTENTION: Exploitable remotely/low attack complexity</li>\n<li>Vendor: Johnson Controls Inc.</li>\n<li>Equipment: OpenBlue Mobile Web Application for OpenBlue Workplace</li>\n<li>Vulnerability: Direct\u2026",
+  "content": "View CSAF\r\n<ul><li>CVSS v4 6.5</li><li>ATTENTION: Exploitable remotely/low attack complexity</li><li>Vendor: Johnson Controls Inc.</li><li>Equipment: OpenBlue Mobile Web Application for OpenBlue Work\u2026 [+4203 chars]",
+  "source": "Cisa.gov",
+  "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-338-03",
+  "published_at": "2025-12-04T12:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [
+    "search:cyber attack infrastructure"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Cisa.gov"
+    },
+    "author": "CISA",
+    "title": "Johnson Controls OpenBlue Mobile Web Application for OpenBlue Workplace",
+    "description": "View CSAF\n1. EXECUTIVE SUMMARY\n<ul>\n<li>CVSS v4 6.5</li>\n<li>ATTENTION: Exploitable remotely/low attack complexity</li>\n<li>Vendor: Johnson Controls Inc.</li>\n<li>Equipment: OpenBlue Mobile Web Application for OpenBlue Workplace</li>\n<li>Vulnerability: Direct\u2026",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-338-03",
+    "urlToImage": null,
+    "publishedAt": "2025-12-04T12:00:00Z",
+    "content": "View CSAF\r\n<ul><li>CVSS v4 6.5</li><li>ATTENTION: Exploitable remotely/low attack complexity</li><li>Vendor: Johnson Controls Inc.</li><li>Equipment: OpenBlue Mobile Web Application for OpenBlue Work\u2026 [+4203 chars]"
+  }
+}

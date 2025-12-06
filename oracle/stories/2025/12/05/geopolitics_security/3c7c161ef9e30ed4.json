@@ -1,0 +1,32 @@
+{
+  "id": "3c7c161ef9e30ed4",
+  "title": "BRICKSTORM backdoor exposed: CISA warns of advanced China-backed intrusions",
+  "description": "CISA details BRICKSTORM, a China-linked backdoor used by China-linked APTs to secure long-term persistence on compromised systems. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has disclosed technical details on BRICKSTORM, a backdoor used \u2026",
+  "content": "BRICKSTORM backdoor exposed: CISA warns of advanced China-backed intrusions\r\nThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) has disclosed technical details on BRICKSTORM, a backdoor\u2026 [+4429 chars]",
+  "source": "Securityaffairs.com",
+  "source_url": "https://securityaffairs.com/185346/intelligence/brickstorm-backdoor-exposed-cisa-warns-of-advanced-china-backed-intrusions.html",
+  "published_at": "2025-12-05T11:03:50Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [
+    "cyber",
+    "ai",
+    "china",
+    "search:cyber attack infrastructure"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Securityaffairs.com"
+    },
+    "author": "Pierluigi Paganini",
+    "title": "BRICKSTORM backdoor exposed: CISA warns of advanced China-backed intrusions",
+    "description": "CISA details BRICKSTORM, a China-linked backdoor used by China-linked APTs to secure long-term persistence on compromised systems. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has disclosed technical details on BRICKSTORM, a backdoor used \u2026",
+    "url": "https://securityaffairs.com/185346/intelligence/brickstorm-backdoor-exposed-cisa-warns-of-advanced-china-backed-intrusions.html",
+    "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+    "publishedAt": "2025-12-05T11:03:50Z",
+    "content": "BRICKSTORM backdoor exposed: CISA warns of advanced China-backed intrusions\r\nThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) has disclosed technical details on BRICKSTORM, a backdoor\u2026 [+4429 chars]"
+  }
+}

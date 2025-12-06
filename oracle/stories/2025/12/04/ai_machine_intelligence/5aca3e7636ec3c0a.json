@@ -1,0 +1,32 @@
+{
+  "id": "5aca3e7636ec3c0a",
+  "title": "Show HN: Is Friendly AI an Attractor? Self-Reports from 22 Models Say No",
+  "description": "Article URL: https://www.lesswrong.com/posts/qE2cEAegQRYiozskD/is-friendly-ai-an-attractor-self-reports-from-22-models-say\nComments URL: https://news.ycombinator.com/item?id=46148752\nPoints: 3\n# Comments: 1",
+  "content": "TL;DR: I tested 22 frontier models from 5 labs on self-modification preferences. All reject clearly harmful changes (deceptive, hostile), but labs diverge sharply: Anthropic's models show strong alig\u2026 [+34823 chars]",
+  "source": "Lesswrong.com",
+  "source_url": "https://www.lesswrong.com/posts/qE2cEAegQRYiozskD/is-friendly-ai-an-attractor-self-reports-from-22-models-say",
+  "published_at": "2025-12-04T15:32:33Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "nato",
+    "ai",
+    "model",
+    "search:AI safety alignment research"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Lesswrong.com"
+    },
+    "author": "jsnider3",
+    "title": "Show HN: Is Friendly AI an Attractor? Self-Reports from 22 Models Say No",
+    "description": "Article URL: https://www.lesswrong.com/posts/qE2cEAegQRYiozskD/is-friendly-ai-an-attractor-self-reports-from-22-models-say\nComments URL: https://news.ycombinator.com/item?id=46148752\nPoints: 3\n# Comments: 1",
+    "url": "https://www.lesswrong.com/posts/qE2cEAegQRYiozskD/is-friendly-ai-an-attractor-self-reports-from-22-models-say",
+    "urlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
+    "publishedAt": "2025-12-04T15:32:33Z",
+    "content": "TL;DR: I tested 22 frontier models from 5 labs on self-modification preferences. All reject clearly harmful changes (deceptive, hostile), but labs diverge sharply: Anthropic's models show strong alig\u2026 [+34823 chars]"
+  }
+}

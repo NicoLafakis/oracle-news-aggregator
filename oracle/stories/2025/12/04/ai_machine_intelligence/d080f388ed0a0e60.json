@@ -1,0 +1,31 @@
+{
+  "id": "d080f388ed0a0e60",
+  "title": "Show HN: AQUA \u2013 model agnostic lightweight command line agent coordinator",
+  "description": "Article URL: https://vignesh07.github.io/aqua/2025/12/02/introducing-aqua.html\nComments URL: https://news.ycombinator.com/item?id=46150499\nPoints: 1\n# Comments: 0",
+  "content": "Today Im releasing Aqua (Autonomous QUorum of Agents), a lightweight CLI tool for coordinating multiple AI coding agents working on the same codebase.\r\nThe Problem\r\nAI coding agents like Claude Code,\u2026 [+4460 chars]",
+  "source": "Github.io",
+  "source_url": "https://vignesh07.github.io/aqua/2025/12/02/introducing-aqua.html",
+  "published_at": "2025-12-04T17:47:10Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "nato",
+    "model",
+    "search:AI agent autonomous"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Github.io"
+    },
+    "author": "eigen-vector",
+    "title": "Show HN: AQUA \u2013 model agnostic lightweight command line agent coordinator",
+    "description": "Article URL: https://vignesh07.github.io/aqua/2025/12/02/introducing-aqua.html\nComments URL: https://news.ycombinator.com/item?id=46150499\nPoints: 1\n# Comments: 0",
+    "url": "https://vignesh07.github.io/aqua/2025/12/02/introducing-aqua.html",
+    "urlToImage": null,
+    "publishedAt": "2025-12-04T17:47:10Z",
+    "content": "Today Im releasing Aqua (Autonomous QUorum of Agents), a lightweight CLI tool for coordinating multiple AI coding agents working on the same codebase.\r\nThe Problem\r\nAI coding agents like Claude Code,\u2026 [+4460 chars]"
+  }
+}

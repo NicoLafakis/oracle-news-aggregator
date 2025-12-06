@@ -1,0 +1,29 @@
+{
+  "id": "98696040c48318e7",
+  "title": "Sunbird DCIM dcTrack and Power IQ",
+  "description": "View CSAF\n1. EXECUTIVE SUMMARY\n<ul>\n<li>CVSS v4 8.4</li>\n<li>ATTENTION: Exploitable remotely/low attack complexity</li>\n<li>Vendor: Sunbird</li>\n<li>Equipment: DCIM dcTrack, Power IQ</li>\n<li>Vulnerabilities: Authentication Bypass Using an Alternate Path or C\u2026",
+  "content": "View CSAF\r\n<ul><li>CVSS v4 8.4</li><li>ATTENTION: Exploitable remotely/low attack complexity</li><li>Vendor: Sunbird</li><li>Equipment: DCIM dcTrack, Power IQ</li><li>Vulnerabilities: Authentication \u2026 [+4303 chars]",
+  "source": "Cisa.gov",
+  "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-338-05",
+  "published_at": "2025-12-04T12:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [
+    "search:cyber attack infrastructure"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Cisa.gov"
+    },
+    "author": "CISA",
+    "title": "Sunbird DCIM dcTrack and Power IQ",
+    "description": "View CSAF\n1. EXECUTIVE SUMMARY\n<ul>\n<li>CVSS v4 8.4</li>\n<li>ATTENTION: Exploitable remotely/low attack complexity</li>\n<li>Vendor: Sunbird</li>\n<li>Equipment: DCIM dcTrack, Power IQ</li>\n<li>Vulnerabilities: Authentication Bypass Using an Alternate Path or C\u2026",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-338-05",
+    "urlToImage": null,
+    "publishedAt": "2025-12-04T12:00:00Z",
+    "content": "View CSAF\r\n<ul><li>CVSS v4 8.4</li><li>ATTENTION: Exploitable remotely/low attack complexity</li><li>Vendor: Sunbird</li><li>Equipment: DCIM dcTrack, Power IQ</li><li>Vulnerabilities: Authentication \u2026 [+4303 chars]"
+  }
+}

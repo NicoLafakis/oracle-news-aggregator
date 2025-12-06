@@ -1,0 +1,32 @@
+{
+  "id": "447aa5c4c315418b",
+  "title": "China-nexus cyber threat groups rapidly exploit React2Shell vulnerability (CVE-2025-55182)",
+  "description": "Within hours of the public disclosure of CVE-2025-55182 (React2Shell) on December 3, 2025, Amazon threat intelligence teams observed active exploitation attempts by multiple China state-nexus threat groups, including Earth Lamia and Jackpot Panda. This critic\u2026",
+  "content": "Within hours of the public disclosure of CVE-2025-55182 (React2Shell) on December 3, 2025, Amazon threat intelligence teams observed active exploitation attempts by multiple China state-nexus threat \u2026 [+10104 chars]",
+  "source": "Amazon.com",
+  "source_url": "https://aws.amazon.com/blogs/security/china-nexus-cyber-threat-groups-rapidly-exploit-react2shell-vulnerability-cve-2025-55182/",
+  "published_at": "2025-12-05T00:18:48Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [
+    "cyber",
+    "intel",
+    "china",
+    "search:cyber attack infrastructure"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Amazon.com"
+    },
+    "author": "CJ Moses",
+    "title": "China-nexus cyber threat groups rapidly exploit React2Shell vulnerability (CVE-2025-55182)",
+    "description": "Within hours of the public disclosure of CVE-2025-55182 (React2Shell) on December 3, 2025, Amazon threat intelligence teams observed active exploitation attempts by multiple China state-nexus threat groups, including Earth Lamia and Jackpot Panda. This critic\u2026",
+    "url": "https://aws.amazon.com/blogs/security/china-nexus-cyber-threat-groups-rapidly-exploit-react2shell-vulnerability-cve-2025-55182/",
+    "urlToImage": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2024/11/14/Secure-by-Design-MFA-Progress-1260x630.jpeg",
+    "publishedAt": "2025-12-05T00:18:48Z",
+    "content": "Within hours of the public disclosure of CVE-2025-55182 (React2Shell) on December 3, 2025, Amazon threat intelligence teams observed active exploitation attempts by multiple China state-nexus threat \u2026 [+10104 chars]"
+  }
+}

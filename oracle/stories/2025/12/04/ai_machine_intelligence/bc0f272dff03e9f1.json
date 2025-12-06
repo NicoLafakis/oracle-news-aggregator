@@ -1,0 +1,30 @@
+{
+  "id": "bc0f272dff03e9f1",
+  "title": "Salesforce CEO calls AI a 'commodity feature', says the technology bolsters enterprise software",
+  "description": "Salesforce CEO Marc Benioff told CNBC's Jim Cramer how his company uses AI.",
+  "content": "As Wall Street worries that advancements in artificial intelligence will hurt enterprise software companies, Salesforce CEO Marc Benioff told CNBC's Jim Cramer a large language model is \"just a commo\u2026 [+2407 chars]",
+  "source": "CNBC",
+  "source_url": "https://www.cnbc.com/2025/12/04/salesforce-ai-commodity-enterprise-software-technology.html",
+  "published_at": "2025-12-04T23:31:47Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "search:AI revenue earnings"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": null,
+    "title": "Salesforce CEO calls AI a 'commodity feature', says the technology bolsters enterprise software",
+    "description": "Salesforce CEO Marc Benioff told CNBC's Jim Cramer how his company uses AI.",
+    "url": "https://www.cnbc.com/2025/12/04/salesforce-ai-commodity-enterprise-software-technology.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211552-1760399850212-gettyimages-2194677103-DAVOS_WEF_2025.jpeg?v=1764878072&w=1920&h=1080",
+    "publishedAt": "2025-12-04T23:31:47Z",
+    "content": "As Wall Street worries that advancements in artificial intelligence will hurt enterprise software companies, Salesforce CEO Marc Benioff told CNBC's Jim Cramer a large language model is \"just a commo\u2026 [+2407 chars]"
+  }
+}

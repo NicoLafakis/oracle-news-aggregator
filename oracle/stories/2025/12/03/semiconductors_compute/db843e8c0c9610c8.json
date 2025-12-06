@@ -1,0 +1,30 @@
+{
+  "id": "db843e8c0c9610c8",
+  "title": "Otoy releases OctaneRender 2026.1",
+  "description": "Big update to the GPU renderer adds meshlet streaming for dense geometry, and support for 3DGS data, MaterialX and OpenPBR.",
+  "content": "Wednesday, December 3rd, 2025\r\nPosted by Jim Thacker\r\nOriginally posted on 3 December 2024 for the alpha, and updated for the stable release.\r\nOtoy has released OctaneRender 2026.1, the latest versio\u2026 [+6453 chars]",
+  "source": "Cgchannel.com",
+  "source_url": "https://www.cgchannel.com/2025/12/otoy-releases-octanerender-2026-1/",
+  "published_at": "2025-12-03T11:00:13Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "semiconductors_compute",
+  "subcategory": null,
+  "keywords": [
+    "gpu",
+    "search:open source AI model release"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Cgchannel.com"
+    },
+    "author": "Jim Thacker",
+    "title": "Otoy releases OctaneRender 2026.1",
+    "description": "Big update to the GPU renderer adds meshlet streaming for dense geometry, and support for 3DGS data, MaterialX and OpenPBR.",
+    "url": "https://www.cgchannel.com/2025/12/otoy-releases-octanerender-2026-1/",
+    "urlToImage": "",
+    "publishedAt": "2025-12-03T11:00:13Z",
+    "content": "Wednesday, December 3rd, 2025\r\nPosted by Jim Thacker\r\nOriginally posted on 3 December 2024 for the alpha, and updated for the stable release.\r\nOtoy has released OctaneRender 2026.1, the latest versio\u2026 [+6453 chars]"
+  }
+}

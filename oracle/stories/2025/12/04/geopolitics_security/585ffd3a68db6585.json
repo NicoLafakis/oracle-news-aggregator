@@ -1,0 +1,29 @@
+{
+  "id": "585ffd3a68db6585",
+  "title": "Mitsubishi Electric GX Works2",
+  "description": "View CSAF\n1. EXECUTIVE SUMMARY\n<ul>\n<li>CVSS v4 6.8</li>\n<li>ATTENTION: Low attack complexity</li>\n<li>Vendor: Mitsubishi Electric</li>\n<li>Equipment: GX Works2</li>\n<li>Vulnerability: Cleartext Storage of Sensitive Information</li>\n</ul>\n2. RISK EVALUATION\nS\u2026",
+  "content": "View CSAF\r\n<ul><li>CVSS v4 6.8</li><li>ATTENTION: Low attack complexity</li><li>Vendor: Mitsubishi Electric</li><li>Equipment: GX Works2</li><li>Vulnerability: Cleartext Storage of Sensitive Informat\u2026 [+3549 chars]",
+  "source": "Cisa.gov",
+  "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-338-01",
+  "published_at": "2025-12-04T12:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [
+    "search:cyber attack infrastructure"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Cisa.gov"
+    },
+    "author": "CISA",
+    "title": "Mitsubishi Electric GX Works2",
+    "description": "View CSAF\n1. EXECUTIVE SUMMARY\n<ul>\n<li>CVSS v4 6.8</li>\n<li>ATTENTION: Low attack complexity</li>\n<li>Vendor: Mitsubishi Electric</li>\n<li>Equipment: GX Works2</li>\n<li>Vulnerability: Cleartext Storage of Sensitive Information</li>\n</ul>\n2. RISK EVALUATION\nS\u2026",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-338-01",
+    "urlToImage": null,
+    "publishedAt": "2025-12-04T12:00:00Z",
+    "content": "View CSAF\r\n<ul><li>CVSS v4 6.8</li><li>ATTENTION: Low attack complexity</li><li>Vendor: Mitsubishi Electric</li><li>Equipment: GX Works2</li><li>Vulnerability: Cleartext Storage of Sensitive Informat\u2026 [+3549 chars]"
+  }
+}

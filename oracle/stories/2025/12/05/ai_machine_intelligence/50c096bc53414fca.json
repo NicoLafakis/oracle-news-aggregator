@@ -1,0 +1,30 @@
+{
+  "id": "50c096bc53414fca",
+  "title": "HPE stock sinks 9% on revenue miss and weak server numbers",
+  "description": "CFO Marie Myers said server revenue was hit by the timing of AI service shipments and lower-than-expected government spending.",
+  "content": "Hewlett Packard Enterprise shares fell 5% Friday after the company reported fourth-quarter revenue that missed analyst expectations.\r\nThe company reported earnings after the bell on Thursday, posting\u2026 [+1075 chars]",
+  "source": "CNBC",
+  "source_url": "https://www.cnbc.com/2025/12/05/hpe-stock-earnings-q4.html",
+  "published_at": "2025-12-05T14:33:41Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "search:AI revenue earnings"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": null,
+    "title": "HPE stock sinks 9% on revenue miss and weak server numbers",
+    "description": "CFO Marie Myers said server revenue was hit by the timing of AI service shipments and lower-than-expected government spending.",
+    "url": "https://www.cnbc.com/2025/12/05/hpe-stock-earnings-q4.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/105480821-1538407348425img_4235.jpg?v=1538407455&w=1920&h=1080",
+    "publishedAt": "2025-12-05T14:33:41Z",
+    "content": "Hewlett Packard Enterprise shares fell 5% Friday after the company reported fourth-quarter revenue that missed analyst expectations.\r\nThe company reported earnings after the bell on Thursday, posting\u2026 [+1075 chars]"
+  }
+}

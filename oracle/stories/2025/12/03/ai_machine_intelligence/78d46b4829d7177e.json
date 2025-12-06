@@ -1,0 +1,30 @@
+{
+  "id": "78d46b4829d7177e",
+  "title": "Memori Expands Into a Full-Scale Memory Layer for AI Agents Across SQL and MongoDB",
+  "description": "Memori is an innovative, open-source memory system that empowers AI agents with structured, long-term memory using standard databases like SQL and MongoDB. It seamlessly integrates into existing frameworks, enabling efficient data extraction and retrieval wit\u2026",
+  "content": "Memori has matured into a full-featured, open-source memory system designed to give AI agents long-term, structured, and queryable memory using standard databases rather than proprietary vector store\u2026 [+2687 chars]",
+  "source": "InfoQ.com",
+  "source_url": "https://www.infoq.com/news/2025/12/memori/",
+  "published_at": "2025-12-03T11:55:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "search:AI agent autonomous"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "InfoQ.com"
+    },
+    "author": "Robert Krzaczy\u0144ski",
+    "title": "Memori Expands Into a Full-Scale Memory Layer for AI Agents Across SQL and MongoDB",
+    "description": "Memori is an innovative, open-source memory system that empowers AI agents with structured, long-term memory using standard databases like SQL and MongoDB. It seamlessly integrates into existing frameworks, enabling efficient data extraction and retrieval wit\u2026",
+    "url": "https://www.infoq.com/news/2025/12/memori/",
+    "urlToImage": "https://res.infoq.com/news/2025/12/memori/en/headerimage/generatedHeaderImage-1764761567771.jpg",
+    "publishedAt": "2025-12-03T11:55:00Z",
+    "content": "Memori has matured into a full-featured, open-source memory system designed to give AI agents long-term, structured, and queryable memory using standard databases rather than proprietary vector store\u2026 [+2687 chars]"
+  }
+}

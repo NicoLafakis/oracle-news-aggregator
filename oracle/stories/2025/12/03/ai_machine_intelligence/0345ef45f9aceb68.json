@@ -1,0 +1,31 @@
+{
+  "id": "0345ef45f9aceb68",
+  "title": "AI-Powered Memory Safety with the Pointer Ownership Model",
+  "description": "This post highlights work to automate C Code Security with AI-Powered memory safety.",
+  "content": "In October 2025, CyberPress reported a critical security vulnerability in the Redis Server, an open-source in-memory database: CVE-2025-49844 allowed authenticated attackers to achieve remote code ex\u2026 [+16308 chars]",
+  "source": "Carnegie Mellon University",
+  "source_url": "https://www.sei.cmu.edu/blog/ai-powered-memory-safety-with-the-pointer-ownership-model/",
+  "published_at": "2025-12-03T05:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "model",
+    "search:open source AI model release"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Carnegie Mellon University"
+    },
+    "author": "David Svoboda, Lori Flynn",
+    "title": "AI-Powered Memory Safety with the Pointer Ownership Model",
+    "description": "This post highlights work to automate C Code Security with AI-Powered memory safety.",
+    "url": "https://www.sei.cmu.edu/blog/ai-powered-memory-safety-with-the-pointer-ownership-model/",
+    "urlToImage": "https://www.sei.cmu.edu/media/images/Svoboda_David_22_230926.360x36.max-1200x630.format-webp.webp",
+    "publishedAt": "2025-12-03T05:00:00Z",
+    "content": "In October 2025, CyberPress reported a critical security vulnerability in the Redis Server, an open-source in-memory database: CVE-2025-49844 allowed authenticated attackers to achieve remote code ex\u2026 [+16308 chars]"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "06d86aca198d3c39",
+  "title": "Google\u2019s plan to put data centers in the sky faces thousands of (little) problems: space junk",
+  "description": "Space debris travels at hypersonic speeds of approximately 17,500 miles per hour (28,000 km/h) in low Earth orbit.",
+  "content": "The rapid expansion of artificial intelligence and cloud services has led to a massive demand for computing power. The surge has strained data infrastructure, which requires lots of electricity to op\u2026 [+8527 chars]",
+  "source": "Fortune",
+  "source_url": "https://fortune.com/2025/12/03/google-data-centers-outer-space-problem-space-junk-debris/",
+  "published_at": "2025-12-03T20:41:29Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "space_frontier",
+  "subcategory": null,
+  "keywords": [
+    "orbit",
+    "search:space station commercial"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": "fortune",
+      "name": "Fortune"
+    },
+    "author": "Mojtaba Akhavan-Tafti",
+    "title": "Google\u2019s plan to put data centers in the sky faces thousands of (little) problems: space junk",
+    "description": "Space debris travels at hypersonic speeds of approximately 17,500 miles per hour (28,000 km/h) in low Earth orbit.",
+    "url": "https://fortune.com/2025/12/03/google-data-centers-outer-space-problem-space-junk-debris/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-10190798-e1764794387739.jpg?resize=1200,600",
+    "publishedAt": "2025-12-03T20:41:29Z",
+    "content": "The rapid expansion of artificial intelligence and cloud services has led to a massive demand for computing power. The surge has strained data infrastructure, which requires lots of electricity to op\u2026 [+8527 chars]"
+  }
+}

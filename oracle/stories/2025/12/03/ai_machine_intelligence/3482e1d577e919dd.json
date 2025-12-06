@@ -1,0 +1,31 @@
+{
+  "id": "3482e1d577e919dd",
+  "title": "Amazon Bedrock adds reinforcement \ufb01ne-tuning simplifying how developers build smarter, more accurate AI models",
+  "description": "Amazon Bedrock now supports reinforcement fine-tuning delivering 66% accuracy gains on average over base models.",
+  "content": "Organizations face a challenging trade-off when adapting AI models to their specific business needs: settle for generic models that produce average results, or tackle the complexity and expense of ad\u2026 [+7114 chars]",
+  "source": "Amazon.com",
+  "source_url": "https://aws.amazon.com/blogs/aws/improve-model-accuracy-with-reinforcement-fine-tuning-in-amazon-bedrock/",
+  "published_at": "2025-12-03T16:08:14Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "model",
+    "search:AI inference cost pricing"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Amazon.com"
+    },
+    "author": "Donnie Prakoso",
+    "title": "Amazon Bedrock adds reinforcement \ufb01ne-tuning simplifying how developers build smarter, more accurate AI models",
+    "description": "Amazon Bedrock now supports reinforcement fine-tuning delivering 66% accuracy gains on average over base models.",
+    "url": "https://aws.amazon.com/blogs/aws/improve-model-accuracy-with-reinforcement-fine-tuning-in-amazon-bedrock/",
+    "urlToImage": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2025/11/25/Bedrock-fine-tuning-green.png",
+    "publishedAt": "2025-12-03T16:08:14Z",
+    "content": "Organizations face a challenging trade-off when adapting AI models to their specific business needs: settle for generic models that produce average results, or tackle the complexity and expense of ad\u2026 [+7114 chars]"
+  }
+}

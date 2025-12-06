@@ -1,0 +1,32 @@
+{
+  "id": "4149168ca5ac2372",
+  "title": "Investors fear an AI bubble. What about computer scientists?",
+  "description": "AI companies are spending eye-watering amounts of money on infrastructure and training to improve AI. Many investors are getting nervous. Beyond the short term financial markets, tech experts say the AI revolution is real, but the economic impacts may be long\u2026",
+  "content": "Fears of an AI bubble overlook where tech experts believe a lot of real value in the AI economy will come from: not large language models themselves, but in what we'll build on top of them. It's earl\u2026 [+6693 chars]",
+  "source": "CBC News",
+  "source_url": "https://www.cbc.ca/news/business/ai-bubble-tech-industry-side-9.7001887",
+  "published_at": "2025-12-05T09:01:51Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "compute",
+    "ai",
+    "training",
+    "search:open source AI model release"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": "cbc-news",
+      "name": "CBC News"
+    },
+    "author": null,
+    "title": "Investors fear an AI bubble. What about computer scientists?",
+    "description": "AI companies are spending eye-watering amounts of money on infrastructure and training to improve AI. Many investors are getting nervous. Beyond the short term financial markets, tech experts say the AI revolution is real, but the economic impacts may be long\u2026",
+    "url": "https://www.cbc.ca/news/business/ai-bubble-tech-industry-side-9.7001887",
+    "urlToImage": "https://i.cbc.ca/ais/0dae0a82-6ad7-4b38-a66c-91e34a512da0,1764792344357/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C37%2C1000%2C562%29%3BResize%3D620",
+    "publishedAt": "2025-12-05T09:01:51Z",
+    "content": "Fears of an AI bubble overlook where tech experts believe a lot of real value in the AI economy will come from: not large language models themselves, but in what we'll build on top of them. It's earl\u2026 [+6693 chars]"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "b461e42b2ff40350",
+  "title": "Show HN: AI Model Arena \u2013 Compare Z-Image, Nano Banana Pro, and Flux.2 Pro",
+  "description": "Hello HN,I built a web interface to evaluate the latest wave of image generation models. It allows you to run prompts across Z-Image Turbo, Nano Banana Pro, Flux.2 Pro and other top ai models simultaneously to compare inference speed and visual fidelity.The b\u2026",
+  "content": "How does the Model Arena work?\r\nThe Arena allows you to select up to 4 different AI models (like Z-Image Turbo, Flux.2, or Nano Banana Pro) and run the same prompt across all of them simultaneously. \u2026 [+2140 chars]",
+  "source": "Z-image.app",
+  "source_url": "https://z-image.app/en/arena",
+  "published_at": "2025-12-03T13:59:36Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "inference",
+    "ai",
+    "model",
+    "search:AI inference cost pricing"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Z-image.app"
+    },
+    "author": "yeekal",
+    "title": "Show HN: AI Model Arena \u2013 Compare Z-Image, Nano Banana Pro, and Flux.2 Pro",
+    "description": "Hello HN,I built a web interface to evaluate the latest wave of image generation models. It allows you to run prompts across Z-Image Turbo, Nano Banana Pro, Flux.2 Pro and other top ai models simultaneously to compare inference speed and visual fidelity.The b\u2026",
+    "url": "https://z-image.app/en/arena",
+    "urlToImage": "https://cdn.z-image.app/visual-logo/ogimage.webp",
+    "publishedAt": "2025-12-03T13:59:36Z",
+    "content": "How does the Model Arena work?\r\nThe Arena allows you to select up to 4 different AI models (like Z-Image Turbo, Flux.2, or Nano Banana Pro) and run the same prompt across all of them simultaneously. \u2026 [+2140 chars]"
+  }
+}

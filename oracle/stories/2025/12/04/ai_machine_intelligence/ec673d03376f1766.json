@@ -1,0 +1,30 @@
+{
+  "id": "ec673d03376f1766",
+  "title": "LummaC2 Infects North Korean Hacker Device Linked to Bybit Heist",
+  "description": "LummaC2 infostealer infects North Korean hacker\u2019s device, exposing ties to $1.4B Bybit heist and revealing tools, infrastructure and OPSEC failures.",
+  "content": "A North Korean state-sponsored threat actor got infected by the same kind of malware typically used against others, exposing rare insights into their operations and direct ties to one of the largest \u2026 [+5161 chars]",
+  "source": "HackRead",
+  "source_url": "https://hackread.com/north-korean-hacker-device-lummac2-infostealer-bybit/",
+  "published_at": "2025-12-04T19:55:04Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "search:cyber attack infrastructure"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "HackRead"
+    },
+    "author": "Waqas",
+    "title": "LummaC2 Infects North Korean Hacker Device Linked to Bybit Heist",
+    "description": "LummaC2 infostealer infects North Korean hacker\u2019s device, exposing ties to $1.4B Bybit heist and revealing tools, infrastructure and OPSEC failures.",
+    "url": "https://hackread.com/north-korean-hacker-device-lummac2-infostealer-bybit/",
+    "urlToImage": "https://hackread.com/wp-content/uploads/2025/12/north-korean-hacker-device-lummac2-infostealer-bybit-1-1024x597.jpg",
+    "publishedAt": "2025-12-04T19:55:04Z",
+    "content": "A North Korean state-sponsored threat actor got infected by the same kind of malware typically used against others, exposing rare insights into their operations and direct ties to one of the largest \u2026 [+5161 chars]"
+  }
+}

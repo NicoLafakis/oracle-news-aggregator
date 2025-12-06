@@ -1,0 +1,30 @@
+{
+  "id": "ee2111442eed5804",
+  "title": "AWS targets vulnerable code with security agent",
+  "description": "At AWS re:Invent 2025, the cloud giant unveiled a security agent designed to bridge the gap between development speed and security validation, along with the general availability of Security Hub analytics",
+  "content": "Amazon Web Services (AWS) has announced a major expansion of its automated security capabilities, including a new tool capable of performing context-aware penetration testing without human interventi\u2026 [+4158 chars]",
+  "source": "ComputerWeekly.com",
+  "source_url": "https://www.computerweekly.com/news/366635619/AWS-targets-vulnerable-code-with-security-agent",
+  "published_at": "2025-12-02T18:51:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "search:cyber attack infrastructure"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "ComputerWeekly.com"
+    },
+    "author": "Aaron Tan",
+    "title": "AWS targets vulnerable code with security agent",
+    "description": "At AWS re:Invent 2025, the cloud giant unveiled a security agent designed to bridge the gap between development speed and security validation, along with the general availability of Security Hub analytics",
+    "url": "https://www.computerweekly.com/news/366635619/AWS-targets-vulnerable-code-with-security-agent",
+    "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/vulnerability-risk-cyber-security-adobe.jpeg",
+    "publishedAt": "2025-12-02T18:51:00Z",
+    "content": "Amazon Web Services (AWS) has announced a major expansion of its automated security capabilities, including a new tool capable of performing context-aware penetration testing without human interventi\u2026 [+4158 chars]"
+  }
+}

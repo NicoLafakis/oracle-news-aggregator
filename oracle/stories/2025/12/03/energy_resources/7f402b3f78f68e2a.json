@@ -1,0 +1,33 @@
+{
+  "id": "7f402b3f78f68e2a",
+  "title": "ETtech Explainer: Amazon's latest Tranium chip and what it means for the race",
+  "description": "Amazon Web Services has launched Trainium3, its new AI chip, offering faster performance, more memory, and lower energy use. The next-generation Trainium4 will add Nvidia\u2019s NVLink Fusion for even bigger, faster AI servers. These chips give AWS more control, c\u2026",
+  "content": "Amazon Web Services (AWS) has spent years creating its own AI training hardware, and its newest release, Trainium3, is touted to perform far better than earlier versions.At its annual tech conference\u2026 [+3370 chars]",
+  "source": "The Times of India",
+  "source_url": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-amazons-latest-tranium-chip-and-what-it-means-for-the-race/articleshow/125737655.cms",
+  "published_at": "2025-12-03T08:27:18Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "energy_resources",
+  "subcategory": null,
+  "keywords": [
+    "energy",
+    "chip",
+    "ai",
+    "fusion",
+    "search:AI inference cost pricing"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ETtech",
+    "title": "ETtech Explainer: Amazon's latest Tranium chip and what it means for the race",
+    "description": "Amazon Web Services has launched Trainium3, its new AI chip, offering faster performance, more memory, and lower energy use. The next-generation Trainium4 will add Nvidia\u2019s NVLink Fusion for even bigger, faster AI servers. These chips give AWS more control, c\u2026",
+    "url": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-amazons-latest-tranium-chip-and-what-it-means-for-the-race/articleshow/125737655.cms",
+    "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1293542,resizemode-75,msid-125737655/tech/technology/ettech-explainer-amazons-latest-tranium-chip-and-what-it-means-for-the-race.jpg",
+    "publishedAt": "2025-12-03T08:27:18Z",
+    "content": "Amazon Web Services (AWS) has spent years creating its own AI training hardware, and its newest release, Trainium3, is touted to perform far better than earlier versions.At its annual tech conference\u2026 [+3370 chars]"
+  }
+}

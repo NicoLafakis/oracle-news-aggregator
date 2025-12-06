@@ -1,0 +1,33 @@
+{
+  "id": "9bfccc199dbbab71",
+  "title": "ASTRIDE: A Security Threat Modeling Platform for Agentic-AI Applications",
+  "description": "AI agent-based systems are becoming increasingly integral to modern software architectures, enabling autonomous decision-making, dynamic task execution, and multimodal interactions through large language models (LLMs). However, these systems introduce novel a\u2026",
+  "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce\u2026 [+257 chars]",
+  "source": "Arxiv.org",
+  "source_url": "https://arxiv.org/abs/2512.04785",
+  "published_at": "2025-12-04T13:32:40Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "llm",
+    "ai",
+    "model",
+    "autonomous",
+    "search:AI agent autonomous"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Arxiv.org"
+    },
+    "author": "Eranga Bandara, Amin Hass, Ross Gore, Sachin Shetty, Ravi Mukkamala, Safdar H. Bouk, Xueping Liang, Ng Wee Keong, Kasun De Zoysa, Aruna Withanage, Nilaan Loganathan",
+    "title": "ASTRIDE: A Security Threat Modeling Platform for Agentic-AI Applications",
+    "description": "AI agent-based systems are becoming increasingly integral to modern software architectures, enabling autonomous decision-making, dynamic task execution, and multimodal interactions through large language models (LLMs). However, these systems introduce novel a\u2026",
+    "url": "https://arxiv.org/abs/2512.04785",
+    "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "publishedAt": "2025-12-04T13:32:40Z",
+    "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce\u2026 [+257 chars]"
+  }
+}

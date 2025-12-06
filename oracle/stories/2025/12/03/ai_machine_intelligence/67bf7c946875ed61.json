@@ -1,0 +1,30 @@
+{
+  "id": "67bf7c946875ed61",
+  "title": "Vercel\u2019s Next.js 16: Explicit Caching, Turbopack Stability, and Improved Developer Tooling",
+  "description": "Unlock the potential of full-stack web development with Next.js 16! This robust release features revolutionary Cache Components, enhanced routing, and Turbopack as the default bundler for lightning-fast builds. Experience architectural breakthroughs and AI-po\u2026",
+  "content": "Next.js, Vercel's React framework for building full-stack web applications, has recently released Next.js 16, shipping with a mix of architectural improvements, performance optimizations, and a funda\u2026 [+3859 chars]",
+  "source": "InfoQ.com",
+  "source_url": "https://www.infoq.com/news/2025/12/nextjs-16-release/",
+  "published_at": "2025-12-03T08:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "search:open source AI model release"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "InfoQ.com"
+    },
+    "author": "Daniel Curtis",
+    "title": "Vercel\u2019s Next.js 16: Explicit Caching, Turbopack Stability, and Improved Developer Tooling",
+    "description": "Unlock the potential of full-stack web development with Next.js 16! This robust release features revolutionary Cache Components, enhanced routing, and Turbopack as the default bundler for lightning-fast builds. Experience architectural breakthroughs and AI-po\u2026",
+    "url": "https://www.infoq.com/news/2025/12/nextjs-16-release/",
+    "urlToImage": "https://res.infoq.com/news/2025/12/nextjs-16-release/en/headerimage/generatedHeaderImage-1764618577886.jpg",
+    "publishedAt": "2025-12-03T08:00:00Z",
+    "content": "Next.js, Vercel's React framework for building full-stack web applications, has recently released Next.js 16, shipping with a mix of architectural improvements, performance optimizations, and a funda\u2026 [+3859 chars]"
+  }
+}

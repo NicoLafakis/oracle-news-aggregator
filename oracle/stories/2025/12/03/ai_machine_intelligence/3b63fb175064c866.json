@@ -1,0 +1,30 @@
+{
+  "id": "3b63fb175064c866",
+  "title": "Adaptive compression framework for giga-pixel whole slide images",
+  "description": "Lee and colleagues present AdaSlide, an AI-driven adaptive compression system for gigapixel pathology slides that preserves diagnostic quality while reducing storage by up to 90%, enabling scalable and cost-efficient digital pathology archiving.",
+  "content": "<li>Abels, E. et al. Computational pathology definitions, best practices, and recommendations for regulatory guidance: a white paper from the digital pathology association. J. Pathol.249, 286294 (201\u2026 [+11589 chars]",
+  "source": "Nature.com",
+  "source_url": "https://www.nature.com/articles/s41467-025-66889-0",
+  "published_at": "2025-12-03T00:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "search:synthetic data training"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Nature.com"
+    },
+    "author": "Jonghyun Lee, Lina Takemaru, D. M. Bappy, Ye Sul Jeong, Won-Ki Jeong, Derek Oldridge, Dokyoon Kim, Sangjeong Ahn, Sung Hak Lee",
+    "title": "Adaptive compression framework for giga-pixel whole slide images",
+    "description": "Lee and colleagues present AdaSlide, an AI-driven adaptive compression system for gigapixel pathology slides that preserves diagnostic quality while reducing storage by up to 90%, enabling scalable and cost-efficient digital pathology archiving.",
+    "url": "https://www.nature.com/articles/s41467-025-66889-0",
+    "urlToImage": null,
+    "publishedAt": "2025-12-03T00:00:00Z",
+    "content": "<li>Abels, E. et al. Computational pathology definitions, best practices, and recommendations for regulatory guidance: a white paper from the digital pathology association. J. Pathol.249, 286294 (201\u2026 [+11589 chars]"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "308fa178568b743c",
+  "title": "Why Sam Altman Declared \u2018Code Red\u2019 at OpenAI",
+  "description": "OpenAI is threatened by competition from Google, Anthropic, and xAI as well as open-source Chinese models like DeepSeek.",
+  "content": "In the past few weeks, the most talked about start-up in the world has been emitting some alarming signals. OpenAI should expect some rough vibes in the coming months, CEO Sam Altman said in an inter\u2026 [+4478 chars]",
+  "source": "New York Magazine",
+  "source_url": "http://nymag.com/intelligencer/article/openai-has-a-very-big-problem.html",
+  "published_at": "2025-12-02T19:45:02Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "model",
+    "search:open source AI model release"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": "new-york-magazine",
+      "name": "New York Magazine"
+    },
+    "author": "John Herrman",
+    "title": "Why Sam Altman Declared \u2018Code Red\u2019 at OpenAI",
+    "description": "OpenAI is threatened by competition from Google, Anthropic, and xAI as well as open-source Chinese models like DeepSeek.",
+    "url": "http://nymag.com/intelligencer/article/openai-has-a-very-big-problem.html",
+    "urlToImage": "https://pyxis.nymag.com/v1/imgs/490/2f3/edb360b4f6e74ca360afb2628edd40f6fd-herman-altman-column.1x.rsocial.w1200.jpg",
+    "publishedAt": "2025-12-02T19:45:02Z",
+    "content": "In the past few weeks, the most talked about start-up in the world has been emitting some alarming signals. OpenAI should expect some rough vibes in the coming months, CEO Sam Altman said in an inter\u2026 [+4478 chars]"
+  }
+}

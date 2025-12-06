@@ -1,0 +1,31 @@
+{
+  "id": "00cc88b379f43208",
+  "title": "Random time-shift approximation enables hierarchical Bayesian inference of mechanistic within-host viral dynamics models on large datasets",
+  "description": "Author summary Understanding how viruses reproduce within an infected host is crucial for predicting disease progression and evaluating treatments. One way to study this is by using mathematical models that describe how viruses reproduce in the body, such as \u2026",
+  "content": "1 Introduction\r\nWithin-host viral dynamics (WHVD) models describe the progression of viral levels within an individual post-infection [13]. Depending on their complexity, these models can capture key\u2026 [+57159 chars]",
+  "source": "Plos.org",
+  "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013775",
+  "published_at": "2025-12-04T14:00:00Z",
+  "fetched_at": "2025-12-06T18:33:06.472112+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "inference",
+    "model",
+    "search:synthetic data training"
+  ],
+  "location": null,
+  "raw_data": {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Dylan J. Morris, Lauren Kennedy, Andrew J. Black",
+    "title": "Random time-shift approximation enables hierarchical Bayesian inference of mechanistic within-host viral dynamics models on large datasets",
+    "description": "Author summary Understanding how viruses reproduce within an infected host is crucial for predicting disease progression and evaluating treatments. One way to study this is by using mathematical models that describe how viruses reproduce in the body, such as \u2026",
+    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013775",
+    "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013775.g007&size=inline",
+    "publishedAt": "2025-12-04T14:00:00Z",
+    "content": "1 Introduction\r\nWithin-host viral dynamics (WHVD) models describe the progression of viral levels within an individual post-infection [13]. Depending on their complexity, these models can capture key\u2026 [+57159 chars]"
+  }
+}
