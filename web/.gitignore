@@ -31,3 +31,6 @@ Thumbs.db
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
+
+# NOTE: lib/oracle-context.ts is auto-generated but SHOULD be committed
+# so Vercel doesn't need access to parent directory oracle nodes
