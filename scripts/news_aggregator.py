@@ -318,14 +318,25 @@ class DeduplicationEngine:
             logger.info("No existing manifest found, starting fresh")
     
     def save_manifest(self):
-        """Save updated manifest."""
+        """Save updated manifest with atomic write to prevent corruption."""
         self.manifest_path.parent.mkdir(parents=True, exist_ok=True)
-        with open(self.manifest_path, 'w') as f:
-            json.dump({
-                'hashes': list(self.seen_hashes),
-                'titles': self.seen_titles[-10000:],  # Keep last 10k titles for similarity
-                'last_updated': datetime.now(timezone.utc).isoformat()
-            }, f, indent=2)
+
+        # Write to temp file first, then rename (atomic on most filesystems)
+        temp_path = self.manifest_path.with_suffix('.json.tmp')
+        try:
+            with open(temp_path, 'w') as f:
+                json.dump({
+                    'hashes': list(self.seen_hashes),
+                    'titles': self.seen_titles[-10000:],  # Keep last 10k titles for similarity
+                    'last_updated': datetime.now(timezone.utc).isoformat()
+                }, f, indent=2)
+            # Atomic rename
+            temp_path.replace(self.manifest_path)
+        except Exception as e:
+            logger.error(f"Failed to save manifest: {e}")
+            if temp_path.exists():
+                temp_path.unlink()
+            raise
     
     def generate_hash(self, title: str, source: str, content: str = "") -> str:
         """Generate unique hash for a story."""
@@ -456,9 +467,9 @@ class NewsAPIFetcher:
             params['to'] = to_date.strftime('%Y-%m-%dT%H:%M:%S')
         
         try:
-            response = self.session.get(url, params=params)
+            response = self.session.get(url, params=params, timeout=30)
             self.request_count += 1
-            
+
             # Handle specific error codes
             if response.status_code == 401:
                 logger.error("NewsAPI: Invalid API key")
@@ -530,15 +541,15 @@ class NewsAPIFetcher:
             params['q'] = query
         
         try:
-            response = self.session.get(url, params=params)
+            response = self.session.get(url, params=params, timeout=30)
             self.request_count += 1
             response.raise_for_status()
             data = response.json()
-            
+
             if data.get('status') == 'error':
                 logger.error(f"NewsAPI headlines error: {data.get('message')}")
                 return []
-            
+
             return data.get('articles', [])
             
         except Exception as e:
@@ -567,7 +578,7 @@ class GDELTFetcher:
         }
         
         try:
-            response = requests.get(self.BASE_URL, params=params)
+            response = requests.get(self.BASE_URL, params=params, timeout=30)
             response.raise_for_status()
             data = response.json()
             return data.get('articles', [])
@@ -591,7 +602,7 @@ class USGSFetcher:
         }
         
         try:
-            response = requests.get(self.BASE_URL, params=params)
+            response = requests.get(self.BASE_URL, params=params, timeout=30)
             response.raise_for_status()
             data = response.json()
             return data.get('features', [])
@@ -795,9 +806,12 @@ class StoryProcessor:
         
         description = f"Magnitude {magnitude} earthquake detected. Location: {place}"
         
-        # Convert timestamp
-        time_ms = props.get('time', 0)
-        published = datetime.fromtimestamp(time_ms / 1000, tz=timezone.utc)
+        # Convert timestamp with validation
+        time_ms = props.get('time')
+        if time_ms and time_ms > 0:
+            published = datetime.fromtimestamp(time_ms / 1000, tz=timezone.utc)
+        else:
+            published = self.now  # Fallback to fetch time if timestamp invalid
         
         story = Story(
             id=hashlib.sha256(f"{props.get('ids', '')}|usgs".encode()).hexdigest()[:16],
