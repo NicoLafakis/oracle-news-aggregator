@@ -1,0 +1,203 @@
+# Oracle News Aggregator Configuration
+# The 100 Searches - Curated keyword combinations for tracking signals that matter
+
+# Categories and their NewsAPI searches (100 total, using full daily quota)
+searches:
+
+  ai_machine_intelligence:
+    name: "AI & Machine Intelligence"
+    count: 12
+    queries:
+      - "AI model release benchmark"
+      - "AI inference cost pricing"
+      - "AI lab hiring layoffs"
+      - "enterprise AI adoption deployment"
+      - "AI reasoning breakthrough"
+      - "AI agent autonomous"
+      - "AI regulation legislation passed"
+      - "AI safety alignment research"
+      - "foundation model training compute"
+      - "AI revenue earnings"
+      - "synthetic data training"
+      - "open source AI model release"
+
+  robotics_automation:
+    name: "Robotics & Physical Automation"
+    count: 6
+    queries:
+      - "humanoid robot production manufacturing"
+      - "robot cost price unit"
+      - "warehouse automation deployment"
+      - "autonomous vehicle approval deployment"
+      - "robot dexterity manipulation"
+      - "industrial automation orders"
+
+  semiconductors_compute:
+    name: "Semiconductors & Compute"
+    count: 6
+    queries:
+      - "chip fab construction investment"
+      - "GPU shortage supply"
+      - "semiconductor export controls"
+      - "TSMC Intel Samsung foundry"
+      - "AI chip startup funding"
+      - "energy data center power"
+
+  energy_resources:
+    name: "Energy & Resources"
+    count: 8
+    queries:
+      - "solar cost record low"
+      - "battery storage price"
+      - "nuclear plant approval construction"
+      - "fusion energy milestone"
+      - "oil production OPEC supply"
+      - "grid infrastructure investment"
+      - "critical mineral lithium cobalt"
+      - "energy demand growth forecast"
+
+  macroeconomics_finance:
+    name: "Macroeconomics & Finance"
+    count: 12
+    queries:
+      - "Federal Reserve interest rate decision"
+      - "inflation CPI data"
+      - "recession indicators yield curve"
+      - "sovereign debt crisis"
+      - "bank failure stress"
+      - "corporate debt default"
+      - "housing market prices inventory"
+      - "unemployment claims jobs report"
+      - "venture capital funding rounds"
+      - "IPO market activity"
+      - "cryptocurrency regulation adoption"
+      - "central bank digital currency CBDC"
+
+  geopolitics_security:
+    name: "Geopolitics & Security"
+    count: 12
+    queries:
+      - "US China relations tensions"
+      - "Taiwan strait military"
+      - "Russia NATO Ukraine"
+      - "Middle East conflict escalation"
+      - "nuclear weapons proliferation"
+      - "sanctions imposed lifted"
+      - "military spending defense budget"
+      - "cyber attack infrastructure"
+      - "alliance treaty agreement"
+      - "territorial dispute claims"
+      - "arms deal weapons sale"
+      - "coup election interference"
+
+  politics_governance:
+    name: "Politics & Governance"
+    count: 8
+    queries:
+      - "election results polling"
+      - "legislation passed bill signed"
+      - "Supreme Court ruling decision"
+      - "protest demonstration movement"
+      - "populist party gains"
+      - "regulatory agency action"
+      - "executive order policy"
+      - "constitutional crisis challenge"
+
+  labor_employment:
+    name: "Labor & Employment"
+    count: 6
+    queries:
+      - "layoffs job cuts announced"
+      - "automation replacing jobs workers"
+      - "union strike labor action"
+      - "wage growth increase"
+      - "remote work policy return office"
+      - "skills gap training workforce"
+
+  demographics_migration:
+    name: "Demographics & Migration"
+    count: 5
+    queries:
+      - "birth rate fertility decline"
+      - "immigration policy border"
+      - "aging population retirement"
+      - "urbanization migration cities"
+      - "brain drain talent migration"
+
+  health_biotech:
+    name: "Health & Biotech"
+    count: 7
+    queries:
+      - "pandemic outbreak disease"
+      - "drug approval FDA breakthrough"
+      - "longevity aging research"
+      - "mental health crisis"
+      - "healthcare costs spending"
+      - "gene therapy CRISPR trial"
+      - "antibiotic resistance superbug"
+
+  climate_environment:
+    name: "Climate & Environment"
+    count: 6
+    queries:
+      - "extreme weather disaster damage"
+      - "climate policy carbon emissions"
+      - "drought water shortage"
+      - "crop yield harvest agriculture"
+      - "species extinction biodiversity"
+      - "sea level rise flooding"
+
+  space_frontier:
+    name: "Space & Frontier"
+    count: 4
+    queries:
+      - "SpaceX Starship launch"
+      - "satellite constellation deployment"
+      - "space station commercial"
+      - "asteroid mining resource"
+
+  media_information_trust:
+    name: "Media, Information & Trust"
+    count: 5
+    queries:
+      - "misinformation disinformation campaign"
+      - "social media platform policy"
+      - "trust institutions polling"
+      - "journalism media layoffs"
+      - "deepfake synthetic media"
+
+  culture_social:
+    name: "Culture & Social Dynamics"
+    count: 5
+    queries:
+      - "consumer confidence sentiment"
+      - "social movement activism"
+      - "generational trends Gen Z"
+      - "religious trends affiliation"
+      - "education trends enrollment"
+
+# Total: 102 searches (slightly over 100, will stop at limit)
+
+# Deduplication settings
+deduplication:
+  similarity_threshold: 0.75
+  title_history_size: 5000
+  max_manifest_titles: 10000
+
+# Free supplementary sources (no API limits)
+supplementary_sources:
+  gdelt:
+    enabled: true
+    max_records_per_query: 100
+    
+  usgs:
+    enabled: true
+    min_magnitude: 4.0
+    
+  rss:
+    enabled: true
+
+# Schedule (actual schedule in GitHub workflow)
+schedule:
+  cron: "0 0 * * *"  # Daily at midnight UTC
+  lookback_hours: 24
