@@ -41,15 +41,20 @@ export default function OraclePage() {
         })
       })
 
-      if (!response.ok) throw new Error('Failed to get response')
+      if (!response.ok) {
+        // Try to get the error message from the response
+        const errorData = await response.json().catch(() => ({}))
+        throw new Error(errorData.error || 'Failed to get response')
+      }
 
       const data = await response.json()
       setMessages(prev => [...prev, { role: 'assistant', content: data.content }])
     } catch (error) {
       console.error('Error:', error)
+      const errorMessage = error instanceof Error ? error.message : 'The threads are obscured. Please try again.'
       setMessages(prev => [...prev, {
         role: 'assistant',
-        content: 'The threads are obscured. Please try again.'
+        content: errorMessage
       }])
     } finally {
       setIsLoading(false)
