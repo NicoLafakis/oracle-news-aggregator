@@ -12,6 +12,7 @@ export default function OraclePage() {
   const [messages, setMessages] = useState<Message[]>([])
   const [input, setInput] = useState('')
   const [isLoading, setIsLoading] = useState(false)
+  const [streamingContent, setStreamingContent] = useState('')
   const messagesEndRef = useRef<HTMLDivElement>(null)
   const inputRef = useRef<HTMLTextAreaElement>(null)
 
@@ -21,7 +22,7 @@ export default function OraclePage() {
 
   useEffect(() => {
     scrollToBottom()
-  }, [messages])
+  }, [messages, streamingContent])
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
@@ -31,6 +32,7 @@ export default function OraclePage() {
     setInput('')
     setMessages(prev => [...prev, { role: 'user', content: userMessage }])
     setIsLoading(true)
+    setStreamingContent('')
 
     try {
       const response = await fetch('/api/chat', {
@@ -47,15 +49,56 @@ export default function OraclePage() {
         throw new Error(errorData.error || 'Failed to get response')
       }
 
-      const data = await response.json()
-      setMessages(prev => [...prev, { role: 'assistant', content: data.content }])
+      // Handle streaming response
+      const reader = response.body?.getReader()
+      if (!reader) {
+        throw new Error('No response body')
+      }
+
+      const decoder = new TextDecoder()
+      let accumulatedContent = ''
+
+      while (true) {
+        const { done, value } = await reader.read()
+        if (done) break
+
+        const chunk = decoder.decode(value, { stream: true })
+        const lines = chunk.split('\n')
+
+        for (const line of lines) {
+          if (line.startsWith('data: ')) {
+            const data = line.slice(6)
+
+            if (data === '[DONE]') {
+              // Stream complete - add to messages
+              setMessages(prev => [...prev, { role: 'assistant', content: accumulatedContent }])
+              setStreamingContent('')
+              break
+            }
+
+            try {
+              const parsed = JSON.parse(data)
+              if (parsed.error) {
+                throw new Error(parsed.error)
+              }
+              if (parsed.text) {
+                accumulatedContent += parsed.text
+                setStreamingContent(accumulatedContent)
+              }
+            } catch (parseError) {
+              // Skip non-JSON lines
+            }
+          }
+        }
+      }
     } catch (error) {
       console.error('Error:', error)
-      const errorMessage = error instanceof Error ? error.message : 'The threads are obscured. Please try again.'
+      const errorMessage = error instanceof Error ? error.message : 'The patterns are unclear. Please try again.'
       setMessages(prev => [...prev, {
         role: 'assistant',
         content: errorMessage
       }])
+      setStreamingContent('')
     } finally {
       setIsLoading(false)
     }
@@ -85,7 +128,7 @@ export default function OraclePage() {
       {/* Chat Area */}
       <main className="flex-1 overflow-y-auto">
         <div className="max-w-4xl mx-auto px-4 py-6">
-          {messages.length === 0 ? (
+          {messages.length === 0 && !streamingContent ? (
             <div className="text-center py-20">
               <div className="text-6xl mb-6">🔮</div>
               <h2 className="text-xl text-oracle-gold mb-4">Ask The Oracle</h2>
@@ -136,7 +179,18 @@ export default function OraclePage() {
                 </div>
               ))}
 
-              {isLoading && (
+              {/* Streaming message */}
+              {streamingContent && (
+                <div className="message-enter">
+                  <div className="max-w-[85%] rounded-lg px-4 py-3 bg-black/40 border border-gray-700 oracle-message">
+                    <ReactMarkdown>{streamingContent}</ReactMarkdown>
+                    <span className="inline-block w-2 h-4 bg-oracle-gold/70 animate-pulse ml-1" />
+                  </div>
+                </div>
+              )}
+
+              {/* Loading indicator (before streaming starts) */}
+              {isLoading && !streamingContent && (
                 <div className="message-enter">
                   <div className="bg-black/40 border border-gray-700 rounded-lg px-4 py-3 inline-block">
                     <div className="flex space-x-2">

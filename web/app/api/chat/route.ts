@@ -1,5 +1,5 @@
 import Anthropic from '@anthropic-ai/sdk'
-import { NextRequest, NextResponse } from 'next/server'
+import { NextRequest } from 'next/server'
 import { ORACLE_SYSTEM_PROMPT } from '@/lib/oracle-context'
 
 const anthropic = new Anthropic({
@@ -11,13 +11,14 @@ export async function POST(request: NextRequest) {
     const { messages } = await request.json()
 
     if (!messages || !Array.isArray(messages)) {
-      return NextResponse.json(
-        { error: 'Messages array required' },
-        { status: 400 }
+      return new Response(
+        JSON.stringify({ error: 'Messages array required' }),
+        { status: 400, headers: { 'Content-Type': 'application/json' } }
       )
     }
 
-    const response = await anthropic.messages.create({
+    // Create streaming response
+    const stream = await anthropic.messages.stream({
       model: 'claude-sonnet-4-20250514',
       max_tokens: 4096,
       system: ORACLE_SYSTEM_PROMPT,
@@ -27,45 +28,75 @@ export async function POST(request: NextRequest) {
       })),
     })
 
-    const content = response.content[0]
-    if (content.type !== 'text') {
-      throw new Error('Unexpected response type')
-    }
+    // Create a ReadableStream that emits Server-Sent Events
+    const encoder = new TextEncoder()
+    const readableStream = new ReadableStream({
+      async start(controller) {
+        try {
+          for await (const event of stream) {
+            if (event.type === 'content_block_delta') {
+              const delta = event.delta
+              if ('text' in delta) {
+                // Send the text chunk as an SSE event
+                const sseMessage = `data: ${JSON.stringify({ text: delta.text })}\n\n`
+                controller.enqueue(encoder.encode(sseMessage))
+              }
+            }
+          }
+          // Send completion event
+          controller.enqueue(encoder.encode('data: [DONE]\n\n'))
+          controller.close()
+        } catch (error) {
+          console.error('Stream error:', error)
+          const errorMessage = getErrorMessage(error)
+          controller.enqueue(encoder.encode(`data: ${JSON.stringify({ error: errorMessage })}\n\n`))
+          controller.close()
+        }
+      },
+    })
 
-    return NextResponse.json({ content: content.text })
+    return new Response(readableStream, {
+      headers: {
+        'Content-Type': 'text/event-stream',
+        'Cache-Control': 'no-cache',
+        'Connection': 'keep-alive',
+      },
+    })
   } catch (error) {
     console.error('Oracle API Error:', error)
+    const errorMessage = getErrorMessage(error)
+    const statusCode = getStatusCode(error)
 
-    // Extract meaningful error message for debugging
-    let errorMessage = 'Failed to consult The Oracle'
-    let statusCode = 500
-
-    if (error instanceof Error) {
-      // Check for Anthropic API specific errors
-      const err = error as Error & { status?: number; error?: { type?: string; message?: string } }
-
-      if (err.status === 400 && err.error?.type === 'invalid_request_error') {
-        // Token limit or request size error
-        errorMessage = 'The knowledge web is too vast for a single query. Please try a more specific question.'
-        statusCode = 400
-      } else if (err.status === 401) {
-        errorMessage = 'Oracle authentication failed. Please check API configuration.'
-        statusCode = 401
-      } else if (err.status === 429) {
-        errorMessage = 'The Oracle is overwhelmed with requests. Please wait a moment and try again.'
-        statusCode = 429
-      } else if (err.message.includes('token') || err.message.includes('context length')) {
-        errorMessage = 'The query exceeds the Oracle\'s capacity. Please ask a simpler question.'
-        statusCode = 400
-      } else {
-        // Log the full error for debugging
-        console.error('Full error details:', JSON.stringify(err, null, 2))
-      }
-    }
-
-    return NextResponse.json(
-      { error: errorMessage },
-      { status: statusCode }
+    return new Response(
+      JSON.stringify({ error: errorMessage }),
+      { status: statusCode, headers: { 'Content-Type': 'application/json' } }
     )
   }
+}
+
+function getErrorMessage(error: unknown): string {
+  if (error instanceof Error) {
+    const err = error as Error & { status?: number; error?: { type?: string; message?: string } }
+
+    if (err.status === 400 && err.error?.type === 'invalid_request_error') {
+      return 'The knowledge web is too vast for a single query. Please try a more specific question.'
+    } else if (err.status === 401) {
+      return 'Oracle authentication failed. Please check API configuration.'
+    } else if (err.status === 429) {
+      return 'The Oracle is overwhelmed with requests. Please wait a moment and try again.'
+    } else if (err.message.includes('token') || err.message.includes('context length')) {
+      return 'The query exceeds the Oracle\'s capacity. Please ask a simpler question.'
+    }
+  }
+  return 'Failed to consult The Oracle'
+}
+
+function getStatusCode(error: unknown): number {
+  if (error instanceof Error) {
+    const err = error as Error & { status?: number; error?: { type?: string } }
+    if (err.status === 400 && err.error?.type === 'invalid_request_error') return 400
+    if (err.status === 401) return 401
+    if (err.status === 429) return 429
+  }
+  return 500
 }
