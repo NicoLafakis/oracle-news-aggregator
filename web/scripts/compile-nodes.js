@@ -18,9 +18,9 @@ if (fs.existsSync(systemPromptPath)) {
   console.warn('Warning: System prompt not found at', systemPromptPath)
 }
 
-// Read all node files and extract summaries
-let nodeIndex = []
-let nodeCount = 0
+// Read all node files and extract event summaries
+let eventIndex = []
+let eventCount = 0
 
 if (fs.existsSync(nodesDir)) {
   const files = fs.readdirSync(nodesDir)
@@ -33,28 +33,31 @@ if (fs.existsSync(nodesDir)) {
     if (fs.statSync(filePath).isDirectory()) continue
 
     const content = fs.readFileSync(filePath, 'utf-8')
-    // Extract node ID and title from filename and content
-    const nodeIdMatch = file.match(/node_(n\d+)/)
-    const titleMatch = content.match(/^#\s*(.+?)(?:\s*[-–—]\s*|\n)/m)
 
-    if (nodeIdMatch) {
-      nodeIndex.push({
-        id: nodeIdMatch[1].toUpperCase(),
-        title: titleMatch ? titleMatch[1].trim() : file.replace('.md', ''),
+    // Extract title from content (removing any N### prefix)
+    const titleMatch = content.match(/^#\s*(?:Node\s+N\d+:\s*)?(.+?)(?:\s*[-–—]\s*|\n)/m)
+
+    if (titleMatch) {
+      // Clean up the title - remove any remaining node references
+      let title = titleMatch[1].trim()
+      title = title.replace(/^Node\s+N\d+:\s*/i, '')
+
+      eventIndex.push({
+        title: title,
         file: file
       })
     }
-    nodeCount++
+    eventCount++
   }
-  console.log(`Indexed ${nodeCount} oracle nodes`)
+  console.log(`Indexed ${eventCount} tracked events`)
 } else {
-  console.warn('Warning: Nodes directory not found at', nodesDir)
+  console.warn('Warning: Events directory not found at', nodesDir)
 }
 
-// Create a compact node index for the system prompt
-const nodeIndexText = nodeIndex
-  .slice(0, 50) // Include up to 50 key nodes in the index
-  .map(n => `- **${n.id}**: ${n.title}`)
+// Create a compact event summary for the system prompt (just titles, no IDs)
+const eventSummary = eventIndex
+  .slice(0, 50) // Include up to 50 key events in the summary
+  .map(e => `- ${e.title}`)
   .join('\n')
 
 // Combine into compact context
@@ -62,15 +65,15 @@ const fullContext = `${systemPrompt}
 
 ---
 
-# ORACLE NODE INDEX (${nodeCount} nodes available)
+# KNOWLEDGE BASE (${eventCount} tracked events)
 
-The following are key reference nodes in your knowledge web:
+Your knowledge web includes documented events and their ripple effects. Key events you can draw upon:
 
-${nodeIndexText}
+${eventSummary}
 
 ---
 
-Remember: You are The Oracle. Use your analytical principles to identify patterns and assess probabilities. When citing nodes, reference them by their IDs (e.g., N1, N5, N22). Draw upon your knowledge to illuminate connections and implications.
+Remember: You are The Oracle. Use your analytical principles to identify patterns and assess probabilities. When discussing events, describe them naturally by their content—never reference internal identifiers or codes. Walk users through the ripple effects and help them understand the connections.
 `
 
 // Verify size is within limits
@@ -87,7 +90,7 @@ if (!fs.existsSync(libDir)) {
 // Write as TypeScript module
 const tsContent = `// Auto-generated Oracle context - DO NOT EDIT
 // Generated at: ${new Date().toISOString()}
-// Nodes loaded: ${nodeCount}
+// Events loaded: ${eventCount}
 
 export const ORACLE_SYSTEM_PROMPT = ${JSON.stringify(fullContext)};
 `
