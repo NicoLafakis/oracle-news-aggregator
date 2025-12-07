@@ -17,6 +17,11 @@ BASE_DIR = Path(__file__).parent.parent
 STORIES_DIR = BASE_DIR / "oracle" / "stories" / "2025"
 NODES_DIR = BASE_DIR / "oracle" / "oracle-nodes"
 
+# Constants
+MAX_TITLE_LENGTH = 85
+TRUNCATED_TITLE_LENGTH = 82
+MAX_NODES_PER_RUN = 200  # Limit to prevent overwhelming the knowledge base in a single run
+
 # Get the highest existing node number
 def get_highest_node_number():
     """Find the highest numbered node in oracle-nodes directory"""
@@ -193,8 +198,8 @@ def generate_node_content(node_num, story):
     
     # Clean up title - remove extra spaces and truncate
     title = re.sub(r'\s+', ' ', title).strip()
-    if len(title) > 85:
-        title = title[:82] + "..."
+    if len(title) > MAX_TITLE_LENGTH:
+        title = title[:TRUNCATED_TITLE_LENGTH] + "..."
     
     # Generate filename-safe title
     safe_title = re.sub(r'[^\w\s-]', '', title.lower())
@@ -409,11 +414,12 @@ def main():
         nodes_created += 1
         current_node_num += 1
         
-        # Process ALL stories, but break if we hit a reasonable limit
-        # The problem says to continue until all stories processed
-        # But let's be reasonable and cap at 200 nodes
-        if nodes_created >= 200:
-            print(f"\n  Reached limit of 200 nodes. Stopping.")
+        # Limit nodes per run to maintain manageable batch sizes
+        # This allows for iterative refinement and prevents overwhelming the knowledge base
+        # The script can be run multiple times to process all stories
+        if nodes_created >= MAX_NODES_PER_RUN:
+            print(f"\n  Reached limit of {MAX_NODES_PER_RUN} nodes per run. Stopping.")
+            print(f"  Run the script again to continue processing remaining stories.")
             break
     
     print("\n" + "=" * 70)
