@@ -1,0 +1,263 @@
+{
+  "date": "2025-12-07",
+  "total_stories": 35,
+  "by_category": {
+    "geopolitics_security": 5,
+    "macroeconomics_finance": 8,
+    "energy_resources": 4,
+    "politics_governance": 7,
+    "labor_employment": 2,
+    "robotics_automation": 3,
+    "semiconductors_compute": 1,
+    "geological_events": 3,
+    "ai_machine_intelligence": 1,
+    "health_biotech": 1
+  },
+  "stories": [
+    {
+      "id": "67a56265228a32ed",
+      "title": "\ud5e4\uadf8\uc138\uc2a4 \u7f8e \uad6d\ubc29  \u97d3 \uac19\uc740  \ubaa8\ubc94\ub3d9\ub9f9  \uc740 \ud2b9\ud61c , \uc81c \uc5ed\ud560 \ubabb\ud558\ub294 \ub3d9\ub9f9\uc5d4 \ubd88\uc774\uc775  ",
+      "category": "geopolitics_security",
+      "source": "biz.heraldcorp.com",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "76133c89e20523a9",
+      "title": "Un sat\u00e9lite polic\u00eda , m\u00e1s arsenales y personal : el Ej\u00e9rcito del Aire se refuerza para el futuro",
+      "category": "geopolitics_security",
+      "source": "elmundo.es",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "5299f713e0dc7770",
+      "title": "Zelenskyy addresses Ireland parliament on state visit",
+      "category": "geopolitics_security",
+      "source": "bostonstar.com",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "ae232d666f21aec3",
+      "title": "Presidential Message on the Eighth Anniversary of Recognizing Jerusalem as the Capital of the State of Israel",
+      "category": "geopolitics_security",
+      "source": "whitehouse.gov",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "8e182f975f739513",
+      "title": "Hegseth defends strikes on alleged cartel boats , says Trump can order use of force  as he sees fit  ",
+      "category": "geopolitics_security",
+      "source": "ksat.com",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "b61bf943b957a3d5",
+      "title": " [ \uc8fc\uac04\uae08\uc735\uc774\uc288 ]  \u7f8e \uae30\uc900\uae08\ub9ac \uc778\ud558 \uac00\ub2a5\uc131 89 %... \ud658\uc728 \uc0c1\uc2b9\uc138 \uaebe\uc774\ub098",
+      "category": "macroeconomics_finance",
+      "source": "newspim.com",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "cdc431cd6318cc22",
+      "title": "All 10 Epic Twist Endings Of The Saw Franchise , Ranked",
+      "category": "macroeconomics_finance",
+      "source": "slashfilm.com",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "cc7382d091a292aa",
+      "title": "Used Cars to Avoid : Smart Buyers Beware These Problematic Models",
+      "category": "macroeconomics_finance",
+      "source": "topspeed.com",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "2e6d48c5c5335162",
+      "title": "Ukraine will  keep working in good faith  to achieve peace , says Zelensky",
+      "category": "energy_resources",
+      "source": "halesowennews.co.uk",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "831bcdd86d4e13e5",
+      "title": "Ukraine peace talks stall as Russia unleashes huge waves of attacks",
+      "category": "energy_resources",
+      "source": "aljazeera.com",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "3a63518a10cf0615",
+      "title": "Pipe bomb suspect was  disappointed  in 2020 election results , US attorney says",
+      "category": "politics_governance",
+      "source": "gowatertown.net",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "8d4848a8b5998f97",
+      "title": "Homegrown terrorism never truly disappeared : Omar",
+      "category": "politics_governance",
+      "source": "dailyexcelsior.com",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "ff7f048f430a18d7",
+      "title": "Falta de seguran\u00e7a suspendeu manifestaes na Venezuela , mas a luta saiu para a rua no Funchal",
+      "category": "politics_governance",
+      "source": "expresso.pt",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "a8e465990eef360b",
+      "title": "Evangelical Church claims its decisive role in Honduran elections",
+      "category": "politics_governance",
+      "source": "christianpost.com",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "9c910682c0c0af62",
+      "title": "  La gente no es tonta : los republicanos temen que el encarecimiento de la vida les cueste las pr\u00f3ximas elecciones",
+      "category": "politics_governance",
+      "source": "telemundo.com",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "788616a4e0e022d5",
+      "title": "Activists Throw Custard Over Case Containing united kingdom Crown Jewels",
+      "category": "politics_governance",
+      "source": "alt1045.iheart.com",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "b44e0b67429e5e31",
+      "title": "PDV dos Correios quer cortar 15 mil funcion\u00e1rios at\u00e9 2027",
+      "category": "labor_employment",
+      "source": "bemparana.com.br",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "57b56d634761aef1",
+      "title": "Tunisians protest anew against Saied crackdown on opposition",
+      "category": "labor_employment",
+      "source": "middle-east-online.com",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "f7aa0c3327f15d90",
+      "title": "Waymo will recall software after its self - driving cars passed stopped school buses",
+      "category": "robotics_automation",
+      "source": "ualrpublicradio.org",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "1fa1d624e8ce5163",
+      "title": "Should You Buy Navitas Semiconductor Stock Before 2026 ? ",
+      "category": "semiconductors_compute",
+      "source": "fool.com",
+      "published_at": "20251206T234500Z"
+    },
+    {
+      "id": "da76dae7e9fd5600",
+      "title": "M 4.1 - 71 km N of Yakutat, Alaska",
+      "category": "geological_events",
+      "source": "USGS",
+      "published_at": "2025-12-07T00:14:46+00:00"
+    },
+    {
+      "id": "fdbab09003af72e6",
+      "title": "M 4.8 - 11 km E of Chalandr\u00edtsa, Greece",
+      "category": "geological_events",
+      "source": "USGS",
+      "published_at": "2025-12-06T20:48:08.219000+00:00"
+    },
+    {
+      "id": "f1fcd5e39fb9e420",
+      "title": "M 7.0 - 2025 Hubbard Glacier Earthquake",
+      "category": "geological_events",
+      "source": "USGS",
+      "published_at": "2025-12-06T20:41:49.217000+00:00"
+    },
+    {
+      "id": "02a74b6e593a6ba8",
+      "title": "Pat Gelsinger wants to save Moore\u2019s Law, with a little help from the Feds",
+      "category": "ai_machine_intelligence",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published_at": "2025-12-07T00:18:51+00:00"
+    },
+    {
+      "id": "a3d7603b7758b8e8",
+      "title": "How robots learn to handle the heat with synthetic data",
+      "category": "robotics_automation",
+      "source": "The Robot Report",
+      "published_at": "2025-12-06T16:57:14+00:00"
+    },
+    {
+      "id": "ee356828ddc42a1e",
+      "title": "Hyundai Motor Group unveils its first mass-produced mobility robot platform",
+      "category": "robotics_automation",
+      "source": "The Robot Report",
+      "published_at": "2025-12-06T13:30:39+00:00"
+    },
+    {
+      "id": "b5f1afe3fa7976c0",
+      "title": "Why Simple Fuels Win at Sea: Assessing LNG SOFCs, Hydrogen, Sails, and CCS Against Practical Needs",
+      "category": "energy_resources",
+      "source": "CleanTechnica",
+      "published_at": "2025-12-06T19:48:04+00:00"
+    },
+    {
+      "id": "20c57c60079c5d67",
+      "title": "New Bio-Inspired \u201cSuper Bricks\u201d Sucks Up Carbon",
+      "category": "energy_resources",
+      "source": "CleanTechnica",
+      "published_at": "2025-12-06T19:30:46+00:00"
+    },
+    {
+      "id": "4169b25abe22033f",
+      "title": "Wall Street Bets Chinese Stocks Will Extend $2.4 Trillion Rally",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2025-12-07T00:00:00+00:00"
+    },
+    {
+      "id": "68ad4221aa5ad448",
+      "title": "Hegseth Speaks at Reagan National Defense Forum",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2025-12-06T21:45:11+00:00"
+    },
+    {
+      "id": "ab0536d46b15be3b",
+      "title": "Powell on Track for Fed Rate Cut Despite Some Dissent",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2025-12-06T21:00:00+00:00"
+    },
+    {
+      "id": "82ab2dc1e7ffc40e",
+      "title": "US Loses Financing Edge as Asia Borrows in Euros: Credit Weekly",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2025-12-06T18:25:28+00:00"
+    },
+    {
+      "id": "feb003dbd2160e98",
+      "title": "US defence secretary says Monroe Doctrine is \u2018stronger than ever\u2019",
+      "category": "macroeconomics_finance",
+      "source": "UK homepage",
+      "published_at": "2025-12-06T23:06:50+00:00"
+    },
+    {
+      "id": "7f30821a30f088e2",
+      "title": "National parks fee-free calendar drops MLK Day, Juneteenth and adds Trump's birthday",
+      "category": "politics_governance",
+      "source": "NPR Topics: Politics",
+      "published_at": "2025-12-06T22:20:24+00:00"
+    },
+    {
+      "id": "d6133b2fa90a3ffc",
+      "title": "STAT+: \u2018Remarkable\u2019 drug results against an aggressive leukemia",
+      "category": "health_biotech",
+      "source": "STAT",
+      "published_at": "2025-12-06T20:26:30+00:00"
+    }
+  ]
+}
