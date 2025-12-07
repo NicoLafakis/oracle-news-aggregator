@@ -6,6 +6,9 @@ const nodesDir = path.join(__dirname, '..', '..', 'oracle', 'oracle-nodes')
 const systemPromptPath = path.join(__dirname, '..', '..', 'oracle', 'ORACLE_SYSTEM_PROMPT.md')
 const outputPath = path.join(__dirname, '..', 'lib', 'oracle-context.ts')
 
+// Maximum size for the system prompt (characters) - keep well under token limits
+const MAX_CONTEXT_SIZE = 100000 // ~25k tokens max
+
 // Read the system prompt
 let systemPrompt = ''
 if (fs.existsSync(systemPromptPath)) {
@@ -15,8 +18,8 @@ if (fs.existsSync(systemPromptPath)) {
   console.warn('Warning: System prompt not found at', systemPromptPath)
 }
 
-// Read all node files
-let nodesContent = ''
+// Read all node files and extract summaries
+let nodeIndex = []
 let nodeCount = 0
 
 if (fs.existsSync(nodesDir)) {
@@ -30,29 +33,50 @@ if (fs.existsSync(nodesDir)) {
     if (fs.statSync(filePath).isDirectory()) continue
 
     const content = fs.readFileSync(filePath, 'utf-8')
-    nodesContent += `\n\n---\n\n${content}`
+    // Extract node ID and title from filename and content
+    const nodeIdMatch = file.match(/node_(n\d+)/)
+    const titleMatch = content.match(/^#\s*(.+?)(?:\s*[-–—]\s*|\n)/m)
+
+    if (nodeIdMatch) {
+      nodeIndex.push({
+        id: nodeIdMatch[1].toUpperCase(),
+        title: titleMatch ? titleMatch[1].trim() : file.replace('.md', ''),
+        file: file
+      })
+    }
     nodeCount++
   }
-  console.log(`Loaded ${nodeCount} oracle nodes`)
+  console.log(`Indexed ${nodeCount} oracle nodes`)
 } else {
   console.warn('Warning: Nodes directory not found at', nodesDir)
 }
 
-// Combine into full context
+// Create a compact node index for the system prompt
+const nodeIndexText = nodeIndex
+  .slice(0, 50) // Include up to 50 key nodes in the index
+  .map(n => `- **${n.id}**: ${n.title}`)
+  .join('\n')
+
+// Combine into compact context
 const fullContext = `${systemPrompt}
 
 ---
 
-# ORACLE KNOWLEDGE WEB
+# ORACLE NODE INDEX (${nodeCount} nodes available)
 
-The following are the verified nodes in The Oracle's knowledge web. Use these to inform your assessments and trace causal threads.
+The following are key reference nodes in your knowledge web:
 
-${nodesContent}
+${nodeIndexText}
 
 ---
 
-Remember: You are The Oracle. Draw upon this knowledge web to illuminate patterns and assess probabilities. Always cite relevant nodes when making assessments.
+Remember: You are The Oracle. Use your analytical principles to identify patterns and assess probabilities. When citing nodes, reference them by their IDs (e.g., N1, N5, N22). Draw upon your knowledge to illuminate connections and implications.
 `
+
+// Verify size is within limits
+if (fullContext.length > MAX_CONTEXT_SIZE) {
+  console.warn(`Warning: Context size (${fullContext.length}) exceeds recommended maximum (${MAX_CONTEXT_SIZE})`)
+}
 
 // Ensure lib directory exists
 const libDir = path.dirname(outputPath)
