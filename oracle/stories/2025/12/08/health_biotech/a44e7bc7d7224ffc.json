@@ -1,0 +1,24 @@
+{
+  "id": "a44e7bc7d7224ffc",
+  "title": "STAT+: Is AI ready to interpret chest X-rays without human supervision?",
+  "description": "In radiology, an early adopter of health AI, a debate is brewing: Should generative AI models interpret medical images on their own?",
+  "content": "In radiology, an early adopter of health AI, a debate is brewing: Should generative AI models interpret medical images on their own?",
+  "source": "STAT",
+  "source_url": "https://www.statnews.com/2025/12/08/can-ai-interpret-chest-xrays-without-supervision/?utm_campaign=rss",
+  "published_at": "2025-12-08T09:30:00+00:00",
+  "fetched_at": "2025-12-09T00:22:19.510482+00:00",
+  "category": "health_biotech",
+  "subcategory": null,
+  "keywords": [
+    "model",
+    "ai"
+  ],
+  "location": null,
+  "raw_data": {
+    "title": "STAT+: Is AI ready to interpret chest X-rays without human supervision?",
+    "description": "In radiology, an early adopter of health AI, a debate is brewing: Should generative AI models interpret medical images on their own?",
+    "url": "https://www.statnews.com/2025/12/08/can-ai-interpret-chest-xrays-without-supervision/?utm_campaign=rss",
+    "published": "2025-12-08T09:30:00+00:00",
+    "source": "STAT"
+  }
+}

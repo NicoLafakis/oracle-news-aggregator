@@ -1,0 +1,24 @@
+{
+  "id": "fd972d02a8f4390a",
+  "title": "KBS \ub274\uc2a4",
+  "description": "20251208T193000Z",
+  "content": "",
+  "source": "news.kbs.co.kr",
+  "source_url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8428048",
+  "published_at": "20251208T193000Z",
+  "fetched_at": "2025-12-09T00:22:19.510482+00:00",
+  "category": "macroeconomics_finance",
+  "subcategory": null,
+  "keywords": [],
+  "location": "South Korea",
+  "raw_data": {
+    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8428048",
+    "url_mobile": "",
+    "title": "KBS \ub274\uc2a4",
+    "seendate": "20251208T193000Z",
+    "socialimage": "http://news.kbs.co.kr/data/news/2025/12/09/20251209_ndRIMp.jpg",
+    "domain": "news.kbs.co.kr",
+    "language": "Korean",
+    "sourcecountry": "South Korea"
+  }
+}

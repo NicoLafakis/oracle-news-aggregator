@@ -1,0 +1,27 @@
+{
+  "id": "f2b82ca2eb2fecc0",
+  "title": "Trump anuncia que autorizar\u00e1 la venta a China de los semiconductores de IA de Nvidia",
+  "description": "20251208T224500Z",
+  "content": "",
+  "source": "elmundo.es",
+  "source_url": "https://www.elmundo.es/economia/2025/12/08/69374c90e9cf4afc468b457a.html",
+  "published_at": "20251208T224500Z",
+  "fetched_at": "2025-12-09T00:22:19.510482+00:00",
+  "category": "semiconductors_compute",
+  "subcategory": null,
+  "keywords": [
+    "semiconductor",
+    "china"
+  ],
+  "location": "Spain",
+  "raw_data": {
+    "url": "https://www.elmundo.es/economia/2025/12/08/69374c90e9cf4afc468b457a.html",
+    "url_mobile": "https://amp.elmundo.es/economia/2025/12/08/69374c90e9cf4afc468b457a.html",
+    "title": "Trump anuncia que autorizar\u00e1 la venta a China de los semiconductores de IA de Nvidia",
+    "seendate": "20251208T224500Z",
+    "socialimage": "https://phantom-elmundo.uecdn.es/ec7dec7ab38a900114dc57ea4f99066d/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/08/17652317042427.jpg",
+    "domain": "elmundo.es",
+    "language": "Spanish",
+    "sourcecountry": "Spain"
+  }
+}
