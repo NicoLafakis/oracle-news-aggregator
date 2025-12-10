@@ -1,0 +1,28 @@
+{
+  "id": "201ec021772faa65",
+  "title": "Trump gives Nvidia the OK to sell advanced AI chips to China",
+  "description": "20251209T073000Z",
+  "content": "",
+  "source": "bbc.co.uk",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckg9q635q6po",
+  "published_at": "20251209T073000Z",
+  "fetched_at": "2025-12-10T00:22:54.894572+00:00",
+  "category": "semiconductors_compute",
+  "subcategory": null,
+  "keywords": [
+    "china",
+    "chip",
+    "ai"
+  ],
+  "location": "United Kingdom",
+  "raw_data": {
+    "url": "https://www.bbc.co.uk/news/articles/ckg9q635q6po",
+    "url_mobile": "https://www.bbc.co.uk/news/articles/ckg9q635q6po.amp",
+    "title": "Trump gives Nvidia the OK to sell advanced AI chips to China",
+    "seendate": "20251209T073000Z",
+    "socialimage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e67/live/7cbfa1e0-d493-11f0-aff6-df14a823a605.jpg",
+    "domain": "bbc.co.uk",
+    "language": "English",
+    "sourcecountry": "United Kingdom"
+  }
+}
