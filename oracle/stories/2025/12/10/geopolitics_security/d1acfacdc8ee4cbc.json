@@ -1,0 +1,24 @@
+{
+  "id": "d1acfacdc8ee4cbc",
+  "title": "News1 | \u05d1\u05d9\u05ea \u05d4\u05de\u05d7\u05d5\u05e7\u05e7\u05d9\u05dd \u05de\u05d5\u05dc \u05e9\u05dc\u05d8\u05d5\u05df \u05d4\u05e9\u05d5\u05e4\u05d8\u05d9\u05dd",
+  "description": "20251210T114500Z",
+  "content": "",
+  "source": "news1.co.il",
+  "source_url": "https://www.news1.co.il/Archive/0026-D-174643-00.html",
+  "published_at": "20251210T114500Z",
+  "fetched_at": "2025-12-11T00:23:03.006755+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Israel",
+  "raw_data": {
+    "url": "https://www.news1.co.il/Archive/0026-D-174643-00.html",
+    "url_mobile": "https://m.news1.co.il/Archive/0026-D-174643-00.html",
+    "title": "News1 | \u05d1\u05d9\u05ea \u05d4\u05de\u05d7\u05d5\u05e7\u05e7\u05d9\u05dd \u05de\u05d5\u05dc \u05e9\u05dc\u05d8\u05d5\u05df \u05d4\u05e9\u05d5\u05e4\u05d8\u05d9\u05dd",
+    "seendate": "20251210T114500Z",
+    "socialimage": "https://media.news1.co.il/Thumbs/225/NEWSY20dbf5220edfd2433ab2059fc307e51e03.jpg",
+    "domain": "news1.co.il",
+    "language": "Hebrew",
+    "sourcecountry": "Israel"
+  }
+}
