@@ -1,0 +1,26 @@
+{
+  "id": "48d56e30fd6cd588",
+  "title": "My China News Digest",
+  "description": "20251212T233000Z",
+  "content": "",
+  "source": "my.cnd.org",
+  "source_url": "http://my.cnd.org/modules/newbb/viewtopic.php?viewmode=flat&order=1&topic_id=105813&forum=2",
+  "published_at": "20251212T233000Z",
+  "fetched_at": "2025-12-13T00:21:55.936102+00:00",
+  "category": "politics_governance",
+  "subcategory": null,
+  "keywords": [
+    "china"
+  ],
+  "location": "China",
+  "raw_data": {
+    "url": "http://my.cnd.org/modules/newbb/viewtopic.php?viewmode=flat&order=1&topic_id=105813&forum=2",
+    "url_mobile": "",
+    "title": "My China News Digest",
+    "seendate": "20251212T233000Z",
+    "socialimage": "",
+    "domain": "my.cnd.org",
+    "language": "Chinese",
+    "sourcecountry": "China"
+  }
+}
