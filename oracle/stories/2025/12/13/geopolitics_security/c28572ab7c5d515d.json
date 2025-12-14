@@ -1,0 +1,24 @@
+{
+  "id": "c28572ab7c5d515d",
+  "title": "NYT : \u0412 \u043e\u043d\u043e\u0432\u043b\u0435\u043d\u043e\u043c\u0443 \u043c\u0438\u0440\u043d\u043e\u043c\u0443 \u043f\u043b\u0430\u043d\u0456 \u041a\u0438\u0457\u0432 \u0432\u0456\u0434\u043a\u0438\u043d\u0443\u0432 \u0432\u0456\u0434\u043c\u043e\u0432\u0443 \u0432\u0456\u0434 \u0414\u043e\u043d\u0431\u0430\u0441\u0443 \u0442\u0430 \u041d\u0410\u0422\u041e DSnews . ua",
+  "description": "20251213T220000Z",
+  "content": "",
+  "source": "dsnews.ua",
+  "source_url": "https://www.dsnews.ua/ukr/politics/nyt-v-onovlenomu-mirnomu-plani-kijiv-vidkinuv-vidmovu-vid-donbasu-ta-nato-13122025-447425",
+  "published_at": "20251213T220000Z",
+  "fetched_at": "2025-12-14T00:25:01.294421+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Ukraine",
+  "raw_data": {
+    "url": "https://www.dsnews.ua/ukr/politics/nyt-v-onovlenomu-mirnomu-plani-kijiv-vidkinuv-vidmovu-vid-donbasu-ta-nato-13122025-447425",
+    "url_mobile": "https://www.dsnews.ua/ukr/politics/nyt-v-onovlenomu-mirnomu-plani-kijiv-vidkinuv-vidmovu-vid-donbasu-ta-nato-13122025-447425/amp",
+    "title": "NYT : \u0412 \u043e\u043d\u043e\u0432\u043b\u0435\u043d\u043e\u043c\u0443 \u043c\u0438\u0440\u043d\u043e\u043c\u0443 \u043f\u043b\u0430\u043d\u0456 \u041a\u0438\u0457\u0432 \u0432\u0456\u0434\u043a\u0438\u043d\u0443\u0432 \u0432\u0456\u0434\u043c\u043e\u0432\u0443 \u0432\u0456\u0434 \u0414\u043e\u043d\u0431\u0430\u0441\u0443 \u0442\u0430 \u041d\u0410\u0422\u041e DSnews . ua",
+    "seendate": "20251213T220000Z",
+    "socialimage": "https://www.dsnews.ua/static/content/thumbs/1200x630/3/51/ade90d59-36d200fa516f0da09bb371e1238ff513.jpg?v=4700_1",
+    "domain": "dsnews.ua",
+    "language": "Ukrainian",
+    "sourcecountry": "Ukraine"
+  }
+}

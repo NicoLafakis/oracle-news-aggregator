@@ -1,0 +1,27 @@
+{
+  "id": "d5e8c61d31c6ac5d",
+  "title": "Russische Raketenangriffe verursachen Stromausfall in der Ukraine",
+  "description": "20251213T143000Z",
+  "content": "",
+  "source": "tagesschau.de",
+  "source_url": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-112.html",
+  "published_at": "20251213T143000Z",
+  "fetched_at": "2025-12-14T00:25:01.294421+00:00",
+  "category": "energy_resources",
+  "subcategory": null,
+  "keywords": [
+    "ukraine",
+    "ai"
+  ],
+  "location": "Germany",
+  "raw_data": {
+    "url": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-112.html",
+    "url_mobile": "",
+    "title": "Russische Raketenangriffe verursachen Stromausfall in der Ukraine",
+    "seendate": "20251213T143000Z",
+    "socialimage": "https://images.tagesschau.de/image/27465b0b-c7e0-4029-95cd-f77015c13296/AAABmxdxJ1s/AAABmt42H9g/16x9-big/ukraine-2506.jpg",
+    "domain": "tagesschau.de",
+    "language": "German",
+    "sourcecountry": "Germany"
+  }
+}

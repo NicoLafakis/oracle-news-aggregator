@@ -1,0 +1,27 @@
+{
+  "id": "d91d4647e9259b2d",
+  "title": "Ukraine - News : Russische Armee erobert fast ganz Siwersk in Region Donezk",
+  "description": "20251213T200000Z",
+  "content": "",
+  "source": "mdr.de",
+  "source_url": "https://www.mdr.de/nachrichten/welt/osteuropa/politik/ukraine-krieg-russen-erobern-sewersk-donezk-donbass-ostukraine-100.html",
+  "published_at": "20251213T200000Z",
+  "fetched_at": "2025-12-14T00:25:01.294421+00:00",
+  "category": "energy_resources",
+  "subcategory": null,
+  "keywords": [
+    "ukraine",
+    "ai"
+  ],
+  "location": "Germany",
+  "raw_data": {
+    "url": "https://www.mdr.de/nachrichten/welt/osteuropa/politik/ukraine-krieg-russen-erobern-sewersk-donezk-donbass-ostukraine-100.html",
+    "url_mobile": "https://www.mdr.de/nachrichten/welt/osteuropa/politik/ukraine-krieg-russen-erobern-sewersk-donezk-donbass-ostukraine-100~amp.html",
+    "title": "Ukraine - News : Russische Armee erobert fast ganz Siwersk in Region Donezk",
+    "seendate": "20251213T200000Z",
+    "socialimage": "https://www.mdr.de/nachrichten/mdraktuell-siwersk-russische-soldaten-102_v-variantBig16x9_wm-true_zc-ecbbafc6.jpg?version=50852",
+    "domain": "mdr.de",
+    "language": "German",
+    "sourcecountry": "Germany"
+  }
+}
