@@ -1,0 +1,24 @@
+{
+  "id": "3ec1381c95a6cfd4",
+  "title": "John Carter",
+  "description": "20251216T204500Z",
+  "content": "",
+  "source": "texasgopvote.com",
+  "source_url": "https://www.texasgopvote.com/users/john-carter",
+  "published_at": "20251216T204500Z",
+  "fetched_at": "2025-12-17T00:22:43.797460+00:00",
+  "category": "politics_governance",
+  "subcategory": null,
+  "keywords": [],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://www.texasgopvote.com/users/john-carter",
+    "url_mobile": "",
+    "title": "John Carter",
+    "seendate": "20251216T204500Z",
+    "socialimage": "https://www.texasgopvote.com/sites/default/files/pictures/picture-12670-1739478249.jpg",
+    "domain": "texasgopvote.com",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}
