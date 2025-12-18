@@ -1,0 +1,24 @@
+{
+  "id": "07b84552825472b0",
+  "title": "National - HITS FM",
+  "description": "20251217T224500Z",
+  "content": "",
+  "source": "hitsfm.net",
+  "source_url": "https://hitsfm.net/national/f0cc359063490866dee4f63d928ea937",
+  "published_at": "20251217T224500Z",
+  "fetched_at": "2025-12-18T00:22:47.263985+00:00",
+  "category": "politics_governance",
+  "subcategory": null,
+  "keywords": [],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://hitsfm.net/national/f0cc359063490866dee4f63d928ea937",
+    "url_mobile": "",
+    "title": "National - HITS FM",
+    "seendate": "20251217T224500Z",
+    "socialimage": "https://s3.amazonaws.com/syndication.abcaudio.com/files/2025-12-17/News_ghislainemaxwell_121725.png",
+    "domain": "hitsfm.net",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}

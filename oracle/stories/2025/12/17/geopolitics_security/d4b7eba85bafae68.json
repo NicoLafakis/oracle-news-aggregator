@@ -1,0 +1,24 @@
+{
+  "id": "d4b7eba85bafae68",
+  "title": "\u0412\u0438\u043b\u043b\u0430 \u0420\u043e\u0442\u0435\u043d\u0431\u0435\u0440\u0433\u0430 \u0432 \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u0438 \u043f\u043e\u043f\u0430\u043b\u0430 \u043f\u043e\u0434 \u0430\u0440\u0435\u0441\u0442 \u0438\u0437 - \u0437\u0430 \u043d\u0430\u043b\u043e\u0433\u043e\u0432\u043e\u0433\u043e \u0434\u043e\u043b\u0433\u0430",
+  "description": "20251217T191500Z",
+  "content": "",
+  "source": "rbc.ru",
+  "source_url": "https://www.rbc.ru/politics/17/12/2025/6942d40e9a79470aa37a3fa0",
+  "published_at": "20251217T191500Z",
+  "fetched_at": "2025-12-18T00:22:47.263985+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Russia",
+  "raw_data": {
+    "url": "https://www.rbc.ru/politics/17/12/2025/6942d40e9a79470aa37a3fa0",
+    "url_mobile": "https://amp.rbc.ru/rbcnews/politics/17/12/2025/6942d40e9a79470aa37a3fa0",
+    "title": "\u0412\u0438\u043b\u043b\u0430 \u0420\u043e\u0442\u0435\u043d\u0431\u0435\u0440\u0433\u0430 \u0432 \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u0438 \u043f\u043e\u043f\u0430\u043b\u0430 \u043f\u043e\u0434 \u0430\u0440\u0435\u0441\u0442 \u0438\u0437 - \u0437\u0430 \u043d\u0430\u043b\u043e\u0433\u043e\u0432\u043e\u0433\u043e \u0434\u043e\u043b\u0433\u0430",
+    "seendate": "20251217T191500Z",
+    "socialimage": "https://s0.rbk.ru/v6_top_pics/media/img/0/71/347659926148710.jpg",
+    "domain": "rbc.ru",
+    "language": "Russian",
+    "sourcecountry": "Russia"
+  }
+}

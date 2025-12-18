@@ -1,0 +1,24 @@
+{
+  "id": "a35a36c18415dff7",
+  "title": "Nyhedsoverblik - Journalisten",
+  "description": "20251217T163000Z",
+  "content": "",
+  "source": "journalisten.dk",
+  "source_url": "https://journalisten.dk/nyhedsoverblik/?news_band_id=229910",
+  "published_at": "20251217T163000Z",
+  "fetched_at": "2025-12-18T00:22:47.263985+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Denmark",
+  "raw_data": {
+    "url": "https://journalisten.dk/nyhedsoverblik/?news_band_id=229910",
+    "url_mobile": "",
+    "title": "Nyhedsoverblik - Journalisten",
+    "seendate": "20251217T163000Z",
+    "socialimage": "https://journalisten.dk/wp-content/uploads/2025/12/dr-0892946-1024x576.jpg",
+    "domain": "journalisten.dk",
+    "language": "Danish",
+    "sourcecountry": "Denmark"
+  }
+}
