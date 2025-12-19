@@ -1,0 +1,24 @@
+{
+  "id": "227ba6b41131f381",
+  "title": "AI detects cancer but it\u2019s also reading who you are",
+  "description": "AI tools designed to diagnose cancer from tissue samples are quietly learning more than just disease patterns. New research shows these systems can infer patient demographics from pathology slides, leading to biased results for certain groups. The bias stems from how the models are trained and the data they see, not just from missing samples. Researchers also demonstrated a way to significantly reduce these disparities.",
+  "content": "AI tools designed to diagnose cancer from tissue samples are quietly learning more than just disease patterns. New research shows these systems can infer patient demographics from pathology slides, leading to biased results for certain groups. The bias stems from how the models are trained and the data they see, not just from missing samples. Researchers also demonstrated a way to significantly reduce these disparities.",
+  "source": "Health & Medicine News -- ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2025/12/251217231230.htm",
+  "published_at": "2025-12-18T04:53:41+00:00",
+  "fetched_at": "2025-12-19T00:23:08.544189+00:00",
+  "category": "health_biotech",
+  "subcategory": null,
+  "keywords": [
+    "model",
+    "ai"
+  ],
+  "location": null,
+  "raw_data": {
+    "title": "AI detects cancer but it\u2019s also reading who you are",
+    "description": "AI tools designed to diagnose cancer from tissue samples are quietly learning more than just disease patterns. New research shows these systems can infer patient demographics from pathology slides, leading to biased results for certain groups. The bias stems from how the models are trained and the data they see, not just from missing samples. Researchers also demonstrated a way to significantly reduce these disparities.",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251217231230.htm",
+    "published": "2025-12-18T04:53:41+00:00",
+    "source": "Health & Medicine News -- ScienceDaily"
+  }
+}

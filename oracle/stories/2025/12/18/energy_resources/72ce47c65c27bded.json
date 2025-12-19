@@ -1,0 +1,26 @@
+{
+  "id": "72ce47c65c27bded",
+  "title": "Energy",
+  "description": "20251218T013000Z",
+  "content": "",
+  "source": "marketplace.org",
+  "source_url": "https://www.marketplace.org/energy",
+  "published_at": "20251218T013000Z",
+  "fetched_at": "2025-12-19T00:23:08.544189+00:00",
+  "category": "energy_resources",
+  "subcategory": null,
+  "keywords": [
+    "energy"
+  ],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://www.marketplace.org/energy",
+    "url_mobile": "",
+    "title": "Energy",
+    "seendate": "20251218T013000Z",
+    "socialimage": "",
+    "domain": "marketplace.org",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}
