@@ -33,8 +33,8 @@ The oracle monitors 14 categories with strategically crafted search queries:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    GitHub Actions (Cron)                     │
-│                    Runs every 24 hours                       │
+│              GitHub Actions (News Aggregator)                │
+│                  Runs daily at 00:00 UTC                     │
 └─────────────────────┬───────────────────────────────────────┘
                       │
                       ▼
@@ -61,6 +61,28 @@ The oracle monitors 14 categories with strategically crafted search queries:
 ┌─────────────────────────────────────────────────────────────┐
 │                   Git Commit & Push                          │
 │              "📰 Oracle Update: 2024-12-05"                  │
+└─────────────────────────────────────────────────────────────┘
+                      │
+                      ▼
+┌─────────────────────────────────────────────────────────────┐
+│           GitHub Actions (Node Generator)                    │
+│            Runs daily at 12:00 PM EST (17:00 UTC)           │
+└─────────────────────┬───────────────────────────────────────┘
+                      │
+                      ▼
+┌─────────────────────────────────────────────────────────────┐
+│                    Node Generator                            │
+│  - Processes latest articles from oracle/stories/           │
+│  - Filters for significant events                           │
+│  - Deduplicates against existing nodes                      │
+│  - Generates up to 200 new oracle nodes                     │
+│  → oracle/oracle-nodes/node_nXXX_*.md                       │
+└─────────────────────────────────────────────────────────────┘
+                      │
+                      ▼
+┌─────────────────────────────────────────────────────────────┐
+│                   Git Commit & Push                          │
+│        "Daily Node Generation: 2024-12-05 - 25 nodes"       │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -135,10 +157,39 @@ Go to your repository's **Settings → Secrets and Variables → Actions** and a
 
 ### 4. Run Manually (Optional)
 
-You can trigger the workflow manually:
+You can trigger the workflows manually:
+
+**News Aggregator:**
 1. Go to **Actions → Oracle News Aggregator**
 2. Click **Run workflow**
 3. Optionally adjust the lookback hours
+
+**Node Generation:**
+1. Go to **Actions → Daily Node Generation**
+2. Click **Run workflow**
+3. Optionally adjust max nodes to generate
+
+## 🤖 Automated Workflows
+
+The repository runs two automated GitHub Actions workflows:
+
+### 1. Oracle News Aggregator
+- **Schedule**: Daily at 00:00 UTC (midnight)
+- **Purpose**: Fetches and stores news articles from multiple sources
+- **Workflow File**: `.github/workflows/oracle-aggregator.yml`
+- **Output**: New articles in `oracle/stories/YYYY/MM/DD/`
+
+### 2. Daily Node Generation
+- **Schedule**: Daily at 12:00 PM EST (17:00 UTC)
+- **Purpose**: Converts latest fetched articles into oracle knowledge nodes
+- **Workflow File**: `.github/workflows/daily-node-generation.yml`
+- **Output**: New oracle nodes in `oracle/oracle-nodes/`
+- **Behavior**:
+  - Processes stories from the latest articles
+  - Filters for significant events only
+  - Deduplicates against existing nodes
+  - Generates up to 200 nodes per run
+  - Only commits if new nodes are created
 
 ## ⚙️ Configuration
 
