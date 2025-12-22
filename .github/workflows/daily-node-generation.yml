@@ -1,0 +1,77 @@
+name: Daily Node Generation
+
+on:
+  schedule:
+    # Runs daily at 12:00 PM EST (17:00 UTC)
+    # Note: EST is UTC-5, so 12:00 PM EST = 17:00 UTC
+    - cron: '0 17 * * *'
+  workflow_dispatch:
+    inputs:
+      max_nodes:
+        description: 'Maximum nodes to generate (default: 200)'
+        required: false
+        default: '200'
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  generate-nodes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run node generation
+        id: generate
+        run: python scripts/generate_nodes.py
+
+      - name: Check for new nodes
+        id: check_changes
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push new nodes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          DATE=$(date -u +"%Y-%m-%d")
+          NEW_COUNT=$(git status --porcelain | grep -c "node_n.*\.md$" || echo "0")
+          git add oracle/oracle-nodes/
+          git commit -m "Daily Node Generation: ${DATE} - ${NEW_COUNT} new nodes"
+          git push
+
+      - name: Generate summary report
+        if: always()
+        run: |
+          echo "## Daily Node Generation Summary" >> $GITHUB_STEP_SUMMARY
+          echo "**Run Date:** $(date -u +'%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "**EST Time:** $(TZ=America/New_York date +'%Y-%m-%d %I:%M %p %Z')" >> $GITHUB_STEP_SUMMARY
+          if [[ "${{ steps.check_changes.outputs.has_changes }}" == "true" ]]; then
+            NEW_COUNT=$(git diff --cached --name-only | grep -c "node_n.*\.md$" || echo "0")
+            echo "**New Nodes Created:** ${NEW_COUNT}" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "**New Nodes Created:** 0" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "No new nodes were generated. This could mean:" >> $GITHUB_STEP_SUMMARY
+            echo "- All recent articles have already been converted to nodes" >> $GITHUB_STEP_SUMMARY
+            echo "- No articles met the significance threshold for node creation" >> $GITHUB_STEP_SUMMARY
+          fi
