@@ -66,7 +66,8 @@ The oracle monitors 14 categories with strategically crafted search queries:
                       ▼
 ┌─────────────────────────────────────────────────────────────┐
 │           GitHub Actions (Node Generator)                    │
-│            Runs daily at 12:00 PM EST (17:00 UTC)           │
+│       Runs daily at 12:00 PM EST / 1:00 PM EDT              │
+│                    (17:00 UTC)                               │
 └─────────────────────┬───────────────────────────────────────┘
                       │
                       ▼
@@ -180,7 +181,7 @@ The repository runs two automated GitHub Actions workflows:
 - **Output**: New articles in `oracle/stories/YYYY/MM/DD/`
 
 ### 2. Daily Node Generation
-- **Schedule**: Daily at 12:00 PM EST (17:00 UTC)
+- **Schedule**: Daily at 12:00 PM EST / 1:00 PM EDT (17:00 UTC)
 - **Purpose**: Converts latest fetched articles into oracle knowledge nodes
 - **Workflow File**: `.github/workflows/daily-node-generation.yml`
 - **Output**: New oracle nodes in `oracle/oracle-nodes/`
