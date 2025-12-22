@@ -168,7 +168,6 @@ You can trigger the workflows manually:
 **Node Generation:**
 1. Go to **Actions → Daily Node Generation**
 2. Click **Run workflow**
-3. Optionally adjust max nodes to generate
 
 ## 🤖 Automated Workflows
 
