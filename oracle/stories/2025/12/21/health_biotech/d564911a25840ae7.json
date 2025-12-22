@@ -1,0 +1,23 @@
+{
+  "id": "d564911a25840ae7",
+  "title": "A new tool is revealing the invisible networks inside cancer",
+  "description": "Spanish researchers have created a powerful new open-source tool that helps uncover the hidden genetic networks driving cancer. Called RNACOREX, the software can analyze thousands of molecular interactions at once, revealing how genes communicate inside tumors and how those signals relate to patient survival. Tested across 13 different cancer types using international data, the tool matches the predictive power of advanced AI systems\u2014while offering something rare in modern analytics: clear, interpretable explanations that help scientists understand why tumors behave the way they do.",
+  "content": "Spanish researchers have created a powerful new open-source tool that helps uncover the hidden genetic networks driving cancer. Called RNACOREX, the software can analyze thousands of molecular interactions at once, revealing how genes communicate inside tumors and how those signals relate to patient survival. Tested across 13 different cancer types using international data, the tool matches the predictive power of advanced AI systems\u2014while offering something rare in modern analytics: clear, interpretable explanations that help scientists understand why tumors behave the way they do.",
+  "source": "Health & Medicine News -- ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2025/12/251221043216.htm",
+  "published_at": "2025-12-21T12:29:28+00:00",
+  "fetched_at": "2025-12-22T00:24:16.044990+00:00",
+  "category": "health_biotech",
+  "subcategory": null,
+  "keywords": [
+    "ai"
+  ],
+  "location": null,
+  "raw_data": {
+    "title": "A new tool is revealing the invisible networks inside cancer",
+    "description": "Spanish researchers have created a powerful new open-source tool that helps uncover the hidden genetic networks driving cancer. Called RNACOREX, the software can analyze thousands of molecular interactions at once, revealing how genes communicate inside tumors and how those signals relate to patient survival. Tested across 13 different cancer types using international data, the tool matches the predictive power of advanced AI systems\u2014while offering something rare in modern analytics: clear, interpretable explanations that help scientists understand why tumors behave the way they do.",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251221043216.htm",
+    "published": "2025-12-21T12:29:28+00:00",
+    "source": "Health & Medicine News -- ScienceDaily"
+  }
+}

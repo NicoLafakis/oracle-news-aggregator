@@ -1,0 +1,24 @@
+{
+  "id": "d8e14003daace915",
+  "title": "World - KSYL - AM",
+  "description": "20251221T221500Z",
+  "content": "",
+  "source": "ksyl.com",
+  "source_url": "https://ksyl.com/world/32bb5cd6f432d0888f950ef1206ab1cb",
+  "published_at": "20251221T221500Z",
+  "fetched_at": "2025-12-22T00:24:16.044990+00:00",
+  "category": "politics_governance",
+  "subcategory": null,
+  "keywords": [],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://ksyl.com/world/32bb5cd6f432d0888f950ef1206ab1cb",
+    "url_mobile": "",
+    "title": "World - KSYL - AM",
+    "seendate": "20251221T221500Z",
+    "socialimage": "https://s3.amazonaws.com/syndication.abcaudio.com/files/2025-12-21/getty_iran.png",
+    "domain": "ksyl.com",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}
