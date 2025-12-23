@@ -1,0 +1,24 @@
+{
+  "id": "e872e2760784c1f9",
+  "title": "Evacuation orders",
+  "description": "20251222T213000Z",
+  "content": "",
+  "source": "laist.com",
+  "source_url": "https://laist.com/brief/news/climate-environment/atmospheric-river-la-holiday-christmas-storm",
+  "published_at": "20251222T213000Z",
+  "fetched_at": "2025-12-23T00:22:44.609575+00:00",
+  "category": "semiconductors_compute",
+  "subcategory": null,
+  "keywords": [],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://laist.com/brief/news/climate-environment/atmospheric-river-la-holiday-christmas-storm",
+    "url_mobile": "",
+    "title": "Evacuation orders",
+    "seendate": "20251222T213000Z",
+    "socialimage": "http://scpr-brightspot.s3.us-west-2.amazonaws.com/92/00/2809301448adb90a05bd6a83f8a3/nws-storm-xmas-week.jpeg",
+    "domain": "laist.com",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}
