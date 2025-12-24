@@ -1,0 +1,24 @@
+{
+  "id": "953413dbdbed95fe",
+  "title": "HCPLive - Clinical news for connected physicians",
+  "description": "20251223T164500Z",
+  "content": "",
+  "source": "hcplive.com",
+  "source_url": "https://www.hcplive.com/?page=751",
+  "published_at": "20251223T164500Z",
+  "fetched_at": "2025-12-24T00:22:47.431682+00:00",
+  "category": "health_biotech",
+  "subcategory": null,
+  "keywords": [],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://www.hcplive.com/?page=751",
+    "url_mobile": "",
+    "title": "HCPLive - Clinical news for connected physicians",
+    "seendate": "20251223T164500Z",
+    "socialimage": "",
+    "domain": "hcplive.com",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}

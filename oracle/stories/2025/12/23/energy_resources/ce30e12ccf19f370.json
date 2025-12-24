@@ -1,0 +1,24 @@
+{
+  "id": "ce30e12ccf19f370",
+  "title": "Wetter - Tag am 23 . Dezember : Heiligabend startet eiskalt : Frost , Schnee und Ostwind",
+  "description": "20251223T193000Z",
+  "content": "",
+  "source": "wetter.de",
+  "source_url": "https://www.wetter.de/wettermeldungen/wetter-tag/wetter-tag-am-23-dezember-heiligabend-startet-eiskalt-frost-schnee-und-ostwind-id30172630.html",
+  "published_at": "20251223T193000Z",
+  "fetched_at": "2025-12-24T00:22:47.431682+00:00",
+  "category": "energy_resources",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Germany",
+  "raw_data": {
+    "url": "https://www.wetter.de/wettermeldungen/wetter-tag/wetter-tag-am-23-dezember-heiligabend-startet-eiskalt-frost-schnee-und-ostwind-id30172630.html",
+    "url_mobile": "",
+    "title": "Wetter - Tag am 23 . Dezember : Heiligabend startet eiskalt : Frost , Schnee und Ostwind",
+    "seendate": "20251223T193000Z",
+    "socialimage": "https://glue.wetter.de/api/v1/images/30176342/1766515306/c16_9/1686x0/wetter-tag-am-23-dezember-heiligabend-startet-eiskalt-frost-schnee-und-ostwind.jpg",
+    "domain": "wetter.de",
+    "language": "German",
+    "sourcecountry": "Germany"
+  }
+}
