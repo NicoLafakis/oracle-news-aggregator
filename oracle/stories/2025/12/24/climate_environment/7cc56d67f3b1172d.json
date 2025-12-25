@@ -1,0 +1,26 @@
+{
+  "id": "7cc56d67f3b1172d",
+  "title": "Northern Manitoba communities under cold weather warning",
+  "description": "20251224T033000Z",
+  "content": "",
+  "source": "cbc.ca",
+  "source_url": "https://www.cbc.ca/news/canada/manitoba/extreme-cold-northern-manitoba-warning-alert-9.7027008",
+  "published_at": "20251224T033000Z",
+  "fetched_at": "2025-12-25T00:22:49.565695+00:00",
+  "category": "climate_environment",
+  "subcategory": null,
+  "keywords": [
+    "weather"
+  ],
+  "location": "Canada",
+  "raw_data": {
+    "url": "https://www.cbc.ca/news/canada/manitoba/extreme-cold-northern-manitoba-warning-alert-9.7027008",
+    "url_mobile": "",
+    "title": "Northern Manitoba communities under cold weather warning",
+    "seendate": "20251224T033000Z",
+    "socialimage": "https://i.cbc.ca/ais/1.3793675,1475756659000/full/max/0/default.jpg?im=Crop%2Crect%3D%28110%2C6%2C1396%2C785%29%3BResize%3D620",
+    "domain": "cbc.ca",
+    "language": "English",
+    "sourcecountry": "Canada"
+  }
+}
