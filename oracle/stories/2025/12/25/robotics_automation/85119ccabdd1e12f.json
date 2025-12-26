@@ -1,0 +1,27 @@
+{
+  "id": "85119ccabdd1e12f",
+  "title": "Waymo pauses robotaxis in SF again due to flash flood warnings on Christmas Day",
+  "description": "20251225T224500Z",
+  "content": "",
+  "source": "cnbc.com",
+  "source_url": "https://www.cnbc.com/2025/12/25/waymo-pauses-robotaxis-in-sf-again-due-to-flash-flood-warnings-on-christmas-day.html",
+  "published_at": "20251225T224500Z",
+  "fetched_at": "2025-12-26T00:22:56.644001+00:00",
+  "category": "robotics_automation",
+  "subcategory": null,
+  "keywords": [
+    "robot",
+    "ai"
+  ],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://www.cnbc.com/2025/12/25/waymo-pauses-robotaxis-in-sf-again-due-to-flash-flood-warnings-on-christmas-day.html",
+    "url_mobile": "https://www.cnbc.com/amp/2025/12/25/waymo-pauses-robotaxis-in-sf-again-due-to-flash-flood-warnings-on-christmas-day.html",
+    "title": "Waymo pauses robotaxis in SF again due to flash flood warnings on Christmas Day",
+    "seendate": "20251225T224500Z",
+    "socialimage": "https://image.cnbcfm.com/api/v1/image/108243326-1766012944148-gettyimages-2251802458-WAYMO_VALUATION.jpeg?v=1766012995",
+    "domain": "cnbc.com",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}
