@@ -1,0 +1,26 @@
+{
+  "id": "7436046e653b8bab",
+  "title": "La Noticia 1 | Las \u00faltimas noticias de la Provincia de Buenos Aires",
+  "description": "20251226T170000Z",
+  "content": "",
+  "source": "lanoticia1.com",
+  "source_url": "https://www.lanoticia1.com/noticia/accidente-en-la-ruta-3-a-la-altura-de-azul-cinco-personas-fueron-hospitalizadas-tras-un-choque",
+  "published_at": "20251226T170000Z",
+  "fetched_at": "2025-12-27T00:22:28.676313+00:00",
+  "category": "robotics_automation",
+  "subcategory": null,
+  "keywords": [
+    "ai"
+  ],
+  "location": "Argentina",
+  "raw_data": {
+    "url": "https://www.lanoticia1.com/noticia/accidente-en-la-ruta-3-a-la-altura-de-azul-cinco-personas-fueron-hospitalizadas-tras-un-choque",
+    "url_mobile": "",
+    "title": "La Noticia 1 | Las \u00faltimas noticias de la Provincia de Buenos Aires",
+    "seendate": "20251226T170000Z",
+    "socialimage": "https://lanoticia1cdn.eleco.com.ar/media/2025/12/accidente_azul.jpeg",
+    "domain": "lanoticia1.com",
+    "language": "Spanish",
+    "sourcecountry": "Argentina"
+  }
+}
