@@ -19,6 +19,7 @@ import re
 
 import requests
 import feedparser
+import time
 
 # Configure logging
 logging.basicConfig(
@@ -701,6 +702,195 @@ class RSSFetcher:
 
 
 # =============================================================================
+# FIRECRAWL CONTENT ENRICHMENT
+# =============================================================================
+
+class FirecrawlContentFetcher:
+    """
+    Fetch full article content using Firecrawl API.
+
+    Firecrawl extracts clean, readable content from web pages,
+    perfect for enriching GDELT stories that only have titles/URLs.
+
+    API Documentation: https://docs.firecrawl.dev/
+    """
+
+    BASE_URL = "https://api.firecrawl.dev/v1"
+
+    def __init__(self, api_key: str, max_requests_per_run: int = 500):
+        """
+        Initialize Firecrawl fetcher.
+
+        Args:
+            api_key: Firecrawl API key
+            max_requests_per_run: Max articles to enrich per run (to control costs)
+        """
+        self.api_key = api_key
+        self.session = requests.Session()
+        self.session.headers['Authorization'] = f'Bearer {api_key}'
+        self.session.headers['Content-Type'] = 'application/json'
+        self.request_count = 0
+        self.max_requests = max_requests_per_run
+        self.success_count = 0
+        self.error_count = 0
+
+    def _check_rate_limit(self) -> bool:
+        """Check if we should continue making requests."""
+        if self.request_count >= self.max_requests:
+            logger.warning(f"Firecrawl: Reached max requests limit ({self.max_requests})")
+            return False
+        return True
+
+    def fetch_content(self, url: str, timeout: int = 30) -> Optional[dict]:
+        """
+        Scrape a single URL and extract clean content.
+
+        Args:
+            url: The URL to scrape
+            timeout: Request timeout in seconds
+
+        Returns:
+            Dict with 'content' (markdown), 'title', 'description' or None on failure
+        """
+        if not self._check_rate_limit():
+            return None
+
+        if not url or not url.startswith('http'):
+            return None
+
+        try:
+            response = self.session.post(
+                f"{self.BASE_URL}/scrape",
+                json={
+                    "url": url,
+                    "formats": ["markdown"],
+                    "onlyMainContent": True,
+                    "timeout": timeout * 1000,  # API expects milliseconds
+                },
+                timeout=timeout + 10  # Add buffer for network latency
+            )
+            self.request_count += 1
+
+            if response.status_code == 402:
+                logger.error("Firecrawl: Payment required - check API credits")
+                return None
+            elif response.status_code == 429:
+                logger.warning("Firecrawl: Rate limited, backing off...")
+                time.sleep(2)
+                return None
+            elif response.status_code != 200:
+                logger.debug(f"Firecrawl error {response.status_code} for {url[:50]}...")
+                self.error_count += 1
+                return None
+
+            data = response.json()
+
+            if not data.get('success'):
+                self.error_count += 1
+                return None
+
+            result = data.get('data', {})
+            markdown_content = result.get('markdown', '')
+            metadata = result.get('metadata', {})
+
+            # Extract first ~2000 chars of meaningful content
+            content = markdown_content[:2000] if markdown_content else ''
+
+            self.success_count += 1
+
+            return {
+                'content': content,
+                'title': metadata.get('title', ''),
+                'description': metadata.get('description', ''),
+                'og_description': metadata.get('ogDescription', ''),
+            }
+
+        except requests.exceptions.Timeout:
+            logger.debug(f"Firecrawl timeout for {url[:50]}...")
+            self.error_count += 1
+            return None
+        except requests.exceptions.RequestException as e:
+            logger.debug(f"Firecrawl request error: {e}")
+            self.error_count += 1
+            return None
+        except json.JSONDecodeError:
+            self.error_count += 1
+            return None
+
+    def enrich_stories(self, stories: list, priority_empty_content: bool = True) -> list:
+        """
+        Enrich a batch of stories with full content.
+
+        Args:
+            stories: List of Story objects to enrich
+            priority_empty_content: If True, prioritize stories with empty content
+
+        Returns:
+            The same list with content fields populated where possible
+        """
+        if not stories:
+            return stories
+
+        # Sort to prioritize stories without content
+        if priority_empty_content:
+            stories_to_enrich = sorted(
+                stories,
+                key=lambda s: (len(s.content) > 0, s.published_at),
+                reverse=False  # Empty content first, then oldest
+            )
+        else:
+            stories_to_enrich = stories
+
+        enriched_count = 0
+
+        for story in stories_to_enrich:
+            if not self._check_rate_limit():
+                break
+
+            # Skip if already has substantial content
+            if len(story.content) > 200:
+                continue
+
+            # Skip non-HTTP URLs
+            if not story.source_url or not story.source_url.startswith('http'):
+                continue
+
+            result = self.fetch_content(story.source_url)
+
+            if result and result.get('content'):
+                # Update story with fetched content
+                story.content = result['content']
+
+                # Update description if it was just a timestamp or empty
+                if not story.description or story.description.startswith('20'):
+                    story.description = (
+                        result.get('description') or
+                        result.get('og_description') or
+                        result['content'][:200]
+                    )
+
+                enriched_count += 1
+
+                # Small delay to be respectful to the API
+                if enriched_count % 10 == 0:
+                    time.sleep(0.5)
+
+        logger.info(f"Firecrawl: Enriched {enriched_count} stories "
+                   f"(success: {self.success_count}, errors: {self.error_count})")
+
+        return stories
+
+    def get_stats(self) -> dict:
+        """Return enrichment statistics."""
+        return {
+            "requests_made": self.request_count,
+            "successful": self.success_count,
+            "errors": self.error_count,
+            "remaining": self.max_requests - self.request_count,
+        }
+
+
+# =============================================================================
 # STORY PROCESSOR
 # =============================================================================
 
@@ -942,7 +1132,18 @@ class OracleAggregator:
         self.gdelt = GDELTFetcher()
         self.usgs = USGSFetcher()
         self.rss = RSSFetcher()
-        
+
+        # Initialize Firecrawl for content enrichment (optional)
+        self.firecrawl = None
+        if os.getenv('FIRECRAWL_API_KEY'):
+            # Default to 500 requests per run - adjust based on your plan
+            max_enrichments = int(os.getenv('FIRECRAWL_MAX_REQUESTS', '500'))
+            self.firecrawl = FirecrawlContentFetcher(
+                os.getenv('FIRECRAWL_API_KEY'),
+                max_requests_per_run=max_enrichments
+            )
+            logger.info(f"Firecrawl enabled (max {max_enrichments} enrichments per run)")
+
         # Stats
         self.stats = {
             "total_fetched": 0,
@@ -982,18 +1183,29 @@ class OracleAggregator:
         # 5. Deduplicate
         logger.info(f"Deduplicating {len(all_stories)} stories...")
         unique_stories = self._deduplicate(all_stories)
-        
-        # 6. Store
+
+        # 6. Enrich content with Firecrawl (if available)
+        if self.firecrawl and unique_stories:
+            logger.info(f"Enriching {len(unique_stories)} stories with Firecrawl...")
+            unique_stories = self.firecrawl.enrich_stories(unique_stories)
+            # Add Firecrawl stats to our stats
+            fc_stats = self.firecrawl.get_stats()
+            self.stats["firecrawl"] = fc_stats
+        else:
+            if not self.firecrawl:
+                logger.info("Firecrawl not configured, skipping content enrichment")
+
+        # 7. Store
         logger.info(f"Storing {len(unique_stories)} unique stories...")
         for story in unique_stories:
             self.storage.save_story(story)
             self._update_stats(story)
-        
-        # 7. Create daily index
+
+        # 8. Create daily index
         if unique_stories:
             self.storage.create_daily_index(unique_stories, datetime.now(timezone.utc))
-        
-        # 8. Save manifest and summary
+
+        # 9. Save manifest and summary
         self.dedup.save_manifest()
         self.storage.save_summary(self.stats)
         

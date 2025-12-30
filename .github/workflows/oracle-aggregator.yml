@@ -16,6 +16,8 @@ permissions:
 
 env:
   NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+  FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+  FIRECRAWL_MAX_REQUESTS: '500'  # Adjust based on your Firecrawl plan
   GDELT_ENABLED: 'true'
 
 jobs:
@@ -73,4 +75,10 @@ jobs:
             echo "### Results" >> $GITHUB_STEP_SUMMARY
             echo "**New Stories:** $(jq -r '.total_new // 0' logs/run_summary.json)" >> $GITHUB_STEP_SUMMARY
             echo "**Duplicates Filtered:** $(jq -r '.duplicates_filtered // 0' logs/run_summary.json)" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "### Content Enrichment (Firecrawl)" >> $GITHUB_STEP_SUMMARY
+            FC_SUCCESS=$(jq -r '.firecrawl.successful // "N/A"' logs/run_summary.json)
+            FC_ERRORS=$(jq -r '.firecrawl.errors // "N/A"' logs/run_summary.json)
+            echo "**Stories Enriched:** ${FC_SUCCESS}" >> $GITHUB_STEP_SUMMARY
+            echo "**Enrichment Errors:** ${FC_ERRORS}" >> $GITHUB_STEP_SUMMARY
           fi
