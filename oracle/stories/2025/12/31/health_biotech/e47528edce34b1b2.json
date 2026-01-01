@@ -1,0 +1,24 @@
+{
+  "id": "e47528edce34b1b2",
+  "title": "ABC Health - WOND",
+  "description": "20251231T023000Z",
+  "content": "",
+  "source": "wondradio.com",
+  "source_url": "https://wondradio.com/abc-health/876d0af25fe63b0d7cbbf030d32896be",
+  "published_at": "20251231T023000Z",
+  "fetched_at": "2026-01-01T00:26:23.010909+00:00",
+  "category": "health_biotech",
+  "subcategory": null,
+  "keywords": [],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://wondradio.com/abc-health/876d0af25fe63b0d7cbbf030d32896be",
+    "url_mobile": "",
+    "title": "ABC Health - WOND",
+    "seendate": "20251231T023000Z",
+    "socialimage": "https://s3.amazonaws.com/syndication.abcaudio.com/files/2025-12-30/Getty_measles_123025%20%281%29.png",
+    "domain": "wondradio.com",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}
