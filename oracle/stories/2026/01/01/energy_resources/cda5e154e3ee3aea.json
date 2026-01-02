@@ -1,0 +1,27 @@
+{
+  "id": "cda5e154e3ee3aea",
+  "title": "Oil prices record steepest annual fall since Covid pandemic",
+  "description": "20260101T133000Z",
+  "content": "",
+  "source": "theguardian.com",
+  "source_url": "https://www.theguardian.com/business/2026/jan/01/oil-prices-record-steepest-annual-fall-covid-pandemic",
+  "published_at": "20260101T133000Z",
+  "fetched_at": "2026-01-02T00:23:25.342374+00:00",
+  "category": "energy_resources",
+  "subcategory": null,
+  "keywords": [
+    "oil",
+    "pandemic"
+  ],
+  "location": "United Kingdom",
+  "raw_data": {
+    "url": "https://www.theguardian.com/business/2026/jan/01/oil-prices-record-steepest-annual-fall-covid-pandemic",
+    "url_mobile": "",
+    "title": "Oil prices record steepest annual fall since Covid pandemic",
+    "seendate": "20260101T133000Z",
+    "socialimage": "https://i.guim.co.uk/img/media/73aa70e4bf81fca7aef9722600c6975b67044be9/0_0_3750_3000/master/3750.jpg?&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e379c758a9a5409a09948d6f418a9f45",
+    "domain": "theguardian.com",
+    "language": "English",
+    "sourcecountry": "United Kingdom"
+  }
+}

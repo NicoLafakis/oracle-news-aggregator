@@ -1,0 +1,24 @@
+{
+  "id": "0bb884b090e355be",
+  "title": "Agencia NOVA",
+  "description": "20260101T044500Z",
+  "content": "",
+  "source": "agencianova.com",
+  "source_url": "https://www.agencianova.com/seccion.asp?s=4&t=Pol%C3%ADtica&n=2026_1_1",
+  "published_at": "20260101T044500Z",
+  "fetched_at": "2026-01-02T00:23:25.342374+00:00",
+  "category": "climate_environment",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Argentina",
+  "raw_data": {
+    "url": "https://www.agencianova.com/seccion.asp?s=4&t=Pol%C3%ADtica&n=2026_1_1",
+    "url_mobile": "",
+    "title": "Agencia NOVA",
+    "seendate": "20260101T044500Z",
+    "socialimage": "",
+    "domain": "agencianova.com",
+    "language": "Spanish",
+    "sourcecountry": "Argentina"
+  }
+}
