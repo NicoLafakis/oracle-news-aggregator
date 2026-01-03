@@ -1,0 +1,24 @@
+{
+  "id": "02e4ec771468a318",
+  "title": "\u0422\u0430\u043a \u0431\u043b\u0438\u0437\u043a\u043e \u043a \u0421\u043e\u043b\u043d\u0446\u0443 \u0435\u0449\u0451 \u043d\u0435 \u043f\u043e\u0434\u0431\u0438\u0440\u0430\u043b\u0438\u0441\u044c : \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c \u0437\u0432\u0435\u0437\u0434\u044b \u043e\u043a\u0430\u0437\u0430\u043b\u0430\u0441\u044c \u043d\u0435 \u0442\u0430\u043a\u043e\u0439 , \u043a\u0430\u043a \u0435\u0451 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u043b\u0438",
+  "description": "20260102T160000Z",
+  "content": "",
+  "source": "pravda.ru",
+  "source_url": "https://www.pravda.ru/news/science/2326401-solar-telescope-breakthrough/",
+  "published_at": "20260102T160000Z",
+  "fetched_at": "2026-01-03T00:22:18.884957+00:00",
+  "category": "energy_resources",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Russia",
+  "raw_data": {
+    "url": "https://www.pravda.ru/news/science/2326401-solar-telescope-breakthrough/",
+    "url_mobile": "",
+    "title": "\u0422\u0430\u043a \u0431\u043b\u0438\u0437\u043a\u043e \u043a \u0421\u043e\u043b\u043d\u0446\u0443 \u0435\u0449\u0451 \u043d\u0435 \u043f\u043e\u0434\u0431\u0438\u0440\u0430\u043b\u0438\u0441\u044c : \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c \u0437\u0432\u0435\u0437\u0434\u044b \u043e\u043a\u0430\u0437\u0430\u043b\u0430\u0441\u044c \u043d\u0435 \u0442\u0430\u043a\u043e\u0439 , \u043a\u0430\u043a \u0435\u0451 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u043b\u0438",
+    "seendate": "20260102T160000Z",
+    "socialimage": "https://img.pravda.ru/image/preview/article/4/0/1/2326401_amp.jpeg",
+    "domain": "pravda.ru",
+    "language": "Russian",
+    "sourcecountry": "Russia"
+  }
+}
