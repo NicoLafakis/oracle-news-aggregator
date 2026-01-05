@@ -1,0 +1,26 @@
+{
+  "id": "477bddbe275e2733",
+  "title": "OpenAI admits prompt injection attacks cant be fully patched in AI systems",
+  "description": "20260104T190000Z",
+  "content": "",
+  "source": "foxnews.com",
+  "source_url": "https://www.foxnews.com/tech/openai-admits-ai-browsers-face-unsolvable-prompt-attacks",
+  "published_at": "20260104T190000Z",
+  "fetched_at": "2026-01-05T00:25:31.293310+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [
+    "ai"
+  ],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://www.foxnews.com/tech/openai-admits-ai-browsers-face-unsolvable-prompt-attacks",
+    "url_mobile": "https://www.foxnews.com/tech/openai-admits-ai-browsers-face-unsolvable-prompt-attacks.amp",
+    "title": "OpenAI admits prompt injection attacks cant be fully patched in AI systems",
+    "seendate": "20260104T190000Z",
+    "socialimage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/chat-gpt-atlas-presentation.jpg",
+    "domain": "foxnews.com",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}

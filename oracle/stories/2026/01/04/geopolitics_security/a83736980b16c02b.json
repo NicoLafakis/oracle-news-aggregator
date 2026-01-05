@@ -1,0 +1,24 @@
+{
+  "id": "a83736980b16c02b",
+  "title": "Bloomberg : \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u043e\u0439 \u0441\u043e \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u0421\u0428\u0410 \u0437\u0430\u0439\u043c\u0435\u0442\u0441\u044f \u041c\u0430\u0440\u043a\u043e \u0420\u0443\u0431\u0438\u043e",
+  "description": "20260104T200000Z",
+  "content": "",
+  "source": "bfm.ru",
+  "source_url": "https://www.bfm.ru/news/594517",
+  "published_at": "20260104T200000Z",
+  "fetched_at": "2026-01-05T00:25:31.293310+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Russia",
+  "raw_data": {
+    "url": "https://www.bfm.ru/news/594517",
+    "url_mobile": "https://www.bfm.ru/amp/news/594517",
+    "title": "Bloomberg : \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u043e\u0439 \u0441\u043e \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u0421\u0428\u0410 \u0437\u0430\u0439\u043c\u0435\u0442\u0441\u044f \u041c\u0430\u0440\u043a\u043e \u0420\u0443\u0431\u0438\u043e",
+    "seendate": "20260104T200000Z",
+    "socialimage": "https://cdn.bfm.ru/news/photopreviewextralarge/2026/01/04/pkuk.jpg",
+    "domain": "bfm.ru",
+    "language": "Russian",
+    "sourcecountry": "Russia"
+  }
+}
