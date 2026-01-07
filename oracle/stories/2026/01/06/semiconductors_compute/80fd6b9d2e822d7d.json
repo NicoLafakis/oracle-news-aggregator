@@ -1,0 +1,27 @@
+{
+  "id": "80fd6b9d2e822d7d",
+  "title": "Semiconductor stocks rally led by ASML , TSMC , Samsung",
+  "description": "20260106T101500Z",
+  "content": "",
+  "source": "cnbc.com",
+  "source_url": "https://www.cnbc.com/2026/01/06/semiconductor-stocks-rally-led-by-asml-tsmc-samsung.html",
+  "published_at": "20260106T101500Z",
+  "fetched_at": "2026-01-07T00:22:40.638561+00:00",
+  "category": "semiconductors_compute",
+  "subcategory": null,
+  "keywords": [
+    "semiconductor",
+    "tsmc"
+  ],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://www.cnbc.com/2026/01/06/semiconductor-stocks-rally-led-by-asml-tsmc-samsung.html",
+    "url_mobile": "https://www.cnbc.com/amp/2026/01/06/semiconductor-stocks-rally-led-by-asml-tsmc-samsung.html",
+    "title": "Semiconductor stocks rally led by ASML , TSMC , Samsung",
+    "seendate": "20260106T101500Z",
+    "socialimage": "https://image.cnbcfm.com/api/v1/image/108248606-1767689779972-gettyimages-2253792540-US_STOCKS.jpeg?v=1767689820",
+    "domain": "cnbc.com",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}
