@@ -1,0 +1,24 @@
+{
+  "id": "75f32f61903250e2",
+  "title": "Health - HITS FM",
+  "description": "20260109T224500Z",
+  "content": "",
+  "source": "hitsfm.net",
+  "source_url": "https://hitsfm.net/health/8fe8373348280baef4960271772b7f44",
+  "published_at": "20260109T224500Z",
+  "fetched_at": "2026-01-10T00:22:56.872596+00:00",
+  "category": "health_biotech",
+  "subcategory": null,
+  "keywords": [],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://hitsfm.net/health/8fe8373348280baef4960271772b7f44",
+    "url_mobile": "",
+    "title": "Health - HITS FM",
+    "seendate": "20260109T224500Z",
+    "socialimage": "https://s3.amazonaws.com/syndication.abcaudio.com/files/2026-01-09/ABC_BreakingNews_091224%20%281%29.jpg",
+    "domain": "hitsfm.net",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}
