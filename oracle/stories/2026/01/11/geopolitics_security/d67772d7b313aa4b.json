@@ -1,0 +1,24 @@
+{
+  "id": "d67772d7b313aa4b",
+  "title": "La Jornada : Bajo la lupa",
+  "description": "20260111T140000Z",
+  "content": "",
+  "source": "jornada.com.mx",
+  "source_url": "https://www.jornada.com.mx/2026/01/11/opinion/010o1pol",
+  "published_at": "20260111T140000Z",
+  "fetched_at": "2026-01-12T00:24:39.879979+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Mexico",
+  "raw_data": {
+    "url": "https://www.jornada.com.mx/2026/01/11/opinion/010o1pol",
+    "url_mobile": "",
+    "title": "La Jornada : Bajo la lupa",
+    "seendate": "20260111T140000Z",
+    "socialimage": "https://www.jornada.com.mx/2026/01/11/fotos/010o1pol-1.jpg",
+    "domain": "jornada.com.mx",
+    "language": "Spanish",
+    "sourcecountry": "Mexico"
+  }
+}
