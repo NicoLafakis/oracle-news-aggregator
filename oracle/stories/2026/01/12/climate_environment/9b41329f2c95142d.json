@@ -1,0 +1,24 @@
+{
+  "id": "9b41329f2c95142d",
+  "title": "\u041a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u0435\u0442\u043b\u044f \u0437\u0430\u0442\u044f\u0433\u0438\u0432\u0430\u0435\u0442\u0441\u044f : \u0443 \u043c\u0438\u0440\u0430 \u043c\u0435\u043d\u044c\u0448\u0435 \u0442\u0440\u0451\u0445 \u043b\u0435\u0442 , \u0447\u0442\u043e\u0431\u044b \u0438\u0437\u0431\u0435\u0436\u0430\u0442\u044c \u043d\u0435\u043e\u0431\u0440\u0430\u0442\u0438\u043c\u044b\u0445 \u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0439",
+  "description": "20260112T074500Z",
+  "content": "",
+  "source": "pravda.ru",
+  "source_url": "https://www.pravda.ru/science/2328572-climate-tipping-point/",
+  "published_at": "20260112T074500Z",
+  "fetched_at": "2026-01-13T00:20:01.657666+00:00",
+  "category": "climate_environment",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Russia",
+  "raw_data": {
+    "url": "https://www.pravda.ru/science/2328572-climate-tipping-point/",
+    "url_mobile": "",
+    "title": "\u041a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u0435\u0442\u043b\u044f \u0437\u0430\u0442\u044f\u0433\u0438\u0432\u0430\u0435\u0442\u0441\u044f : \u0443 \u043c\u0438\u0440\u0430 \u043c\u0435\u043d\u044c\u0448\u0435 \u0442\u0440\u0451\u0445 \u043b\u0435\u0442 , \u0447\u0442\u043e\u0431\u044b \u0438\u0437\u0431\u0435\u0436\u0430\u0442\u044c \u043d\u0435\u043e\u0431\u0440\u0430\u0442\u0438\u043c\u044b\u0445 \u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0439",
+    "seendate": "20260112T074500Z",
+    "socialimage": "https://img.pravda.ru/image/preview/article/5/7/2/2328572_amp.jpeg",
+    "domain": "pravda.ru",
+    "language": "Russian",
+    "sourcecountry": "Russia"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b411cd34b7b3cd8d",
+  "title": "2024 North Dakota Presidential Election Results",
+  "description": "20260112T224500Z",
+  "content": "",
+  "source": "bostonglobe.com",
+  "source_url": "https://www.bostonglobe.com/elections/2024/north-dakota/president/",
+  "published_at": "20260112T224500Z",
+  "fetched_at": "2026-01-13T00:20:01.657666+00:00",
+  "category": "politics_governance",
+  "subcategory": null,
+  "keywords": [
+    "election"
+  ],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://www.bostonglobe.com/elections/2024/north-dakota/president/",
+    "url_mobile": "",
+    "title": "2024 North Dakota Presidential Election Results",
+    "seendate": "20260112T224500Z",
+    "socialimage": "https://www.bostonglobe.com/pf/resources/images/election_og_generic.jpg?d=612",
+    "domain": "bostonglobe.com",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}
