@@ -1,0 +1,24 @@
+{
+  "id": "b2a606bbcdf09d56",
+  "title": "The Warsaw Voice",
+  "description": "20260113T171500Z",
+  "content": "",
+  "source": "warsawvoice.pl",
+  "source_url": "https://www.warsawvoice.pl/WVpage/pages/article.php/63564/news",
+  "published_at": "20260113T171500Z",
+  "fetched_at": "2026-01-14T00:24:05.619157+00:00",
+  "category": "energy_resources",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Poland",
+  "raw_data": {
+    "url": "https://www.warsawvoice.pl/WVpage/pages/article.php/63564/news",
+    "url_mobile": "",
+    "title": "The Warsaw Voice",
+    "seendate": "20260113T171500Z",
+    "socialimage": "",
+    "domain": "warsawvoice.pl",
+    "language": "English",
+    "sourcecountry": "Poland"
+  }
+}

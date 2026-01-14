@@ -1,0 +1,24 @@
+{
+  "id": "a4f77f1cba67a7bf",
+  "title": "Countdown - Bulletin of the Atomic Scientists",
+  "description": "20260113T191500Z",
+  "content": "",
+  "source": "thebulletin.org",
+  "source_url": "https://thebulletin.org/premium/2026-01/countdown/",
+  "published_at": "20260113T191500Z",
+  "fetched_at": "2026-01-14T00:24:05.619157+00:00",
+  "category": "labor_employment",
+  "subcategory": null,
+  "keywords": [],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://thebulletin.org/premium/2026-01/countdown/",
+    "url_mobile": "",
+    "title": "Countdown - Bulletin of the Atomic Scientists",
+    "seendate": "20260113T191500Z",
+    "socialimage": "https://thebulletin.org/wp-content/uploads/2026/01/L_War-Room-Dr._Strangelove.png",
+    "domain": "thebulletin.org",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}
