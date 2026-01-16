@@ -1,0 +1,24 @@
+{
+  "id": "472c1661b249aac8",
+  "title": "Switzerland Today",
+  "description": "20260115T170000Z",
+  "content": "",
+  "source": "swissinfo.ch",
+  "source_url": "https://www.swissinfo.ch/eng/swiss-abroad/switzerland-today/90782710",
+  "published_at": "20260115T170000Z",
+  "fetched_at": "2026-01-16T00:24:08.160649+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Switzerland",
+  "raw_data": {
+    "url": "https://www.swissinfo.ch/eng/swiss-abroad/switzerland-today/90782710",
+    "url_mobile": "",
+    "title": "Switzerland Today",
+    "seendate": "20260115T170000Z",
+    "socialimage": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/01/694400374_highres.jpg?ver=eec936b0&fit=1200,800",
+    "domain": "swissinfo.ch",
+    "language": "English",
+    "sourcecountry": "Switzerland"
+  }
+}

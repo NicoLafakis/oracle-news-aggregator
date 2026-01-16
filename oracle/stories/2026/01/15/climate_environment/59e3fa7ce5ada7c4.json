@@ -1,0 +1,24 @@
+{
+  "id": "59e3fa7ce5ada7c4",
+  "title": "ABC National - WOND",
+  "description": "20260115T151500Z",
+  "content": "",
+  "source": "wondradio.com",
+  "source_url": "https://wondradio.com/abc-national/2c9425e853916aa648fa96e91ce6f7de",
+  "published_at": "20260115T151500Z",
+  "fetched_at": "2026-01-16T00:24:08.160649+00:00",
+  "category": "climate_environment",
+  "subcategory": null,
+  "keywords": [],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://wondradio.com/abc-national/2c9425e853916aa648fa96e91ce6f7de",
+    "url_mobile": "",
+    "title": "ABC National - WOND",
+    "seendate": "20260115T151500Z",
+    "socialimage": "https://s3.amazonaws.com/syndication.abcaudio.com/files/2026-01-15/Untitled%20design%20-%202026-01-15T074207.968.png",
+    "domain": "wondradio.com",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}
