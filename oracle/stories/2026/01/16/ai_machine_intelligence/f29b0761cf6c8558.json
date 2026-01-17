@@ -1,0 +1,23 @@
+{
+  "id": "f29b0761cf6c8558",
+  "title": "Mandiant releases rainbow table that cracks weak admin password in 12 hours",
+  "description": "Windows laggards still using the vulnerable hashing function: Your days are numbered.",
+  "content": "Windows laggards still using the vulnerable hashing function: Your days are numbered.",
+  "source": "Biz & IT - Ars Technica",
+  "source_url": "https://arstechnica.com/security/2026/01/mandiant-releases-rainbow-table-that-cracks-weak-admin-password-in-12-hours/",
+  "published_at": "2026-01-16T21:05:37+00:00",
+  "fetched_at": "2026-01-17T00:22:29.333379+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "ai"
+  ],
+  "location": null,
+  "raw_data": {
+    "title": "Mandiant releases rainbow table that cracks weak admin password in 12 hours",
+    "description": "Windows laggards still using the vulnerable hashing function: Your days are numbered.",
+    "url": "https://arstechnica.com/security/2026/01/mandiant-releases-rainbow-table-that-cracks-weak-admin-password-in-12-hours/",
+    "published": "2026-01-16T21:05:37+00:00",
+    "source": "Biz & IT - Ars Technica"
+  }
+}
