@@ -1,0 +1,24 @@
+{
+  "id": "f5031128d5252a63",
+  "title": "Noticias laborales de actualidad",
+  "description": "20260117T140000Z",
+  "content": "",
+  "source": "insurgente.org",
+  "source_url": "https://insurgente.org/noticias-laborales-de-actualidad/",
+  "published_at": "20260117T140000Z",
+  "fetched_at": "2026-01-18T00:25:47.280389+00:00",
+  "category": "labor_employment",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Spain",
+  "raw_data": {
+    "url": "https://insurgente.org/noticias-laborales-de-actualidad/",
+    "url_mobile": "",
+    "title": "Noticias laborales de actualidad",
+    "seendate": "20260117T140000Z",
+    "socialimage": "https://insurgente.org/wp-content/uploads/2025/05/MOVIMIENTO-OBRERO-e1746402343812.jpeg",
+    "domain": "insurgente.org",
+    "language": "Spanish",
+    "sourcecountry": "Spain"
+  }
+}
