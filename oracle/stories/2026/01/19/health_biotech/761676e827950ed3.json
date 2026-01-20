@@ -1,0 +1,24 @@
+{
+  "id": "761676e827950ed3",
+  "title": "NCPR : North Country Public Radio",
+  "description": "20260119T151500Z",
+  "content": "",
+  "source": "northcountrypublicradio.org",
+  "source_url": "https://www.northcountrypublicradio.org/news/nprnews.php?id[1031]=Global+Health",
+  "published_at": "20260119T151500Z",
+  "fetched_at": "2026-01-20T00:23:08.181708+00:00",
+  "category": "health_biotech",
+  "subcategory": null,
+  "keywords": [],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://www.northcountrypublicradio.org/news/nprnews.php?id[1031]=Global+Health",
+    "url_mobile": "",
+    "title": "NCPR : North Country Public Radio",
+    "seendate": "20260119T151500Z",
+    "socialimage": "",
+    "domain": "northcountrypublicradio.org",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}
