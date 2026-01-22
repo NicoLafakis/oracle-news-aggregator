@@ -1,0 +1,24 @@
+{
+  "id": "9246f00234897f16",
+  "title": "STAT+: FDA clears Aidoc tool to detect 14 different conditions from a CT scan",
+  "description": "FDA cleared an AI tool from Aidoc that can detect multiple conditions from a single CT scan.",
+  "content": "FDA cleared an AI tool from Aidoc that can detect multiple conditions from a single CT scan.",
+  "source": "STAT",
+  "source_url": "https://www.statnews.com/2026/01/21/fda-clears-aidoc-tool-detect-multiple-conditions-from-ct-scan/?utm_campaign=rss",
+  "published_at": "2026-01-21T14:00:00+00:00",
+  "fetched_at": "2026-01-22T00:25:11.997161+00:00",
+  "category": "health_biotech",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "fda"
+  ],
+  "location": null,
+  "raw_data": {
+    "title": "STAT+: FDA clears Aidoc tool to detect 14 different conditions from a CT scan",
+    "description": "FDA cleared an AI tool from Aidoc that can detect multiple conditions from a single CT scan.",
+    "url": "https://www.statnews.com/2026/01/21/fda-clears-aidoc-tool-detect-multiple-conditions-from-ct-scan/?utm_campaign=rss",
+    "published": "2026-01-21T14:00:00+00:00",
+    "source": "STAT"
+  }
+}
