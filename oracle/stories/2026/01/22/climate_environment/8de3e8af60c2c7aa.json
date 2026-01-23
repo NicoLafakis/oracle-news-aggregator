@@ -1,0 +1,24 @@
+{
+  "id": "8de3e8af60c2c7aa",
+  "title": "World - HITS FM",
+  "description": "20260122T024500Z",
+  "content": "",
+  "source": "hitsfm.net",
+  "source_url": "https://hitsfm.net/world/34d19044ea1524d55f4de09c73f2f3e8",
+  "published_at": "20260122T024500Z",
+  "fetched_at": "2026-01-23T00:24:24.269073+00:00",
+  "category": "climate_environment",
+  "subcategory": null,
+  "keywords": [],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://hitsfm.net/world/34d19044ea1524d55f4de09c73f2f3e8",
+    "url_mobile": "",
+    "title": "World - HITS FM",
+    "seendate": "20260122T024500Z",
+    "socialimage": "https://s3.amazonaws.com/syndication.abcaudio.com/files/2026-01-21/News_agriculture_012126.png",
+    "domain": "hitsfm.net",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}

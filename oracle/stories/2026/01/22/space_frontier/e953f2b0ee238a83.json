@@ -1,0 +1,24 @@
+{
+  "id": "e953f2b0ee238a83",
+  "title": "NASA AI Model That Found 370 Exoplanets Now Digs Into TESS Data",
+  "description": "Trained on data from NASA\u2019s exoplanet-hunting missions, the open-source ExoMiner++ deep learning model uses an advanced algorithm to validate new planets.",
+  "content": "Trained on data from NASA\u2019s exoplanet-hunting missions, the open-source ExoMiner++ deep learning model uses an advanced algorithm to validate new planets.",
+  "source": "NASA",
+  "source_url": "https://science.nasa.gov/open-science/deep-learning-exoplanets-tess/",
+  "published_at": "2026-01-22T14:00:48+00:00",
+  "fetched_at": "2026-01-23T00:24:24.269073+00:00",
+  "category": "space_frontier",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "model"
+  ],
+  "location": null,
+  "raw_data": {
+    "title": "NASA AI Model That Found 370 Exoplanets Now Digs Into TESS Data",
+    "description": "Trained on data from NASA\u2019s exoplanet-hunting missions, the open-source ExoMiner++ deep learning model uses an advanced algorithm to validate new planets.",
+    "url": "https://science.nasa.gov/open-science/deep-learning-exoplanets-tess/",
+    "published": "2026-01-22T14:00:48+00:00",
+    "source": "NASA"
+  }
+}
