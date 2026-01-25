@@ -1,0 +1,24 @@
+{
+  "id": "385e194404346a22",
+  "title": "News | CEI",
+  "description": "20260124T200000Z",
+  "content": "",
+  "source": "cei.int",
+  "source_url": "https://www.cei.int/ansa/169818",
+  "published_at": "20260124T200000Z",
+  "fetched_at": "2026-01-25T00:26:39.131417+00:00",
+  "category": "politics_governance",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Italy",
+  "raw_data": {
+    "url": "https://www.cei.int/ansa/169818",
+    "url_mobile": "",
+    "title": "News | CEI",
+    "seendate": "20260124T200000Z",
+    "socialimage": "",
+    "domain": "cei.int",
+    "language": "English",
+    "sourcecountry": "Italy"
+  }
+}

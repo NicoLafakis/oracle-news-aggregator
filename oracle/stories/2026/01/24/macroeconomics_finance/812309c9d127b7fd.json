@@ -1,0 +1,24 @@
+{
+  "id": "812309c9d127b7fd",
+  "title": "Foja cero - La Tercera",
+  "description": "20260124T233000Z",
+  "content": "",
+  "source": "latercera.com",
+  "source_url": "https://www.latercera.com/pulso/noticia/foja-cero/",
+  "published_at": "20260124T233000Z",
+  "fetched_at": "2026-01-25T00:26:39.131417+00:00",
+  "category": "macroeconomics_finance",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Chile",
+  "raw_data": {
+    "url": "https://www.latercera.com/pulso/noticia/foja-cero/",
+    "url_mobile": "https://www.latercera.com/pulso/noticia/foja-cero/?outputType=base-amp-type",
+    "title": "Foja cero - La Tercera",
+    "seendate": "20260124T233000Z",
+    "socialimage": "https://www.latercera.com/resizer/v2/OWT6VNMLPFFWBJFQA7FYQ5ESKY.jpg?auth=5c9a412aea981c261b73d0acea39c6027603697c1e839321dea38e811c115a68&smart=true",
+    "domain": "latercera.com",
+    "language": "Spanish",
+    "sourcecountry": "Chile"
+  }
+}
