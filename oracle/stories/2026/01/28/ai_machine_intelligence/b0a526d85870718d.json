@@ -1,0 +1,24 @@
+{
+  "id": "b0a526d85870718d",
+  "title": "NY\u30c0\u30a6\u306f\u4e00\u9032\u4e00\u9000\u3067\u59cb\u307e\u308b \u3001 \u30cf\u30a4\u30c6\u30af\u304c\u652f\u3048 S & P500\u306f\u521d\u306e7000\u7a81\u7834",
+  "description": "20260128T174500Z",
+  "content": "",
+  "source": "nikkei.com",
+  "source_url": "https://www.nikkei.com/article/DGXZQOFL28CHC0Y6A120C2000000/",
+  "published_at": "20260128T174500Z",
+  "fetched_at": "2026-01-29T00:27:17.444867+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Japan",
+  "raw_data": {
+    "url": "https://www.nikkei.com/article/DGXZQOFL28CHC0Y6A120C2000000/",
+    "url_mobile": "",
+    "title": "NY\u30c0\u30a6\u306f\u4e00\u9032\u4e00\u9000\u3067\u59cb\u307e\u308b \u3001 \u30cf\u30a4\u30c6\u30af\u304c\u652f\u3048 S & P500\u306f\u521d\u306e7000\u7a81\u7834",
+    "seendate": "20260128T174500Z",
+    "socialimage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2542150028012026000000-1.jpg?auto=format&bg=FFFF&crop=focalpoint&fit=crop&fp-x=0.26&fp-y=0.61&s=bd01172191389f97521cc1b7082d9d06",
+    "domain": "nikkei.com",
+    "language": "Japanese",
+    "sourcecountry": "Japan"
+  }
+}

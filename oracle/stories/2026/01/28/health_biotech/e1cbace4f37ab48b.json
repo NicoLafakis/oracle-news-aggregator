@@ -1,0 +1,24 @@
+{
+  "id": "e1cbace4f37ab48b",
+  "title": "STAT+: Why some hospitals are making their own ChatGPTs for patient records",
+  "description": "Some large health systems are building their own AI-powered chatbots to make it easier for their clinicians to query patients' health records.",
+  "content": "Some large health systems are building their own AI-powered chatbots to make it easier for their clinicians to query patients' health records.",
+  "source": "STAT",
+  "source_url": "https://www.statnews.com/2026/01/28/stanford-penn-hospitals-build-electronic-health-record-chatbots/?utm_campaign=rss",
+  "published_at": "2026-01-28T09:30:00+00:00",
+  "fetched_at": "2026-01-29T00:27:17.444867+00:00",
+  "category": "health_biotech",
+  "subcategory": null,
+  "keywords": [
+    "gpt",
+    "ai"
+  ],
+  "location": null,
+  "raw_data": {
+    "title": "STAT+: Why some hospitals are making their own ChatGPTs for patient records",
+    "description": "Some large health systems are building their own AI-powered chatbots to make it easier for their clinicians to query patients' health records.",
+    "url": "https://www.statnews.com/2026/01/28/stanford-penn-hospitals-build-electronic-health-record-chatbots/?utm_campaign=rss",
+    "published": "2026-01-28T09:30:00+00:00",
+    "source": "STAT"
+  }
+}

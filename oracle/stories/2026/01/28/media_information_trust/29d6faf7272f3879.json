@@ -1,0 +1,25 @@
+{
+  "id": "29d6faf7272f3879",
+  "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+  "description": "As part of its mission to preserve the web, the Internet Archive operates crawlers that capture webpage snapshots. Many of these snapshots are accessible through its public-facing tool, the Wayback Machine. But as AI bots scavenge the web for training data to feed their models, the Internet Archive&#8217;s commitment to free information access has turned...",
+  "content": "As part of its mission to preserve the web, the Internet Archive operates crawlers that capture webpage snapshots. Many of these snapshots are accessible through its public-facing tool, the Wayback Machine. But as AI bots scavenge the web for training data to feed their models, the Internet Archive&#8217;s commitment to free information access has turned...",
+  "source": "Nieman Lab",
+  "source_url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+  "published_at": "2026-01-28T20:09:59+00:00",
+  "fetched_at": "2026-01-29T00:27:17.444867+00:00",
+  "category": "media_information_trust",
+  "subcategory": null,
+  "keywords": [
+    "model",
+    "ai",
+    "training"
+  ],
+  "location": null,
+  "raw_data": {
+    "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+    "description": "As part of its mission to preserve the web, the Internet Archive operates crawlers that capture webpage snapshots. Many of these snapshots are accessible through its public-facing tool, the Wayback Machine. But as AI bots scavenge the web for training data to feed their models, the Internet Archive&#8217;s commitment to free information access has turned...",
+    "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+    "published": "2026-01-28T20:09:59+00:00",
+    "source": "Nieman Lab"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "de6444a6cbbba527",
+  "title": "Rules fail at the prompt, succeed at the boundary",
+  "description": "From the Gemini Calendar prompt-injection attack of 2026 to the September 2025 state-sponsored hack using Anthropic\u2019s Claude code as an automated intrusion engine, the coercion of human-in-the-loop agentic actions and fully autonomous agentic workflows are the new attack vector for hackers. In the Anthropic case, roughly 30 organizations across tech, finance, manufacturing, and government were&#8230;",
+  "content": "From the Gemini Calendar prompt-injection attack of 2026 to the September 2025 state-sponsored hack using Anthropic\u2019s Claude code as an automated intrusion engine, the coercion of human-in-the-loop agentic actions and fully autonomous agentic workflows are the new attack vector for hackers. In the Anthropic case, roughly 30 organizations across tech, finance, manufacturing, and government were&#8230;",
+  "source": "MIT Technology Review",
+  "source_url": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/",
+  "published_at": "2026-01-28T14:00:00+00:00",
+  "fetched_at": "2026-01-29T00:27:17.444867+00:00",
+  "category": "ai_machine_intelligence",
+  "subcategory": null,
+  "keywords": [
+    "claude",
+    "autonomous",
+    "manufacturing",
+    "ai"
+  ],
+  "location": null,
+  "raw_data": {
+    "title": "Rules fail at the prompt, succeed at the boundary",
+    "description": "From the Gemini Calendar prompt-injection attack of 2026 to the September 2025 state-sponsored hack using Anthropic\u2019s Claude code as an automated intrusion engine, the coercion of human-in-the-loop agentic actions and fully autonomous agentic workflows are the new attack vector for hackers. In the Anthropic case, roughly 30 organizations across tech, finance, manufacturing, and government were&#8230;",
+    "url": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/",
+    "published": "2026-01-28T14:00:00+00:00",
+    "source": "MIT Technology Review"
+  }
+}

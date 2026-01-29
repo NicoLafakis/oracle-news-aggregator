@@ -1,0 +1,23 @@
+{
+  "id": "af37eafc6ffd4f8f",
+  "title": "STAT+: DeepMind releases AlphaGenome source code, aiming to improve its AI predictions of gene regulation",
+  "description": "Google DeepMind announced it was making AlphaGenome\u2019s source code and weights available to the science community for noncommercial use.",
+  "content": "Google DeepMind announced it was making AlphaGenome\u2019s source code and weights available to the science community for noncommercial use.",
+  "source": "STAT",
+  "source_url": "https://www.statnews.com/2026/01/28/deepmind-opens-alphagenome-source-code/?utm_campaign=rss",
+  "published_at": "2026-01-28T16:00:00+00:00",
+  "fetched_at": "2026-01-29T00:27:17.444867+00:00",
+  "category": "health_biotech",
+  "subcategory": null,
+  "keywords": [
+    "ai"
+  ],
+  "location": null,
+  "raw_data": {
+    "title": "STAT+: DeepMind releases AlphaGenome source code, aiming to improve its AI predictions of gene regulation",
+    "description": "Google DeepMind announced it was making AlphaGenome\u2019s source code and weights available to the science community for noncommercial use.",
+    "url": "https://www.statnews.com/2026/01/28/deepmind-opens-alphagenome-source-code/?utm_campaign=rss",
+    "published": "2026-01-28T16:00:00+00:00",
+    "source": "STAT"
+  }
+}
