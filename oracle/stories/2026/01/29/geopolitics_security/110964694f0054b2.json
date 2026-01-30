@@ -1,0 +1,26 @@
+{
+  "id": "110964694f0054b2",
+  "title": "NATO der Freitag",
+  "description": "20260129T173000Z",
+  "content": "",
+  "source": "freitag.de",
+  "source_url": "https://www.freitag.de/thema/nato",
+  "published_at": "20260129T173000Z",
+  "fetched_at": "2026-01-30T00:27:47.504790+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [
+    "nato"
+  ],
+  "location": "Germany",
+  "raw_data": {
+    "url": "https://www.freitag.de/thema/nato",
+    "url_mobile": "",
+    "title": "NATO der Freitag",
+    "seendate": "20260129T173000Z",
+    "socialimage": "https://www.freitag.de/++theme++freitag.theme24/freitag/fallbacks/fallback-3-2.png",
+    "domain": "freitag.de",
+    "language": "German",
+    "sourcecountry": "Germany"
+  }
+}
