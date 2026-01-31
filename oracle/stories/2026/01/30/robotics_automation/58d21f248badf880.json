@@ -1,0 +1,26 @@
+{
+  "id": "58d21f248badf880",
+  "title": "Child struck by autonomous Waymo in Santa Monica : police",
+  "description": "20260130T181500Z",
+  "content": "",
+  "source": "foxnews.com",
+  "source_url": "https://www.foxnews.com/us/driverless-waymo-vehicle-strikes-child-california",
+  "published_at": "20260130T181500Z",
+  "fetched_at": "2026-01-31T00:26:46.418942+00:00",
+  "category": "robotics_automation",
+  "subcategory": null,
+  "keywords": [
+    "autonomous"
+  ],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://www.foxnews.com/us/driverless-waymo-vehicle-strikes-child-california",
+    "url_mobile": "https://www.foxnews.com/us/driverless-waymo-vehicle-strikes-child-california.amp",
+    "title": "Child struck by autonomous Waymo in Santa Monica : police",
+    "seendate": "20260130T181500Z",
+    "socialimage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/waymo-vehicle-3.jpg",
+    "domain": "foxnews.com",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}
