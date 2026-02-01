@@ -1,0 +1,27 @@
+{
+  "id": "883253c66864f15f",
+  "title": "AI Model Aids Early Coral Bleaching Alerts",
+  "description": "MIAMI \u2014 Scientists have created an AI model that forecasts moderate heat stress \u2014 a major precursor to coral bleaching \u2014 at sites along Florida's",
+  "content": "[Mirage News](https://www.miragenews.com/)\n\nMirage News\n\n\nMirage News\n\n[Science](https://www.miragenews.com/category/science/)\n31 Jan 2026 7:06 pm AEDTDate Time\n\nShare\n\nMIAMI \u2014 Scientists have created an AI model that forecasts moderate heat stress \u2014 a major precursor to coral bleaching \u2014 at sites along Florida's Coral Reef up to six weeks ahead, with predictions generally accurate within one week.\n\nThe study presents a site-specific, explainable machine-learning framework to support coral scientists and restoration practitioners with local reef management and emergency response planning.\n\n\"This model gives coral scientists and resource managers advance notice of whether heat stress is likely to occur in a season \u2014 and, more importantly, the week it is most likely to begin,\" saidlead author [Marybeth Arcodia](https://people.miami.edu/profile/5fc103221a3deb9dce777c4cfafa9523) of the University of Miami Rosenstiel School of Marine, Atmospheric, and Earth Science. Arcodia holds a dual appointment within the [Department of Atmospheric Sciences](https://atmospheric-sciences.earth.miami.edu/index.html) and the [Frost Institute for Data Science and Computing](https://idsc.miami.edu/). \"Through explainable AI, we can also identify the environmental factors driving those predictions at each reef site.\"\n\n\"Our model identifies potential factors that influence thermal stress at a given reef site,\" said Richard Karp, a co-author and post-doctoral research associate at the Rosenstiel School's [Cooperative Institute for Marine and Atmospheric Studies](https://cimas.earth.miami.edu/), \"This information gives managers an opportunity to identify trigger points in emergency action plans, which can support planning and response decisions.\"\n\nThe research team combined atmospheric science, coral ecology, and data science to build a prediction tool tailored to Florida's Coral Reef.\n\n### Localized AI predictions on actionable timescales\n\nUsing an [XGBoost machine-learning](https://en.wikip",
+  "source": "miragenews.com",
+  "source_url": "https://www.miragenews.com/ai-model-aids-early-coral-bleaching-alerts-1611579/",
+  "published_at": "20260131T094500Z",
+  "fetched_at": "2026-02-01T00:32:37.375926+00:00",
+  "category": "energy_resources",
+  "subcategory": null,
+  "keywords": [
+    "model",
+    "ai"
+  ],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://www.miragenews.com/ai-model-aids-early-coral-bleaching-alerts-1611579/",
+    "url_mobile": "",
+    "title": "AI Model Aids Early Coral Bleaching Alerts",
+    "seendate": "20260131T094500Z",
+    "socialimage": "https://news.miami.edu/rosenstiel/_assets/images/images-stories/2026/01/new-ai-model-can-assist-with-early-warning-for-coral-bleaching-risk-940x529.jpeg",
+    "domain": "miragenews.com",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}
