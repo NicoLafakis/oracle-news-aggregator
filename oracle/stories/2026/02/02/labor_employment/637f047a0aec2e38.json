@@ -1,0 +1,24 @@
+{
+  "id": "637f047a0aec2e38",
+  "title": "Las noticias del lunes en la tarde | Diario Financiero",
+  "description": "20260202T200000Z",
+  "content": "",
+  "source": "df.cl",
+  "source_url": "https://www.df.cl/doble-click/lo-que-debes-saber-a-esta-hora-de-la-tarde-ymdmy",
+  "published_at": "20260202T200000Z",
+  "fetched_at": "2026-02-03T00:29:56.519436+00:00",
+  "category": "labor_employment",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Chile",
+  "raw_data": {
+    "url": "https://www.df.cl/doble-click/lo-que-debes-saber-a-esta-hora-de-la-tarde-ymdmy",
+    "url_mobile": "",
+    "title": "Las noticias del lunes en la tarde | Diario Financiero",
+    "seendate": "20260202T200000Z",
+    "socialimage": "",
+    "domain": "df.cl",
+    "language": "Spanish",
+    "sourcecountry": "Chile"
+  }
+}
