@@ -1,0 +1,24 @@
+{
+  "id": "77342dc3a3fb919c",
+  "title": "Energie - FAZ",
+  "description": "20260204T143000Z",
+  "content": "",
+  "source": "faz.net",
+  "source_url": "https://www.faz.net/aktuell/technik-motor/energie/",
+  "published_at": "20260204T143000Z",
+  "fetched_at": "2026-02-05T00:29:17.336486+00:00",
+  "category": "energy_resources",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Germany",
+  "raw_data": {
+    "url": "https://www.faz.net/aktuell/technik-motor/energie/",
+    "url_mobile": "",
+    "title": "Energie - FAZ",
+    "seendate": "20260204T143000Z",
+    "socialimage": "",
+    "domain": "faz.net",
+    "language": "German",
+    "sourcecountry": "Germany"
+  }
+}

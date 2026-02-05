@@ -1,0 +1,24 @@
+{
+  "id": "725f40f0481ee35d",
+  "title": "World Report 2026",
+  "description": "20260204T093000Z",
+  "content": "",
+  "source": "hrw.org",
+  "source_url": "https://www.hrw.org/world-report/2026",
+  "published_at": "20260204T093000Z",
+  "fetched_at": "2026-02-05T00:29:17.336486+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Syria",
+  "raw_data": {
+    "url": "https://www.hrw.org/world-report/2026",
+    "url_mobile": "",
+    "title": "World Report 2026",
+    "seendate": "20260204T093000Z",
+    "socialimage": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2026/01/202601us_losangeles_flower_protestor.jpg?h=dffb015e&itok=xgk_B5o5",
+    "domain": "hrw.org",
+    "language": "English",
+    "sourcecountry": "Syria"
+  }
+}

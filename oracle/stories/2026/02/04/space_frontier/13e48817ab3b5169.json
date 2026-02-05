@@ -1,0 +1,24 @@
+{
+  "id": "13e48817ab3b5169",
+  "title": "Nachrichten aus dem Bereich der Weltraumforschung",
+  "description": "20260204T143000Z",
+  "content": "",
+  "source": "faz.net",
+  "source_url": "https://www.faz.net/aktuell/wissen/weltraum/",
+  "published_at": "20260204T143000Z",
+  "fetched_at": "2026-02-05T00:29:17.336486+00:00",
+  "category": "space_frontier",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Germany",
+  "raw_data": {
+    "url": "https://www.faz.net/aktuell/wissen/weltraum/",
+    "url_mobile": "",
+    "title": "Nachrichten aus dem Bereich der Weltraumforschung",
+    "seendate": "20260204T143000Z",
+    "socialimage": "",
+    "domain": "faz.net",
+    "language": "German",
+    "sourcecountry": "Germany"
+  }
+}
