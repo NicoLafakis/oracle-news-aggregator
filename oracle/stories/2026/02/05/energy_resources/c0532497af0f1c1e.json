@@ -1,0 +1,24 @@
+{
+  "id": "c0532497af0f1c1e",
+  "title": "ABC World - WOND",
+  "description": "20260205T150000Z",
+  "content": "",
+  "source": "wondradio.com",
+  "source_url": "https://wondradio.com/abc-world/a6afd4493347fec1c1edaa24c67e4f3b",
+  "published_at": "20260205T150000Z",
+  "fetched_at": "2026-02-06T00:27:14.258190+00:00",
+  "category": "energy_resources",
+  "subcategory": null,
+  "keywords": [],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://wondradio.com/abc-world/a6afd4493347fec1c1edaa24c67e4f3b",
+    "url_mobile": "",
+    "title": "ABC World - WOND",
+    "seendate": "20260205T150000Z",
+    "socialimage": "https://s3.amazonaws.com/syndication.abcaudio.com/files/2026-02-05/Untitled%20design%20-%202026-02-05T083414.905.png",
+    "domain": "wondradio.com",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}
