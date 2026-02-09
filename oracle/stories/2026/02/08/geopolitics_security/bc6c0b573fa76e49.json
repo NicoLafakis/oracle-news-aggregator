@@ -1,0 +1,26 @@
+{
+  "id": "bc6c0b573fa76e49",
+  "title": "Peligro nuclear",
+  "description": "20260208T033000Z",
+  "content": "",
+  "source": "laregion.es",
+  "source_url": "https://www.laregion.es/opinion/peligro-nuclear_1_20260208-4152827.html",
+  "published_at": "20260208T033000Z",
+  "fetched_at": "2026-02-09T00:30:08.388093+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [
+    "nuclear"
+  ],
+  "location": "Spain",
+  "raw_data": {
+    "url": "https://www.laregion.es/opinion/peligro-nuclear_1_20260208-4152827.html",
+    "url_mobile": "",
+    "title": "Peligro nuclear",
+    "seendate": "20260208T033000Z",
+    "socialimage": "https://static.laregion.es/clip/0382bf97-12ff-456d-bab8-26411615d640_facebook-aspect-ratio_default_0.jpg",
+    "domain": "laregion.es",
+    "language": "Spanish",
+    "sourcecountry": "Spain"
+  }
+}
