@@ -1,0 +1,26 @@
+{
+  "id": "da2719f402ce3fcf",
+  "title": "FDA Refuses to Review Moderna New Flu Shot",
+  "description": "20260212T190000Z",
+  "content": "",
+  "source": "time.com",
+  "source_url": "https://time.com/7377817/moderna-new-flu-shot-fda-review/",
+  "published_at": "20260212T190000Z",
+  "fetched_at": "2026-02-13T00:31:20.432552+00:00",
+  "category": "health_biotech",
+  "subcategory": null,
+  "keywords": [
+    "fda"
+  ],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://time.com/7377817/moderna-new-flu-shot-fda-review/",
+    "url_mobile": "",
+    "title": "FDA Refuses to Review Moderna New Flu Shot",
+    "seendate": "20260212T190000Z",
+    "socialimage": "https://api.time.com/wp-content/uploads/2026/02/moderna.jpg?quality=85&crop=1",
+    "domain": "time.com",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}
