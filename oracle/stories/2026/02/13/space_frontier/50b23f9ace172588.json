@@ -1,0 +1,27 @@
+{
+  "id": "50b23f9ace172588",
+  "title": "SpaceX launches new crew to International Space Station",
+  "description": "20260213T150000Z",
+  "content": "",
+  "source": "abc.net.au",
+  "source_url": "https://www.abc.net.au/news/2026-02-14/new-crew-launch-towards-international-space-tation/106343980",
+  "published_at": "20260213T150000Z",
+  "fetched_at": "2026-02-14T00:29:18.398832+00:00",
+  "category": "space_frontier",
+  "subcategory": null,
+  "keywords": [
+    "spacex",
+    "space station"
+  ],
+  "location": "Australia",
+  "raw_data": {
+    "url": "https://www.abc.net.au/news/2026-02-14/new-crew-launch-towards-international-space-tation/106343980",
+    "url_mobile": "",
+    "title": "SpaceX launches new crew to International Space Station",
+    "seendate": "20260213T150000Z",
+    "socialimage": "https://live-production.wcms.abc-cdn.net.au/d0ba7a7273b8498c75b6e065710761ed?impolicy=wcms_watermark_news&cropH=1618&cropW=2877&xPos=0&yPos=150&imformat=generic",
+    "domain": "abc.net.au",
+    "language": "English",
+    "sourcecountry": "Australia"
+  }
+}
