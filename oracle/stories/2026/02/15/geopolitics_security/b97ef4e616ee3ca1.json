@@ -1,0 +1,24 @@
+{
+  "id": "b97ef4e616ee3ca1",
+  "title": "Hacker News : Aktuelle Nachrichten zu Hacker aus 2026",
+  "description": "20260215T041500Z",
+  "content": "",
+  "source": "news.de",
+  "source_url": "https://www.news.de/thema/hacker/1/",
+  "published_at": "20260215T041500Z",
+  "fetched_at": "2026-02-16T00:29:41.976443+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Germany",
+  "raw_data": {
+    "url": "https://www.news.de/thema/hacker/1/",
+    "url_mobile": "",
+    "title": "Hacker News : Aktuelle Nachrichten zu Hacker aus 2026",
+    "seendate": "20260215T041500Z",
+    "socialimage": "",
+    "domain": "news.de",
+    "language": "German",
+    "sourcecountry": "Germany"
+  }
+}
