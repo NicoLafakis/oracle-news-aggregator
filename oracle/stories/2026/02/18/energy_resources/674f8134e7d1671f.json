@@ -1,0 +1,24 @@
+{
+  "id": "674f8134e7d1671f",
+  "title": "\u042d\u043d\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043b\u043e\u043c : \u043a\u043e\u0433\u0434\u0430 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u043f\u043e\u0431\u0435\u0436\u0434\u0430\u044e\u0442 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0443",
+  "description": "20260218T161500Z",
+  "content": "",
+  "source": "news.day.az",
+  "source_url": "https://news.day.az/world/1816939.html",
+  "published_at": "20260218T161500Z",
+  "fetched_at": "2026-02-19T00:30:34.211663+00:00",
+  "category": "energy_resources",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Azerbaijan",
+  "raw_data": {
+    "url": "https://news.day.az/world/1816939.html",
+    "url_mobile": "",
+    "title": "\u042d\u043d\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043b\u043e\u043c : \u043a\u043e\u0433\u0434\u0430 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u043f\u043e\u0431\u0435\u0436\u0434\u0430\u044e\u0442 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0443",
+    "seendate": "20260218T161500Z",
+    "socialimage": "https://news.day.az/media/2026/02/18/renewables_fossil_fuels_header_o.jpg",
+    "domain": "news.day.az",
+    "language": "Russian",
+    "sourcecountry": "Azerbaijan"
+  }
+}

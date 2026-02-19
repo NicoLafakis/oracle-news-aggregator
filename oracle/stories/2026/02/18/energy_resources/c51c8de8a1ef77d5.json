@@ -1,0 +1,24 @@
+{
+  "id": "c51c8de8a1ef77d5",
+  "title": "Evidence - NASA Science",
+  "description": "20260218T230000Z",
+  "content": "",
+  "source": "science.nasa.gov",
+  "source_url": "https://science.nasa.gov/climate-change/evidence/",
+  "published_at": "20260218T230000Z",
+  "fetched_at": "2026-02-19T00:30:34.211663+00:00",
+  "category": "energy_resources",
+  "subcategory": null,
+  "keywords": [],
+  "location": "United States",
+  "raw_data": {
+    "url": "https://science.nasa.gov/climate-change/evidence/",
+    "url_mobile": "",
+    "title": "Evidence - NASA Science",
+    "seendate": "20260218T230000Z",
+    "socialimage": "https://assets.science.nasa.gov/content/dam/science/esd/climate/internal_resources/2715/evidence_banner_new_1920.jpeg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "domain": "science.nasa.gov",
+    "language": "English",
+    "sourcecountry": "United States"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "869f30ddfecdfce7",
+  "title": "tagesschau | tagesschau . de",
+  "description": "20260218T143000Z",
+  "content": "",
+  "source": "tagesschau.de",
+  "source_url": "https://www.tagesschau.de/tagesschau/ts-76504.html",
+  "published_at": "20260218T143000Z",
+  "fetched_at": "2026-02-19T00:30:34.211663+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Germany",
+  "raw_data": {
+    "url": "https://www.tagesschau.de/tagesschau/ts-76504.html",
+    "url_mobile": "",
+    "title": "tagesschau | tagesschau . de",
+    "seendate": "20260218T143000Z",
+    "socialimage": "",
+    "domain": "tagesschau.de",
+    "language": "German",
+    "sourcecountry": "Germany"
+  }
+}
