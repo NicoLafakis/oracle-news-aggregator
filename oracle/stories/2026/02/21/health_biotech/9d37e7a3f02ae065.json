@@ -1,0 +1,24 @@
+{
+  "id": "9d37e7a3f02ae065",
+  "title": "Generative AI analyzes medical data faster than human research teams",
+  "description": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced the time needed to process health data. The findings hint at a future where AI helps scientists move faster from data to discovery.",
+  "content": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced the time needed to process health data. The findings hint at a future where AI helps scientists move faster from data to discovery.",
+  "source": "Health & Medicine News -- ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
+  "published_at": "2026-02-21T11:17:29+00:00",
+  "fetched_at": "2026-02-22T00:29:33.326668+00:00",
+  "category": "health_biotech",
+  "subcategory": null,
+  "keywords": [
+    "ai",
+    "model"
+  ],
+  "location": null,
+  "raw_data": {
+    "title": "Generative AI analyzes medical data faster than human research teams",
+    "description": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced the time needed to process health data. The findings hint at a future where AI helps scientists move faster from data to discovery.",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
+    "published": "2026-02-21T11:17:29+00:00",
+    "source": "Health & Medicine News -- ScienceDaily"
+  }
+}
