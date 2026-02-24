@@ -1,0 +1,24 @@
+{
+  "id": "edc2ef48c18d0e4d",
+  "title": "Cuba se apaga",
+  "description": "20260223T031500Z",
+  "content": "",
+  "source": "hoy.es",
+  "source_url": "https://www.hoy.es/internacional/cuba-apaga-20260222165006-ntrc.html",
+  "published_at": "20260223T031500Z",
+  "fetched_at": "2026-02-24T00:28:11.413813+00:00",
+  "category": "energy_resources",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Spain",
+  "raw_data": {
+    "url": "https://www.hoy.es/internacional/cuba-apaga-20260222165006-ntrc.html",
+    "url_mobile": "https://www.hoy.es/internacional/cuba-apaga-20260222165006-ntrc_amp.html",
+    "title": "Cuba se apaga",
+    "seendate": "20260223T031500Z",
+    "socialimage": "",
+    "domain": "hoy.es",
+    "language": "Spanish",
+    "sourcecountry": "Spain"
+  }
+}
