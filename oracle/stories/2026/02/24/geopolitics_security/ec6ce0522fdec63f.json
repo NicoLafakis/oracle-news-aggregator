@@ -1,0 +1,24 @@
+{
+  "id": "ec6ce0522fdec63f",
+  "title": "NYT \u0443\u0437\u043d\u0430\u043b\u0430 \u043e \u0442\u0430\u0439\u043d\u043e\u043c \u0431\u0440\u0438\u0444\u0438\u043d\u0433\u0435 \u0426\u0420\u0423 \u0434\u043b\u044f \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0446\u0438\u0439 \u043e\u0431 \u0430\u0442\u0430\u043a\u0435 \u041a\u0438\u0442\u0430\u044f \u043d\u0430 \u0422\u0430\u0439\u0432\u0430\u043d\u044c",
+  "description": "20260224T220000Z",
+  "content": "",
+  "source": "rbc.ru",
+  "source_url": "https://www.rbc.ru/politics/25/02/2026/699ded5b9a794741c50136f0",
+  "published_at": "20260224T220000Z",
+  "fetched_at": "2026-02-25T00:31:06.376048+00:00",
+  "category": "geopolitics_security",
+  "subcategory": null,
+  "keywords": [],
+  "location": "Russia",
+  "raw_data": {
+    "url": "https://www.rbc.ru/politics/25/02/2026/699ded5b9a794741c50136f0",
+    "url_mobile": "https://amp.rbc.ru/rbcnews/politics/25/02/2026/699ded5b9a794741c50136f0",
+    "title": "NYT \u0443\u0437\u043d\u0430\u043b\u0430 \u043e \u0442\u0430\u0439\u043d\u043e\u043c \u0431\u0440\u0438\u0444\u0438\u043d\u0433\u0435 \u0426\u0420\u0423 \u0434\u043b\u044f \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0446\u0438\u0439 \u043e\u0431 \u0430\u0442\u0430\u043a\u0435 \u041a\u0438\u0442\u0430\u044f \u043d\u0430 \u0422\u0430\u0439\u0432\u0430\u043d\u044c",
+    "seendate": "20260224T220000Z",
+    "socialimage": "https://s0.rbk.ru/v6_top_pics/media/img/0/05/347719679276050.jpg",
+    "domain": "rbc.ru",
+    "language": "Russian",
+    "sourcecountry": "Russia"
+  }
+}
