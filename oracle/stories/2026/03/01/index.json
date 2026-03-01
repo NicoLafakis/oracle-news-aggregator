@@ -1,0 +1,1959 @@
+{
+  "date": "2026-03-01",
+  "total_stories": 277,
+  "by_category": {
+    "geopolitics_security": 102,
+    "macroeconomics_finance": 52,
+    "energy_resources": 17,
+    "climate_environment": 5,
+    "politics_governance": 51,
+    "labor_employment": 15,
+    "health_biotech": 6,
+    "robotics_automation": 2,
+    "semiconductors_compute": 2,
+    "space_frontier": 11,
+    "geological_events": 9,
+    "ai_machine_intelligence": 5
+  },
+  "stories": [
+    {
+      "id": "ae833ed936d886f9",
+      "title": "\u0393\u03b9\u03b1\u03c4\u03af \u03bf \u03a4\u03c1\u03b1\u03bc\u03c0 \u03b5\u03c0\u03ad\u03bb\u03b5\u03be\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b9\u03c4\u03b5\u03b8\u03b5\u03af \u03c4\u03b5\u03bb\u03b9\u03ba\u03ac \u03c3\u03c4\u03bf \u0399\u03c1\u03ac\u03bd ; ",
+      "category": "geopolitics_security",
+      "source": "protagon.gr",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "410717767284c30c",
+      "title": "\u4e8c\u6230\u50b3\u8aaa \u65e5\u8ecd\u6a5f\u8eb2\u5728\u4e2d\u5e02\u5343\u5e74\u8304\u82f3\u6a39\u4e0b \u5c45\u6c11\u9003\u904e\u8f5f\u70b8 - \u751f\u6d3b",
+      "category": "geopolitics_security",
+      "source": "news.ltn.com.tw",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "f101532221ce52da",
+      "title": "\u661f\u671f\u5c08\u8ad6 \u300b \u7d42\u65bc \uff0c \u53f0\u7063\u7684\u5b89\u5168\u8fce\u4f86\u597d\u6d88\u606f \u65e5\u672c\u63d0\u5347\u4e86\u53f0\u7063\u7684\u6230\u7565\u5730\u4f4d - \u653f\u6cbb",
+      "category": "geopolitics_security",
+      "source": "news.ltn.com.tw",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "f938d0c681823442",
+      "title": "\u0e2d\u0e34\u0e2b\u0e23\u0e48\u0e32\u0e19\u0e1b\u0e34\u0e14\u0e0a\u0e48\u0e2d\u0e07\u0e41\u0e04\u0e1a\u0e2e\u0e2d\u0e23\u0e4c\u0e21\u0e38\u0e0b \u0e40\u0e2a\u0e49\u0e19\u0e17\u0e32\u0e07\u0e02\u0e19\u0e2a\u0e48\u0e07\u0e19\u0e49\u0e33\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e04\u0e31\u0e0d\u0e02\u0e2d\u0e07\u0e42\u0e25\u0e01 \u0e2b\u0e22\u0e38\u0e14\u0e01\u0e32\u0e23\u0e40\u0e14\u0e34\u0e19\u0e40\u0e23\u0e37\u0e2d\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14",
+      "category": "geopolitics_security",
+      "source": "thaipublica.org",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "464904b8f2c8312e",
+      "title": "\u041c\u0430\u0441\u043b\u043e\u0432 : \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u041f\u0435\u043a\u0438\u043d\u0430 \u0438 \u0422\u043e\u043a\u0438\u043e \u043e\u0441\u043b\u043e\u0436\u043d\u044f\u0435\u0442\u0441\u044f \u043f\u0440\u0438\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0435\u043c \u0421\u0428\u0410",
+      "category": "geopolitics_security",
+      "source": "iz.ru",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "ff0f14c189d3eb88",
+      "title": "\u042f\u043f\u043e\u043d\u0438\u044f \u0440\u0435\u0448\u0438\u043b\u0430 \u0440\u0430\u0437\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u0440\u0430\u043a\u0435\u0442\u044b \u0440\u044f\u0434\u043e\u043c \u0441 \u0422\u0430\u0439\u0432\u0430\u043d\u0435\u043c",
+      "category": "geopolitics_security",
+      "source": "iz.ru",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "9660784921be2ac8",
+      "title": "\u5409\u5c14\u5409\u65af\u65af\u5766\u4e8c\u53f7\u4eba\u7269\u88ab  \u7597\u517b \uff1a \u5144\u5f1f\u960b\u5899\u80cc\u540e\u7684  \u666e\u529b\u593a  \u903b\u8f91",
+      "category": "geopolitics_security",
+      "source": "baijiahao.baidu.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "ad00e51b3f997e7e",
+      "title": "\u50b3\u4f0a\u6717\u6700\u9ad8\u9818\u8896\u6b7b\u65bc\u7a7a\u8972 \u5ddd\u666e \uff1a \u6211\u5011\u8a8d\u70ba\u6d88\u606f\u5c6c\u5be6 | \u570b\u969b",
+      "category": "geopolitics_security",
+      "source": "cna.com.tw",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "109de61576fe9b82",
+      "title": "BLOGI | Bloomberg : Venemaa plaanib l\u00e4birkimistelt lahkuda , kui Ukraina ei n\u00f5ustu Donbassist loobuma",
+      "category": "geopolitics_security",
+      "source": "ohtuleht.ee",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "6aaac84a85286061",
+      "title": "What countries has Trump attacked since returning to office ? - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
+      "category": "geopolitics_security",
+      "source": "dominicanrepublicpost.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "c0a3e1c5a72dd258",
+      "title": "Iran supreme leader has been killed during major attack , Trump says \u2013 Mainline Media News",
+      "category": "geopolitics_security",
+      "source": "mainlinemedianews.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "0449d9a6ac994b50",
+      "title": "Iran and the U . S ., Part Two : Rules of Engagement : Throughline",
+      "category": "geopolitics_security",
+      "source": "npr.org",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "0d33320f9d1d563c",
+      "title": "President Trump confirms Iranian Supreme Leader Ali Khamenei is dead after Israel - US strike",
+      "category": "geopolitics_security",
+      "source": "kkco11news.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "7fc8799ebab64778",
+      "title": "Ir\u00e1ni konfliktus - Szijj\u00e1rt\u00f3 P\u00e9ter : sok magyar is \u00e9rintett , \u0151k t\u00f6bb telefonsz\u00e1mon is k\u00e9rhetnek inform\u00e1ci\u00f3t , seg\u00edts\u00e9get",
+      "category": "geopolitics_security",
+      "source": "webradio.hu",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "ee1759dce8b059e8",
+      "title": "Strikes on Iran could push US gas prices well above $3 , analysts warn",
+      "category": "geopolitics_security",
+      "source": "ksby.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "bcdfbe172b1832d0",
+      "title": "Who was Ayatollah Khamenei and what his reported death means for Iran",
+      "category": "geopolitics_security",
+      "source": "thehindubusinessline.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "289eabd3e1e549d3",
+      "title": "  Trump has recklessly rushed to war . NH congressional delegation criticizes strikes against Iran",
+      "category": "geopolitics_security",
+      "source": "nhpr.org",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "f906a24cf3fb0a0f",
+      "title": "Iran attack sparks reaction from North Carolina politicians on both sides of the aisle",
+      "category": "geopolitics_security",
+      "source": "abc11.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "fe25fafe447f3fa4",
+      "title": "Latest developments in US , Israel strikes on Iran",
+      "category": "geopolitics_security",
+      "source": "lebanondemocrat.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "4a9c51d6b39c9016",
+      "title": "Trump calls Khamenei death  greatest chance for the Iranian people to take back their Country  ",
+      "category": "geopolitics_security",
+      "source": "fortune.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "fe077359386268b7",
+      "title": "Questions cloud Trump case for war against Iran",
+      "category": "geopolitics_security",
+      "source": "kten.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "cd9c92d7e07bfec6",
+      "title": "\u516b\u95ee\u516b\u7b54 \uff1a \u7f8e\u4ee5\u4e3a\u4f55\u8054\u5408\u88ad\u51fb\u4f0a\u6717 \uff1f \u4e2d\u4e1c\u5c40\u52bf\u5c06\u5411\u4f55\u5904\u53bb \uff1f ",
+      "category": "geopolitics_security",
+      "source": "baijiahao.baidu.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "f2c2471368f697a4",
+      "title": "Iran and the U . S ., Part Three : Soleimani Iran : Throughline",
+      "category": "geopolitics_security",
+      "source": "npr.org",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "4337790d0a07e0a9",
+      "title": "Supreme Leader Khamenei killed in attacks on Iran , says Trump",
+      "category": "geopolitics_security",
+      "source": "gazetteherald.co.uk",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "12ebebf3140e8332",
+      "title": "World leaders react cautiously to US strikes , death of Ali Khamenei",
+      "category": "geopolitics_security",
+      "source": "mainlinemedianews.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "dc5a7177b82b732f",
+      "title": "Ir\u00e1ni konfliktus - Orb\u00e1n Viktor : egy fokozattal megemelt\u00fck a terrorfenyegetetts\u00e9g k\u00e9sz\u00fclts\u00e9gi szintj\u00e9t",
+      "category": "geopolitics_security",
+      "source": "webradio.hu",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "9c942040184f9ef9",
+      "title": "UN Chief Guterres urges immediate halt to hostilities in Middle East",
+      "category": "geopolitics_security",
+      "source": "aninews.in",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "28043a1646bded73",
+      "title": "Israeli officials say Supreme Leader Ayatollah Ali Khamenei is dead",
+      "category": "geopolitics_security",
+      "source": "lex18.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "2f5062510059e995",
+      "title": "\u0631\u0626\u064a\u0633 \u0644\u062c\u0646\u0629 \u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629 \u0628\u0627\u0644\u0634\u064a\u0648\u062e : \u0625\u0633\u0642\u0627\u0637 \u0627\u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a \u0644\u064a\u0633 \u0633\u0647\u0644\u0627 .. \u0648\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0645\u0642\u0628\u0644\u0629 \u0639\u0644\u0649 \u0623\u064a\u0627\u0645 \u0635\u0639\u0628\u0629",
+      "category": "geopolitics_security",
+      "source": "shorouknews.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "8a466283483ce4ee",
+      "title": "Trung \u0110\u00f4ng kh\u00f3i l\u1eeda , k\u1ecbch b\u1ea3n chi\u1ebfn s\u1ef1 n\u00e0o ti\u1ebfp theo ? ",
+      "category": "geopolitics_security",
+      "source": "tuoitre.vn",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "85c5f83126745702",
+      "title": "The Latest : Trump says Iranian Supreme Leader Ali Khamenei is dead",
+      "category": "geopolitics_security",
+      "source": "kob.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "8247c414f864bd54",
+      "title": "Analysis : Why did Trump attack Iran now , and what next ? ",
+      "category": "geopolitics_security",
+      "source": "cnn.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "d7f485a6599b47c1",
+      "title": "World leaders react cautiously to US , Israeli strikes on Iran as fears grow of a wider war",
+      "category": "geopolitics_security",
+      "source": "ksl.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "a5fa2a4301a9f809",
+      "title": "\ud558\uba54\ub124\uc774 \uc0ac\ub9dd\uc5d0 \uae08\uc735\uc2dc\uc7a5 \uc694\ub3d9 \u2026 \uc720\uac00 100\ub2ec\ub7ec \ub3cc\ud30c\ud558\ub098",
+      "category": "geopolitics_security",
+      "source": "fnnews.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "673447205d9e2fc3",
+      "title": "Pengamat : Serangan AS - Israel ke Iran Picu Risiko Perang Kawasan",
+      "category": "geopolitics_security",
+      "source": "news.harianjogja.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "55de878be711bbb9",
+      "title": "No American Casualties , Minimal Damage To Facilities From Iranian Attacks",
+      "category": "geopolitics_security",
+      "source": "wiba.iheart.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "6d30e8ffb05d8aa0",
+      "title": "Azad Concerned Over Escalating Middle East Conflict , Urges Restraint | Rediff - TV",
+      "category": "geopolitics_security",
+      "source": "tv.rediff.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "1243bb4f631b88ea",
+      "title": "US , Israel launch coordinated attacks on Iran",
+      "category": "geopolitics_security",
+      "source": "sbs.com.au",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "7ecc0559964c0930",
+      "title": "Aussie leaders back siege on  illegitimate  Iran regime",
+      "category": "geopolitics_security",
+      "source": "dungogchronicle.com.au",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "7edeb9a240395171",
+      "title": "  Acted to stop an existential threat to Israel , to our allies , and to global stability : Israel Ambassador to UN",
+      "category": "geopolitics_security",
+      "source": "aninews.in",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "a915d29b103f24f2",
+      "title": "World on Edge as US , Israel Attack Iran , Global Leaders React \u2013 THISDAYLIVE",
+      "category": "geopolitics_security",
+      "source": "thisdaylive.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "b12563878f1b9528",
+      "title": "Izrael i united states zaatakowa\u0142y Iran ; Teheran odpowiedzia\u0142 , Chamenei ... ",
+      "category": "geopolitics_security",
+      "source": "info.wiara.pl",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "0a3e7e20f0bdb77b",
+      "title": "T\u1ed5ng th\u1ed1ng Trump tuy\u00ean b\u1ed1 L\u00e3nh t\u1ee5 T\u1ed1i cao Iran Ayatollah Ali Khamenei  \u0111\u00e3 ch\u1ebft  ",
+      "category": "geopolitics_security",
+      "source": "baomoi.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "ed0585d58030d86e",
+      "title": "H\u0110BA LHQ nh\u00f3m h\u1ecdp kh\u1ea9n c\u1ea5p v\u1ec1 v\u1ee5 M\u1ef9 t\u1ea5n c\u00f4ng Iran",
+      "category": "geopolitics_security",
+      "source": "baomoi.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "a26732b64e0df190",
+      "title": "Trump hevder Irans leder Ali Khamenei er d\u00f8d",
+      "category": "geopolitics_security",
+      "source": "dagsavisen.no",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "764bd066a0816895",
+      "title": "Trump claims Iran leader Khamenei dead following military strikes",
+      "category": "geopolitics_security",
+      "source": "walesonline.co.uk",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "404983f253bcf65c",
+      "title": "IRGC : Rudal Iran Hantam Pangkalan AS dan Israel",
+      "category": "geopolitics_security",
+      "source": "news.harianjogja.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "d1df0b8da635460e",
+      "title": "War powers debate intensifies after Trump orders attack on Iran without Congress approval",
+      "category": "geopolitics_security",
+      "source": "kkco11news.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "eaf2a63d77e50872",
+      "title": "Hundreds of thousands of travelers stranded by flight disruptions after attack on Iran",
+      "category": "geopolitics_security",
+      "source": "inquirer.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "9981607c877966db",
+      "title": "Idaho Democratic chair slams Trump for Iran military action without congressional approval",
+      "category": "geopolitics_security",
+      "source": "idahonews.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "a075bf5627f5c57a",
+      "title": "IRGC Klaim Selat Hormuz Ditutup Usai Serangan AS - Israel",
+      "category": "geopolitics_security",
+      "source": "news.harianjogja.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "aa392b48ef91ead7",
+      "title": "Ayatollah Ali Khamenei : The leader who shaped Iran defiance - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
+      "category": "geopolitics_security",
+      "source": "dominicanrepublicpost.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "4b9e871171717a59",
+      "title": "More checks at Singapore checkpoints due to Middle East situation",
+      "category": "geopolitics_security",
+      "source": "straitstimes.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "bf38844a9360f8ed",
+      "title": "PA lawmakers react to US strikes on Iran :  Americans dont want war  ",
+      "category": "geopolitics_security",
+      "source": "fox29.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "1298950e84b4501f",
+      "title": "US attacks Iran : Will gas prices go up ? ",
+      "category": "geopolitics_security",
+      "source": "ktvu.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "d8776edcb94b240d",
+      "title": "  Lead architect of global terrorism is DEAD : House Republicans on reported death of Iran Khamenei",
+      "category": "geopolitics_security",
+      "source": "aninews.in",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "5eeeffe0e1b8e278",
+      "title": "Colorado lawmakers react to Israel - US strike on Iran",
+      "category": "geopolitics_security",
+      "source": "kkco11news.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "ff5f6fa516e2935b",
+      "title": "A History of Hezbollah : Throughline",
+      "category": "geopolitics_security",
+      "source": "npr.org",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "1872b5f5992762d6",
+      "title": "Regional leaders react to strikes on Iran",
+      "category": "geopolitics_security",
+      "source": "wrdw.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "63dbc4fd7460c7de",
+      "title": "Iran Ayatollah Ali Khamenei is killed in Israeli strike , ending 36 - year iron rule",
+      "category": "geopolitics_security",
+      "source": "wrkf.org",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "233afca59c084b87",
+      "title": "Iranian supreme leader killed in Israeli airstrike , Trump says",
+      "category": "geopolitics_security",
+      "source": "nhpr.org",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "02bd62330433c0d0",
+      "title": "Ali Khamenei , du candidat putatif au leader secret , parano\u00efaque et brutal",
+      "category": "geopolitics_security",
+      "source": "lalibre.be",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "d09fb11d670f4c7c",
+      "title": "The fate of Iran Supreme Leader unclear | Extra Morning News Bulletin 1 March 2026",
+      "category": "geopolitics_security",
+      "source": "sbs.com.au",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "6c355a412f8b4f6c",
+      "title": "Missiles across Middle East : T & T Nationals urged to shelter in place",
+      "category": "geopolitics_security",
+      "source": "trinidadexpress.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "73c63b4994e8a31c",
+      "title": "  Greatest chance for Iranian people to take back their country : Trump after Khamenei death in Tehran strike",
+      "category": "geopolitics_security",
+      "source": "aninews.in",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "9a077d4bfbbf5f94",
+      "title": "Prabowo Siap ke Iran , Indonesia Tawarkan Mediasi",
+      "category": "geopolitics_security",
+      "source": "news.harianjogja.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "6247de082f31d7bf",
+      "title": "Iran missiles bring war to Gulf doorstep ; harden support for US \u2013 Israel campaign",
+      "category": "geopolitics_security",
+      "source": "kathmandupost.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "2f3a5058f6c1c597",
+      "title": "Iran and the U . S ., Part One : Four Days in August : Throughline",
+      "category": "geopolitics_security",
+      "source": "npr.org",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "061ffdc7bf7558a2",
+      "title": "UN chief condemns US - Israeli attacks on Iran during emergency Security Council meeting",
+      "category": "geopolitics_security",
+      "source": "mymotherlode.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "8282071ae6384cbf",
+      "title": "News zu Iran : Raketen auf US - Luftwaffenst\u00fctzpunkt in Saudi - Arabien und Israel",
+      "category": "geopolitics_security",
+      "source": "sueddeutsche.de",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "bfbd6aca0dcb6d64",
+      "title": "War powers debate in Congress intensifies after Trump strikes on Iran",
+      "category": "geopolitics_security",
+      "source": "wdbo.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "34afaf13780e9b97",
+      "title": "M\u1ef9 v\u00e0 Israel t\u1ea5n c\u00f4ng Iran , Tehran \u0111\u00e1p tr\u1ea3 tr\u00ean kh\u1eafp Trung \u0110\u00f4ng",
+      "category": "geopolitics_security",
+      "source": "baomoi.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "48766056579f9c03",
+      "title": "Iran Protests Explained : Throughline",
+      "category": "geopolitics_security",
+      "source": "npr.org",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "3ad7a81e3c7443eb",
+      "title": "Quem foi o aiatol\u00e1 Ali Khamenei , l\u00edder supremo do Ir\u00e3 anunciado como morto",
+      "category": "geopolitics_security",
+      "source": "cartacapital.com.br",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "af659cd7a05e2ca9",
+      "title": "Drone intercepted near Burj Al Arab , fire quickly contained amid rising tensions in Middle East",
+      "category": "geopolitics_security",
+      "source": "aninews.in",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "c1181d6a7e70e113",
+      "title": "Xung \u0111\u1ed9t M\u1ef9 - Iran c\u00f3 th\u1ec3 l\u00e0m gia t\u0103ng r\u1ee7i ro cho th\u1ecb tr\u01b0\u1eddng n\u0103ng l\u01b0\u1ee3ng to\u00e0n c\u1ea7u",
+      "category": "geopolitics_security",
+      "source": "baomoi.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "53cb1a1dc6950bc3",
+      "title": "Trump da por muerto al ayatol\u00e1 Jamenei : qui\u00e9n era y c\u00f3mo ejerci\u00f3 el poder el l\u00edder supremo de Ir\u00e1n durante casi 4 d\u00e9cadas",
+      "category": "geopolitics_security",
+      "source": "acento.com.do",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "18e5b80be0a3d2d2",
+      "title": "Travel in chaos as airlines cancel flights after US , Israel strikes on Iran",
+      "category": "geopolitics_security",
+      "source": "theeagleonline.com.ng",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "a6bd3c159d34d386",
+      "title": "\uc774\ub780\uc744 36\ub144 \uc6c0\ucf1c\uc954 \ub0a8\uc790 \u2026 \ud558\uba54\ub124\uc774\ub294 \ub204\uad6c\uc778\uac00",
+      "category": "geopolitics_security",
+      "source": "fnnews.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "8041c2d7f9ec006d",
+      "title": "Ali Chamenei ist tot : Er war Irans m\u00e4chtigster Mann und unantastbarer Religionsf\u00fchrer \u2013 Portr\u00e4t",
+      "category": "geopolitics_security",
+      "source": "ln-online.de",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "ea9ca92e6f002182",
+      "title": "Prezydent united states : ajatollah Ali Chamenei nie \u017cyje",
+      "category": "geopolitics_security",
+      "source": "info.wiara.pl",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "a05909dfbd3fe08f",
+      "title": "Irans m\u00e4chtigster Mann und Religionsf\u00fchrer Chamenei ist tot",
+      "category": "geopolitics_security",
+      "source": "az-online.de",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "e4c5658ebe58afc4",
+      "title": "Khamenei , the hard - line cleric in charge of Iran since 1989",
+      "category": "geopolitics_security",
+      "source": "thedailystar.net",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "e15145d6bfd609a5",
+      "title": "A look at Iran key political and religious figures",
+      "category": "geopolitics_security",
+      "source": "ktar.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "6c0f6777f8c11591",
+      "title": "\u041f\u0440\u0438 \u0430\u0442\u0430\u043a\u0435 \u043d\u0430 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0410\u0431\u0443 - \u0414\u0430\u0431\u0438 \u043f\u043e\u0433\u0438\u0431 \u0447\u0435\u043b\u043e\u0432\u0435\u043a",
+      "category": "geopolitics_security",
+      "source": "news.mail.ru",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "cf3d77214acecd86",
+      "title": "Consejo de Seguridad ONU : China y Rusia contra  descarada  ofensiva de guerra contra Ir\u00e1n",
+      "category": "geopolitics_security",
+      "source": "acento.com.do",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "a7a51051a97f69a9",
+      "title": "Crece temor de una guerra m\u00e1s amplia en Medio Oriente",
+      "category": "geopolitics_security",
+      "source": "vanguardia.com.mx",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "a4a8c7b975c92828",
+      "title": "Indian Embassy in Doha halts regular services , offers emergency consular support amid Middle East tensions",
+      "category": "geopolitics_security",
+      "source": "aninews.in",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "c24d7acce9fe98eb",
+      "title": "\u0421\u041c\u0418 : \u0421\u0428\u0410 \u043f\u0435\u0440\u0435\u0441\u043c\u043e\u0442\u0440\u0435\u043b\u0438 \u043f\u043b\u0430\u043d\u044b \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0418\u0440\u0430\u043d\u0443",
+      "category": "geopolitics_security",
+      "source": "mk.ru",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "82466f4726bdfb80",
+      "title": "Jewish leaders back decisive action against Iran",
+      "category": "geopolitics_security",
+      "source": "israelnationalnews.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "f66f805b65f26b11",
+      "title": "Petro pide reuni\u00f3n urgente del Consejo de Seguridad de la ONU tras ataques de EE . UU . e Israel",
+      "category": "geopolitics_security",
+      "source": "elpais.com.co",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "cbee0598942d53f4",
+      "title": "Albanese holds national security meeting as Iran supreme leader declared  dead  ",
+      "category": "geopolitics_security",
+      "source": "perthnow.com.au",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "9304bb4d668e56da",
+      "title": "Reac\u021biile liderilor lumii dup\u0103 atacurile asupra Iranului",
+      "category": "geopolitics_security",
+      "source": "forbes.ro",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "49fbf0d3d8bdf589",
+      "title": "Moscow condemns US - Israel strikes on Iran",
+      "category": "geopolitics_security",
+      "source": "taiwansun.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "2b6532fe6573e62c",
+      "title": "Ukraine - Krieg im Liveticker : +++ 00 : 00 Ukraine bereitet sich auf trilaterales Treffen vor +++",
+      "category": "geopolitics_security",
+      "source": "n-tv.de",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "dca5d71f2cf7e812",
+      "title": "Angriff auf den Iran im Liveticker : +++ 00 : 31 Milit\u00e4r der Emirate meldet 132 abgewehrte ballistische Raketen +++",
+      "category": "geopolitics_security",
+      "source": "n-tv.de",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "887817330ccf192c",
+      "title": "Presidenti i Shqip\u00ebris\u00eb Bajram Begaj nderohet me  \u00c7el\u00ebsin e Qytetit  n\u00eb Gostivar \u2013 Sharri . info",
+      "category": "geopolitics_security",
+      "source": "sharri.info",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "ef6f64aba4479063",
+      "title": "Qamili : Tetova me pritje dinjitoze p\u00ebr Presidentin Begaj , theks n\u00eb bashk\u00ebpunimin v\u00ebllaz\u00ebror",
+      "category": "geopolitics_security",
+      "source": "sharri.info",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "b323ac101832f04e",
+      "title": "Canada pro - U . S . stance in Iran attack carries security risks and political bets - Medicine Hat NewsMedicine Hat News",
+      "category": "geopolitics_security",
+      "source": "medicinehatnews.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "e210c8080261b305",
+      "title": "Sulm me dron mbi Aeroportin e Dubait : Irani nis val\u00ebn e tret\u00eb t\u00eb hakmarrjes",
+      "category": "geopolitics_security",
+      "source": "sharri.info",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "0cf106ef50d956db",
+      "title": "Sulmet n\u00eb Lindjen e Mesme rrezikojn\u00eb rritjen e \u00e7mimit t\u00eb naft\u00ebs",
+      "category": "geopolitics_security",
+      "source": "sharri.info",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "a79c09b1172e4ae4",
+      "title": "Gi\u00e1 v\u00e0ng h\u00f4m nay ( 1 - 3 ): Gi\u00e1 v\u00e0ng nh\u1eabn , gi\u00e1 v\u00e0ng mi\u1ebfng \u0111\u1ed3ng lo\u1ea1t t\u0103ng k\u1ef7 l\u1ee5c",
+      "category": "macroeconomics_finance",
+      "source": "baomoi.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "73c8645f29689d5c",
+      "title": "Th\u00e1ch th\u1ee9c m\u1edbi cho ch\u00ednh s\u00e1ch ti\u1ec1n t\u1ec7 c\u1ee7a ECB",
+      "category": "macroeconomics_finance",
+      "source": "baomoi.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "d4d80eab2e88731d",
+      "title": "\u0395\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03ae \u03ba\u03c1\u03af\u03c3\u03b7 : \u03a4\u03ad\u03bb\u03bf\u03c2 \u03c7\u03c1\u03cc\u03bd\u03bf\u03c5 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03c7\u03b5\u03b9\u03bc\u03b5\u03c1\u03b9\u03bd\u03ad\u03c2 \u03b5\u03ba\u03c0\u03c4\u03ce\u03c3\u03b5\u03b9\u03c2 - \u0395\u03c6\u03b7\u03bc\u03b5\u03c1\u03af\u03b4\u03b1 \u0397\u03bc\u03ad\u03c1\u03b1 , \u0396\u03ac\u03ba\u03c5\u03bd\u03b8\u03bf\u03c2 . ",
+      "category": "macroeconomics_finance",
+      "source": "imerazante.gr",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "f0063c22120bdc1e",
+      "title": "NPP Zaato Warns : Ghana Good Numbers Hide a Troubling Bargain",
+      "category": "macroeconomics_finance",
+      "source": "ghanamma.com",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "8c5327a241cff934",
+      "title": "\u0633\u0643\u0631\u062a\u064a\u0631 \u0639\u0627\u0645 \u0645\u0637\u0631\u0648\u062d \u0641\u0649 \u0645\u0631\u0648\u0631 \u0645\u0641\u0627\u062c\u0626 \u0639\u0644\u0649 \u0645\u0633\u062a\u0634\u0641\u0649 \u0627\u0644\u0646\u062c\u064a\u0644\u0629 \u0627\u0644\u0645\u0631\u0643\u0632\u0649",
+      "category": "macroeconomics_finance",
+      "source": "dostor.org",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "b3d0ab240bc42a50",
+      "title": "Rachel Reeves wants her spring statement to calm Labour . Good luck",
+      "category": "macroeconomics_finance",
+      "source": "thetimes.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "91ae265e65a540d2",
+      "title": "Documents raise fresh questions on alleged \u20a629m diversion at CAC",
+      "category": "macroeconomics_finance",
+      "source": "theeagleonline.com.ng",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "ca9e9e6d0817ed13",
+      "title": "El San Bartolom\u00e9 cae ante el Tamaraceite pese a su dominio y las dificultades por el viento en el juego",
+      "category": "macroeconomics_finance",
+      "source": "laprovincia.es",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "54ea7c1b01a6e3b6",
+      "title": "What Next for American Jews and Israel ? A Half - Century of Consensus Weakens . ",
+      "category": "macroeconomics_finance",
+      "source": "religionnews.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "1b303a12850c4d55",
+      "title": "\u4e24\u5bb6\u94f6\u884c \uff0c \u540c\u65e5\u5b98\u5ba3 \uff01 \u884c\u957f\u517c\u4efb\u9996\u5e2d\u5408\u89c4\u5b98\u6210\u4e3b\u6d41 \uff0c \u8fc7\u6e21\u671f\u6536\u5b98\u524d\u5bc6\u96c6  \u8865\u4f4d  _ \u4e1c\u65b9\u8d22\u5bcc\u7f51",
+      "category": "macroeconomics_finance",
+      "source": "finance.eastmoney.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "5e5ab586728028c0",
+      "title": "\uae40\ucc2c\uc9c4 \uc778\ucc9c \ub3d9\uad6c\uccad\uc7a5  \uc81c\ubb3c\ud3ec\uad6c \ucd9c\ubc94 \u2026 \uce68\uccb4\ub41c \uc6d0\ub3c4\uc2ec , \ud65c\ub825 \ucc3e\uc744 \uac83  [ \ud601\uc2e0 \uc9c0\uc790\uccb4\uc7a5\uc744 \ub9cc\ub098\ub2e4 ] ",
+      "category": "macroeconomics_finance",
+      "source": "biz.heraldcorp.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "362b31a75c65a58b",
+      "title": "How will US , Israeli strikes on Iran affect oil markets ? ",
+      "category": "energy_resources",
+      "source": "newstalkzb.co.nz",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "8e3a3926be99e3e6",
+      "title": "Si do t\u00eb ndikoj\u00eb lufta n\u00eb Lindjen e Mesme n\u00eb \u00e7mimin e naft\u00ebs ? ",
+      "category": "energy_resources",
+      "source": "vox-al.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "67618885aa744e90",
+      "title": "Iran Attack Will Launch Energy Stocks - 5 Strong Buy High - Yield Companies You Have To Own",
+      "category": "energy_resources",
+      "source": "247wallst.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "edab6a97e93b0718",
+      "title": "\u041e\u041f\u0415\u041a+ \u043c\u043e\u0436\u0435 \u0440\u0456\u0437\u043a\u043e \u0437\u0431\u0456\u043b\u044c\u0448\u0438\u0442\u0438 \u0432\u0438\u0434\u043e\u0431\u0443\u0442\u043e\u043a \u043d\u0430\u0444\u0442\u0438",
+      "category": "energy_resources",
+      "source": "zn.ua",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "02c1e38a5979d289",
+      "title": "\u062a\u062d\u0644\u064a\u0644 .. \u0636\u0631\u0628\u0627\u062a \u062a\u0631\u0627\u0645\u0628 \u0644\u0625\u064a\u0631\u0627\u0646 \u0623\u0643\u0628\u0631 \u0645\u063a\u0627\u0645\u0631\u0627\u062a\u0647",
+      "category": "energy_resources",
+      "source": "elaph.com",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "d6ad6b6494be881a",
+      "title": "\u062a\u0631\u0627\u0645\u0628 \u064a\u0623\u0645\u0631 \u0628\u0634\u0646 \u0636\u0631\u0628\u0627\u062a \u0639\u0644\u0649 \u0625\u064a\u0631\u0627\u0646 - \u0627\u0644\u062e\u0628\u0631\u0627\u0621 \u064a\u0642\u0648\u0644\u0648\u0646 \u0625\u0646\u0647 \u064a\u0645\u0643\u0646\u0647 \u062a\u062c\u0627\u0648\u0632 \u0627\u0644\u0643\u0648\u0646\u063a\u0631\u0633 ( \u0641\u064a \u0627\u0644\u0648\u0642\u062a \u0627\u0644\u062d\u0627\u0644\u064a ) ",
+      "category": "energy_resources",
+      "source": "mizonews.net",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "e3a7cdacd41e57de",
+      "title": "Brazil Lula visits flood zone as death toll from landslides hits 70",
+      "category": "climate_environment",
+      "source": "thedigitalcourier.com",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "5a4f7825f616851c",
+      "title": "Camping holiday in an EV : Yes it can be done",
+      "category": "climate_environment",
+      "source": "smh.com.au",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "e8beed7883d01179",
+      "title": "Nuova legge elettorale , il campo largo allattacco :  Il centrodestra la united states per bloccare il referendum  ",
+      "category": "politics_governance",
+      "source": "quotidiano.net",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "df2839ad07920f4a",
+      "title": "Elecciones Colombia 2026 : \u00bf Qu\u00e9 es delito electoral y c\u00f3mo denunciar ante la Fiscal\u00eda ? \u2013 Publimetro Colombia",
+      "category": "politics_governance",
+      "source": "publimetro.co",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "2122083d9fe454c9",
+      "title": "  This could spark the largest regional war yet : Russian analysts on the Iran strikes",
+      "category": "politics_governance",
+      "source": "russiaherald.com",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "71df034d070fd025",
+      "title": "Reforma Electoral de Claudia Sheinbaum se pone del lado del pueblo : Rita Ozalia",
+      "category": "politics_governance",
+      "source": "globalmedia.mx",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "5020ed1361e8e614",
+      "title": " [ \ub2e8\ub3c5 ] \uc804\uad11\ud6c8  \ubb38\uc7ac\uc778 \uc804 \ub300\ud1b5\ub839 \ud55c\ub9c8\ub514\uc5d0 \uad6c\uc18d\ub410\ub2e4  \uc704\uc790\ub8cc \uc18c\uc1a1\uae4c\uc9c0 \ub0c8\uc9c0\ub9cc \u2026 \ubc95\uc6d0  \uc778\uacfc\uad00\uacc4 \uc5c6\ub2e4 [ \uc138\uc0c1 &] ",
+      "category": "politics_governance",
+      "source": "biz.heraldcorp.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "cbc42796b697bd3a",
+      "title": "Osun 2026 : Obokun APC leaders intensify grassroots mobilisation",
+      "category": "politics_governance",
+      "source": "theeagleonline.com.ng",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "1462cd902842337d",
+      "title": "Senate GOP candidates in Texas rally with Trump , but leave without an endorsement",
+      "category": "politics_governance",
+      "source": "kten.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "1a40e8fe1bf43a42",
+      "title": "What Keir Starmer takes from defeat could make or break his leadership",
+      "category": "politics_governance",
+      "source": "thetimes.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "fe44adccca26d4b9",
+      "title": "V\u1ee3 ch\u1ed3ng Thanh H\u00f3a nu\u00f4i g\u00e0 , tr\u1ed3ng rau , th\u1ea3 c\u00e1 tr\u00ean s\u00e2n th\u01b0\u1ee3ng",
+      "category": "politics_governance",
+      "source": "vnexpress.net",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "ea2a5f27607d6a5b",
+      "title": "  \uc9c0\uc9c0\uc728 \uae09\ub77d  \uc5d0\ub3c4 \uad6d\ud798 \ub0b4\ud64d \uc5b8\uc81c\uae4c\uc9c0 \u2026 \uacf5\ucc9c \ubb3c\uac08\uc774  \uc804\uc6b4\ub3c4",
+      "category": "politics_governance",
+      "source": "fnnews.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "a82d37b91eeba53e",
+      "title": "Horoskopi i Paolo Fox p\u00ebr sot , e diel 1 mars 2026",
+      "category": "politics_governance",
+      "source": "noa.al",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "8bf913582c0fde7d",
+      "title": "\u0110\u1ea1i bi\u1ec3u d\u00e2n c\u1eed ph\u1ea3i lo vi\u1ec7c c\u1ee7a d\u00e2n , b\u1ea3o v\u1ec7 quy\u1ec1n l\u1ee3i ch\u00ednh \u0111\u00e1ng c\u1ee7a d\u00e2n",
+      "category": "politics_governance",
+      "source": "baomoi.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "fa2caa9dc66cdebc",
+      "title": "Continuao de um legado que olha pelo concelho e as suas gentes",
+      "category": "politics_governance",
+      "source": "sapo.pt",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "4a3a87f4c27dc7d7",
+      "title": "Experto alerta sobre riesgos de la reforma electoral de Sheinbaum",
+      "category": "politics_governance",
+      "source": "eldiariodesonora.com.mx",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "de608c413ba78e9f",
+      "title": "L\u00e0ng c\u1edd Trung Qu\u1ed1c c\u1ea3m th\u00e1n :  N\u01b0\u1edbc c\u1edd L\u1ea1i L\u00fd Huynh kh\u00f4ng th\u00e2m s\u00e2u nh\u01b0ng t\u00ecm \u0111\u01b0\u1ee3c ai th\u1eafng anh \u1ea5y ? ",
+      "category": "politics_governance",
+      "source": "tuoitre.vn",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "99cbc476625501b9",
+      "title": " [ \uc0ac\ubc95\uac1c\ud601 3\ubc95\u2461 ] \uc7ac\ud310\uc18c\uc6d0 \ud5c8\uc6a9 \u2026 \uc18c\uc1a1 \uc9c0\uc625  vs  \uae30\ubcf8\uad8c \uad6c\uc81c  ",
+      "category": "politics_governance",
+      "source": "fnnews.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "62bdf4c78423b5bf",
+      "title": "Horoskopi i muajit mars 2026 , sipas Paolo Fox : shenjat m\u00eb t\u00eb favorizuara dhe ato m\u00eb n\u00eb v\u00ebshtir\u00ebsi",
+      "category": "politics_governance",
+      "source": "noa.al",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "bf68b48f194fcea7",
+      "title": "Vox se enreda en las crisis internas mientras Castilla y Le\u00f3n pone a prueba su empuje electoral",
+      "category": "politics_governance",
+      "source": "eldiariomontanes.es",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "9d375cb40420d2b1",
+      "title": "\u65e9\u8bfb\uff5c\u5357\u4eac\u5b98\u5ba3\u5165\u6625 \uff0c \u5237\u65b02000\u5e74\u4ee5\u6765\u6700\u65e9\u5165\u6625\u7eaa\u5f55 \uff01 ",
+      "category": "politics_governance",
+      "source": "baijiahao.baidu.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "2628da805e30a844",
+      "title": "Top Trump Official Quits Job To Help Upstate New Yorkers",
+      "category": "politics_governance",
+      "source": "hudsonvalleycountry.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "6cbc86c401c1b7fa",
+      "title": "Pol\u00edgrafo y pruebas toxicol\u00f3gicas : busca PAN filtros obligatorios antes de registrar candidatos",
+      "category": "politics_governance",
+      "source": "vanguardia.com.mx",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "b7bdcb64d87ff71d",
+      "title": "DVUSD continuing  silly season  | Opinion",
+      "category": "politics_governance",
+      "source": "peoriatimes.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "9890320ea1be2bff",
+      "title": "  \u00c9 necess\u00e1rio um olhar diferenciado para o pequeno empreendedor , diz Zeca Melo , do Sebrae - RN",
+      "category": "politics_governance",
+      "source": "tribunadonorte.com.br",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "5adc2a37531e1e2b",
+      "title": "Jewish advocacy groups sue California over alleged antisemitism",
+      "category": "politics_governance",
+      "source": "mercurynews.com",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "ee11edd890b64597",
+      "title": "R\u00fc\u015fvet kar\u015f\u0131l\u0131\u011f\u0131 nikah iddias\u0131 . 12 g\u00f6zalt\u0131",
+      "category": "politics_governance",
+      "source": "ntv.com.tr",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "b234d7e9af8efbfe",
+      "title": "Photographing two decades of British anarchy",
+      "category": "politics_governance",
+      "source": "dazeddigital.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "3c5b0136a97686a3",
+      "title": "\uc0ac\ubc95\ubd80 39\ub144 \ub9cc\uc5d0 \ub300\ubcc0\ud654 \u2026 \uc18c\uc1a1 \uc7a5\uae30\ud654 , \uace0\uc18c \ub0a8\uc6a9  \ud63c\ub780 \ubd88\uac00\ud53c  ",
+      "category": "politics_governance",
+      "source": "fnnews.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "3e58084ca4eed54c",
+      "title": "WA governor to fellow Democrats : Income tax bill still misses mark",
+      "category": "politics_governance",
+      "source": "spokanepublicradio.org",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "3824618186275d94",
+      "title": "Kansas passes bathroom bounty hunter bill",
+      "category": "politics_governance",
+      "source": "washingtonblade.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "18e2838605ef5c44",
+      "title": "Campuses in line for upgrades as Senate approves major borrowing",
+      "category": "politics_governance",
+      "source": "gazettenet.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "da6002eb2f4df900",
+      "title": "Protesta a Barcelona pel dret a lhabitatge :  Prou excuses  ",
+      "category": "politics_governance",
+      "source": "3cat.cat",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "137981e5881bf776",
+      "title": "In Photos : Global Protests Erupt Over Iran Strikes",
+      "category": "politics_governance",
+      "source": "newsweek.com",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "1fa2fc8e8be6318c",
+      "title": "Iranians across North America take to the streets for - and against",
+      "category": "politics_governance",
+      "source": "yahoo.com",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "2919373a095342a2",
+      "title": "\uc774\uc2a4\ub77c\uc5d8 \u00b7 \ud2b8\ub7fc\ud504  \uc774\ub780 \ud558\uba54\ub124\uc774 \uc0ac\ub9dd \u2026 34\ub144 \uc9d1\uad8c \ucd5c\uace0\uc9c0\ub3c4\uc790\ub294 \ub204\uad6c",
+      "category": "politics_governance",
+      "source": "edaily.co.kr",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "75582cf8c41564e7",
+      "title": " [ \u7f8e \uc774\ub780 \uacf5\uc2b5 ] \u7f8e  \ud558\uba54\ub124\uc774 \uc0ac\ub9dd \u2026 37\ub144\uac04 \ucca0\uad8c\ud1b5\uce58 \ub05d\ub098\ub098",
+      "category": "politics_governance",
+      "source": "biz.heraldcorp.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "e433815113ffd7c2",
+      "title": "Canada gets it right on the fall of Iran",
+      "category": "politics_governance",
+      "source": "torontosun.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "28f4e75a2c9593b4",
+      "title": "Richmond protesters rally against US strikes on Iran : ",
+      "category": "politics_governance",
+      "source": "wtvr.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "851f0baa6288da00",
+      "title": "Trump ka\u017ee da je Hamnei mrtav posle napada SAD i Izraela",
+      "category": "politics_governance",
+      "source": "slobodnaevropa.org",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "e2feb7524c12759e",
+      "title": "T\u1ed5ng th\u1ed1ng Trump gia t\u0103ng \u00e1p l\u1ef1c trong n\u01b0\u1edbc",
+      "category": "politics_governance",
+      "source": "thanhnien.vn",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "6f31a5073d529ec9",
+      "title": "Netflix se retira de la oferta para adquirir Warner Bros . y causa revuelo",
+      "category": "labor_employment",
+      "source": "cadena3.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "174f19c8c0edc45b",
+      "title": "Paramount se queda con Warner Bros . Discovery en un megadeal de $111 mil millones",
+      "category": "labor_employment",
+      "source": "cadena3.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "73ae6f7df6d0ba31",
+      "title": "Trump :  Khamenei \u00e8 morto . Applausi a Teheran . La conferma dallaccount X dellAyatollah :  Pace su di lui  ",
+      "category": "labor_employment",
+      "source": "quotidiano.net",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "264579c640b5f317",
+      "title": "\u0421\u0421\u041c \u0434\u043e\u0431\u0438 \u043f\u043e\u0434\u0434\u0440\u0448\u043a\u0430 \u043e\u0434 \u0415\u0432\u0440\u043e\u043f\u0441\u043a\u0430\u0442\u0430 \u043a\u043e\u043d\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0458\u0430 \u043d\u0430 \u0441\u0438\u043d\u0434\u0438\u043a\u0430\u0442\u0438 \u0437\u0430 \u0431\u0430\u0440\u0430\u045a\u0435\u0442\u043e \u0437\u0430 \u043f\u043e\u0432\u0438\u0441\u043e\u043a\u0438 \u043f\u043b\u0430\u0442\u0438",
+      "category": "labor_employment",
+      "source": "mkd.mk",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "609ad019da09fd9b",
+      "title": "How we got here : Months after Operation Midnight Hammer , the US strikes Iran again",
+      "category": "labor_employment",
+      "source": "mix941.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "dd33f2ca8579cb56",
+      "title": "What we know so far : Supreme Leader Khamenei killed , Trump says , as Iran launches retaliatory strikes",
+      "category": "labor_employment",
+      "source": "myjoyonline.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "68c8e6a254a6133e",
+      "title": "\u7f8e \u00b7 \uc774\uc2a4\ub77c\uc5d8\uc758 \u5c0d\uc774\ub780 \uacf5\uaca9\uc5d0 \ud558\uba54\ub124\uc774 \uc0ac\ub9dd \u2026 \uc911\ub3d9\uc815\uc138 \ubd84\uc218\ub839 ( \uc885\ud5692\ubcf4 ) ",
+      "category": "labor_employment",
+      "source": "fnnews.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "1d6e0fa50281b9f9",
+      "title": "Iran is Trump biggest bet yet . It could define his presidency",
+      "category": "labor_employment",
+      "source": "thetimes.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "59f3099f8b89dc18",
+      "title": "Oregon , Washington state lawmakers condemn US - Israel attack on Iran , call for Congressional action",
+      "category": "labor_employment",
+      "source": "kgw.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "82275c88dfb7fc1e",
+      "title": "Kane Brace Secures Bayern 3 - 2 Win Over Dortmund",
+      "category": "labor_employment",
+      "source": "punchng.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "78852b494b84f4fa",
+      "title": "Trump , Netanyahu say Iran Ayatollah killed in attack",
+      "category": "labor_employment",
+      "source": "torontosun.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "3911d4a7d9899282",
+      "title": "\u0414\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0415\u0421 \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u044b \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u0410\u0437\u0438\u0438 : \u043e\u0442\u0432\u0435\u0442\u043d\u044b\u0435 \u043c\u0435\u0440\u044b \u0420\u043e\u0441\u0441\u0438\u0438",
+      "category": "labor_employment",
+      "source": "iz.ru",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "4db4068bf3491da4",
+      "title": "Where Does the Iran War Go From Here ? ",
+      "category": "labor_employment",
+      "source": "theatlantic.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "9422185fe34d5a47",
+      "title": "Reforma laboral : qu\u00e9 cambia en vacaciones , salarios e indemnizaciones",
+      "category": "labor_employment",
+      "source": "maximaonline.com.ar",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "2aa98c3f9a0ff1ae",
+      "title": "\u0421\u043e\u0441\u0442\u0430\u0432 \u0438 \u0437\u0430\u0434\u0430\u0447\u0438 \u0411\u0430\u043b\u0442\u0438\u0439\u0441\u043a\u043e\u0439 \u0432\u043e\u0435\u043d\u043d\u043e - \u043c\u043e\u0440\u0441\u043a\u043e\u0439 \u0431\u0430\u0437\u044b \u0420\u043e\u0441\u0441\u0438\u0438",
+      "category": "labor_employment",
+      "source": "iz.ru",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "441d1706b3cf2734",
+      "title": "Abbott receives FDA approval for next - generation remote heart monitoring device",
+      "category": "health_biotech",
+      "source": "businessdailynetwork.com",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "f6a2bbc7425081a9",
+      "title": " \u00ab La Justicia de EE UU funciona ; el dinero de los aranceles tendr\u00e1 que ser devuelto \u00bb ",
+      "category": "robotics_automation",
+      "source": "diariovasco.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "8321c3820b49d0b1",
+      "title": "The Biggest Bottleneck in AI Isnt Chips Anymore ; It Power . These 2 Stocks Could Soar in 2026 . ",
+      "category": "semiconductors_compute",
+      "source": "fool.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "992bde4f443e281d",
+      "title": "PM Modi launches US firm chip unit in Gujarat :  Part of global supply chain  | Ahmedabad News",
+      "category": "semiconductors_compute",
+      "source": "indianexpress.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "45e9687bba3460d3",
+      "title": "NASA astronaut who prompted space station evacuation identified",
+      "category": "space_frontier",
+      "source": "koco.com",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "307dcc03c98bcbc6",
+      "title": "SpaceX plans early morning launch from Vandenberg on Sunday",
+      "category": "space_frontier",
+      "source": "ksby.com",
+      "published_at": "20260301T000000Z"
+    },
+    {
+      "id": "6fa87c9851b6a580",
+      "title": "NASA revamps Artemis plan , adding one more mission near Earth before moon landing",
+      "category": "space_frontier",
+      "source": "nny360.com",
+      "published_at": "20260228T234500Z"
+    },
+    {
+      "id": "18239831ca682aea",
+      "title": " \u3010 \u65b0\u805e\u76f4\u64ca \u3011 \u5c01\u9396\u6d77\u5cfd \uff1f \u570b\u969b\u6cb9\u50f9\u6216\u5931\u63a7 \uff1f \u4fc4\u56de\u61c9\u4f0a\u6717\u88ab\u8972 | \u7f8e\u4ee5\u7a7a\u8972\u4f0a\u6717 | \u970d\u723e\u6728\u8332\u6d77\u5cfd\u5c01\u9396 | \u570b\u969b\u6cb9\u50f9\u8d70\u52e2",
+      "category": "space_frontier",
+      "source": "ntdtv.com",
+      "published_at": "20260301T001500Z"
+    },
+    {
+      "id": "3fabbd685e60619e",
+      "title": "M 4.5 - 104 km E of Ozernovskiy, Russia",
+      "category": "geological_events",
+      "source": "USGS",
+      "published_at": "2026-03-01T00:15:07.577000+00:00"
+    },
+    {
+      "id": "5dacd3cd1cb192d6",
+      "title": "M 5.0 - 26 km N of Kusap\u00edn, Panama",
+      "category": "geological_events",
+      "source": "USGS",
+      "published_at": "2026-02-28T17:11:55.547000+00:00"
+    },
+    {
+      "id": "636f9c92ed4efb8e",
+      "title": "M 4.3 - 86 km W of San Antonio de los Cobres, Argentina",
+      "category": "geological_events",
+      "source": "USGS",
+      "published_at": "2026-02-28T16:22:26.028000+00:00"
+    },
+    {
+      "id": "da8f1b056f54df12",
+      "title": "M 4.2 - 60 km S of Jurm, Afghanistan",
+      "category": "geological_events",
+      "source": "USGS",
+      "published_at": "2026-02-28T15:38:33.679000+00:00"
+    },
+    {
+      "id": "80002c18e60c15d4",
+      "title": "M 4.5 - Pagan region, Northern Mariana Islands",
+      "category": "geological_events",
+      "source": "USGS",
+      "published_at": "2026-02-28T15:06:16.132000+00:00"
+    },
+    {
+      "id": "ba0a0dd9c0c6c139",
+      "title": "M 4.5 - 5 km NNW of Kimbe, Papua New Guinea",
+      "category": "geological_events",
+      "source": "USGS",
+      "published_at": "2026-02-28T14:04:29.659000+00:00"
+    },
+    {
+      "id": "9ab5166ef07b53c5",
+      "title": "M 4.2 - 218 km E of Levuka, Fiji",
+      "category": "geological_events",
+      "source": "USGS",
+      "published_at": "2026-02-28T11:04:40.175000+00:00"
+    },
+    {
+      "id": "a04cb1f55f5e70c8",
+      "title": "M 4.4 - 86 km SW of Puerto Madero, Mexico",
+      "category": "geological_events",
+      "source": "USGS",
+      "published_at": "2026-02-28T10:40:54.971000+00:00"
+    },
+    {
+      "id": "fe768f5044c995b1",
+      "title": "M 4.6 - 33 km SW of Acajutla, El Salvador",
+      "category": "geological_events",
+      "source": "USGS",
+      "published_at": "2026-02-28T10:21:23.746000+00:00"
+    },
+    {
+      "id": "94d05c844fa9e3be",
+      "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
+      "category": "ai_machine_intelligence",
+      "source": "Biz & IT - Ars Technica",
+      "published_at": "2026-02-28T01:26:41+00:00"
+    },
+    {
+      "id": "9e23e457daae027a",
+      "title": "The trap Anthropic built for itself",
+      "category": "ai_machine_intelligence",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published_at": "2026-03-01T00:08:58+00:00"
+    },
+    {
+      "id": "5e38de0282e94f21",
+      "title": "Anthropic\u2019s Claude rises to No. 2 in the App Store following Pentagon dispute",
+      "category": "ai_machine_intelligence",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published_at": "2026-02-28T21:05:06+00:00"
+    },
+    {
+      "id": "71fc7c9942fc4eae",
+      "title": "The billion-dollar infrastructure deals powering the AI boom",
+      "category": "ai_machine_intelligence",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published_at": "2026-02-28T20:41:55+00:00"
+    },
+    {
+      "id": "c4527bda23665248",
+      "title": "OpenAI\u2019s Sam Altman announces Pentagon deal with \u2018technical safeguards\u2019",
+      "category": "ai_machine_intelligence",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published_at": "2026-02-28T16:17:36+00:00"
+    },
+    {
+      "id": "9ea5ed9903e9bc8d",
+      "title": "Inside the peripheral motion systems that complement robotics",
+      "category": "robotics_automation",
+      "source": "The Robot Report",
+      "published_at": "2026-02-28T13:28:55+00:00"
+    },
+    {
+      "id": "b23832174a369388",
+      "title": "World Models, Free Energy, and a Plastic Dinosaur",
+      "category": "energy_resources",
+      "source": "CleanTechnica",
+      "published_at": "2026-02-28T19:20:07+00:00"
+    },
+    {
+      "id": "2c79ba2672396ad4",
+      "title": "The Return Of The Esmeralda 7 Solar Power Project",
+      "category": "energy_resources",
+      "source": "CleanTechnica",
+      "published_at": "2026-02-28T15:50:00+00:00"
+    },
+    {
+      "id": "dc529f24fa08e1c8",
+      "title": "Tesla Vehicles Finally Come To Africa",
+      "category": "energy_resources",
+      "source": "CleanTechnica",
+      "published_at": "2026-02-28T15:30:25+00:00"
+    },
+    {
+      "id": "0569062acbe3083a",
+      "title": "We\u2019re At War With Iran \u2014 Buy An EV To Avoid $6+ Gas Prices",
+      "category": "energy_resources",
+      "source": "CleanTechnica",
+      "published_at": "2026-02-28T14:57:02+00:00"
+    },
+    {
+      "id": "66b8531f978536a9",
+      "title": "UAW: Stellantis Can\u2019t Blame Workers Or EVs For Losses",
+      "category": "energy_resources",
+      "source": "CleanTechnica",
+      "published_at": "2026-02-28T14:51:32+00:00"
+    },
+    {
+      "id": "01308c25351efaf9",
+      "title": "Apollo Go Reaches 20 Million Trips, 190 Million Fully Driverless Kilometers",
+      "category": "energy_resources",
+      "source": "CleanTechnica",
+      "published_at": "2026-02-28T04:57:09+00:00"
+    },
+    {
+      "id": "16a184416d79fae4",
+      "title": "Range Anxiety Anxiety vs. Actual Electric Car Convenience",
+      "category": "energy_resources",
+      "source": "CleanTechnica",
+      "published_at": "2026-02-28T03:04:37+00:00"
+    },
+    {
+      "id": "5bec90fbba0eec4c",
+      "title": "Sierra Club Releases First Trove of Emails, Texts, and Calendars from Trump\u2019s Department of the Interior",
+      "category": "energy_resources",
+      "source": "CleanTechnica",
+      "published_at": "2026-02-28T02:53:11+00:00"
+    },
+    {
+      "id": "1c4c46a5d8a58338",
+      "title": "The System Case Against Hydrogen for Grid Storage",
+      "category": "energy_resources",
+      "source": "CleanTechnica",
+      "published_at": "2026-02-28T02:08:53+00:00"
+    },
+    {
+      "id": "bb8c10f060eb2ee3",
+      "title": "Volkswagen Reaches 2 Million Electric Vehicle Deliveries",
+      "category": "energy_resources",
+      "source": "CleanTechnica",
+      "published_at": "2026-02-28T02:07:02+00:00"
+    },
+    {
+      "id": "1c113c57e28a32b9",
+      "title": "How Sustainable Were The 2026 Olympics, Really?",
+      "category": "energy_resources",
+      "source": "CleanTechnica",
+      "published_at": "2026-02-28T00:41:45+00:00"
+    },
+    {
+      "id": "525e5502804efd53",
+      "title": "Thai Gold-Trading Curbs Take Effect as Authorities Rein in Baht",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-03-01T00:00:00+00:00"
+    },
+    {
+      "id": "934fb4e46f5a715b",
+      "title": "Bolivia Races to Destroy Millions in Cash That Fell From Sky",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T18:25:22+00:00"
+    },
+    {
+      "id": "6bb594b9db94ea84",
+      "title": "Polymarket Iran Bets Hit $529 Million as New Wallets Draw Notice",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T21:24:58+00:00"
+    },
+    {
+      "id": "568d6f79fffd6983",
+      "title": "US Job Growth Seen Moderating After Robust January",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T21:00:00+00:00"
+    },
+    {
+      "id": "b284bc209f018697",
+      "title": "What\u2019s at Stake for Oil Markets as Trump Strikes Iran",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T10:14:32+00:00"
+    },
+    {
+      "id": "ad4f4c6a67cf26e4",
+      "title": "Private Credit Stocks Signal More Pain Is Coming: Credit Weekly",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T20:00:00+00:00"
+    },
+    {
+      "id": "2ccaf3b4d2c08c8d",
+      "title": "Bloomberg This Weekend 2/28/2026",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T19:15:39+00:00"
+    },
+    {
+      "id": "aa7f21da9f67e708",
+      "title": "Dubai Prepares for the Worst as Iran Launches Drones and Missiles",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T18:35:44+00:00"
+    },
+    {
+      "id": "1722e0bff33bf8c0",
+      "title": "What It Takes for Regime Change in Iran: John Bolton",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T17:48:30+00:00"
+    },
+    {
+      "id": "87a72063bf8db422",
+      "title": "UK\u2019s Starmer Urges Return to Diplomatic Process for US, Iran",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T17:05:17+00:00"
+    },
+    {
+      "id": "5173277c1c8381a1",
+      "title": "Iran Attack Is 'Nightmare Scenario' For Gulf Countries",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T15:36:49+00:00"
+    },
+    {
+      "id": "733632b4966c06cb",
+      "title": "What the Iran Attack Means for Neighboring Nations",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T15:23:12+00:00"
+    },
+    {
+      "id": "e763c7676124f3ee",
+      "title": "Former UN Ambassador Bolton Concerned About Iran Regime Change",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T15:13:55+00:00"
+    },
+    {
+      "id": "3a9c566d7a958df0",
+      "title": "Puck News\u2019 Ioffe on How Europe Might React to Iran Attack",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T15:02:25+00:00"
+    },
+    {
+      "id": "ba04c2df40403ac5",
+      "title": "Israel Shuts Down Natural Gas Fields as Iran Attack Unfolds",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T14:33:26+00:00"
+    },
+    {
+      "id": "f17ca39ed0e96014",
+      "title": "What Iran Attack Means For Oil",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T14:31:37+00:00"
+    },
+    {
+      "id": "7eba529277c74898",
+      "title": "US Farmers See New Trump Tariffs as Yet Another Round of Instability",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T14:30:00+00:00"
+    },
+    {
+      "id": "726acb83613ee975",
+      "title": "China Calls For Immediate Ceasefire After US, Israel Bomb Iran",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T14:26:25+00:00"
+    },
+    {
+      "id": "2dec02bb622b095f",
+      "title": "Rep. Auchincloss Calls for Clear Rationale on Iran",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T14:12:50+00:00"
+    },
+    {
+      "id": "3d80edf18accc2f9",
+      "title": "What Is Trump\u2019s Ultimate Goal in Iran?",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T13:53:24+00:00"
+    },
+    {
+      "id": "39581bde56f958f6",
+      "title": "Trump Urges Iran Uprising After Launching Massive Strikes",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T13:31:46+00:00"
+    },
+    {
+      "id": "c6cbce2e5fd6c6d6",
+      "title": "US, Israel Attack Iran As Trump Urges Regime Change",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T12:49:40+00:00"
+    },
+    {
+      "id": "9011cdb6c23d1965",
+      "title": "Iran Retaliates After US and Israel Attack",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T13:15:57+00:00"
+    },
+    {
+      "id": "479b9861b8abf5c8",
+      "title": "Why Leaders Should Rethink the Way They Handle Mistakes",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T13:06:25+00:00"
+    },
+    {
+      "id": "d94821d3cc85d379",
+      "title": "Trump Won\u2019t Call Tariffs a Mistake, But Most of Us Have Real Regrets",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T13:00:01+00:00"
+    },
+    {
+      "id": "54182d254f907153",
+      "title": "Iran TV Shows Tehran Destruction After US-Israel Attacks",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T11:33:32+00:00"
+    },
+    {
+      "id": "62f707951a9d3d91",
+      "title": "Financial Products for Hedging: Masters in Business with Jeff Chang",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T10:15:53+00:00"
+    },
+    {
+      "id": "cb148614e4361618",
+      "title": "The Evolution of Giorgia Meloni: Her Plan for Italy and Fears of AI",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T09:30:05+00:00"
+    },
+    {
+      "id": "b4f3d998d7112d9d",
+      "title": "<strong>James van Geelen on His Viral AI Doom Scenario</strong>",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T09:00:05+00:00"
+    },
+    {
+      "id": "2b59b1241ac0932a",
+      "title": "Odd Lots: James van Geelen on His AI Doom Scenario (Podcast)",
+      "category": "macroeconomics_finance",
+      "source": "Bloomberg Markets",
+      "published_at": "2026-02-28T09:00:00+00:00"
+    },
+    {
+      "id": "075afb666ac1dc9a",
+      "title": "Iran\u2019s supreme leader Khamenei is dead, Trump says",
+      "category": "macroeconomics_finance",
+      "source": "UK homepage",
+      "published_at": "2026-02-28T21:45:16+00:00"
+    },
+    {
+      "id": "fda3416223a8907a",
+      "title": "Netanyahu\u2019s \u2018biggest decision\u2019: Israeli leader pursues regime change in Iran",
+      "category": "macroeconomics_finance",
+      "source": "UK homepage",
+      "published_at": "2026-02-28T21:53:16+00:00"
+    },
+    {
+      "id": "a4170373c61b0601",
+      "title": "Tehran started its working week. Then came the explosions",
+      "category": "macroeconomics_finance",
+      "source": "UK homepage",
+      "published_at": "2026-02-28T14:53:01+00:00"
+    },
+    {
+      "id": "159b8e4be1f59615",
+      "title": "Panic in the Gulf as Iran lashes out at US allies",
+      "category": "macroeconomics_finance",
+      "source": "UK homepage",
+      "published_at": "2026-02-28T22:34:26+00:00"
+    },
+    {
+      "id": "279cf56cb39fd1d5",
+      "title": "US not planning to tap strategic reserve as Iran war risks oil surge",
+      "category": "macroeconomics_finance",
+      "source": "UK homepage",
+      "published_at": "2026-02-28T23:50:13+00:00"
+    },
+    {
+      "id": "bf4f53617fe8aa16",
+      "title": "Military briefing: The US-Israeli strikes and Iran\u2019s retaliation",
+      "category": "macroeconomics_finance",
+      "source": "UK homepage",
+      "published_at": "2026-02-28T22:26:31+00:00"
+    },
+    {
+      "id": "c908fdf3c54808ab",
+      "title": "Insurers to cancel policies and raise prices for ships in Gulf and Strait of Hormuz",
+      "category": "macroeconomics_finance",
+      "source": "UK homepage",
+      "published_at": "2026-02-28T16:07:08+00:00"
+    },
+    {
+      "id": "363a3feab74d5624",
+      "title": "How will strikes on Iran affect global energy flows?",
+      "category": "macroeconomics_finance",
+      "source": "UK homepage",
+      "published_at": "2026-02-28T12:38:44+00:00"
+    },
+    {
+      "id": "e976c6b4bcfcef22",
+      "title": "Strike on Iranian primary school kills 108, authorities say",
+      "category": "macroeconomics_finance",
+      "source": "UK homepage",
+      "published_at": "2026-02-28T19:49:51+00:00"
+    },
+    {
+      "id": "a8981e47c8527346",
+      "title": "Why now? Trump\u2019s shifting arguments for striking Iran",
+      "category": "macroeconomics_finance",
+      "source": "UK homepage",
+      "published_at": "2026-02-28T15:40:04+00:00"
+    },
+    {
+      "id": "6bcabdb8cc452712",
+      "title": "Greg Abel tells Berkshire investors its cash pile is not a retreat from dealmaking",
+      "category": "macroeconomics_finance",
+      "source": "UK homepage",
+      "published_at": "2026-02-28T18:14:54+00:00"
+    },
+    {
+      "id": "a75f969d69aacf24",
+      "title": "The Iranian Regime\u2019s Existential Crisis\u2014and What Might Come After Khamenei",
+      "category": "geopolitics_security",
+      "source": "FA RSS",
+      "published_at": "2026-02-28T20:45:00+00:00"
+    },
+    {
+      "id": "c1e554003a9d078b",
+      "title": "Democrats split over response to Trump\u2019s Iran strikes",
+      "category": "politics_governance",
+      "source": "Politics",
+      "published_at": "2026-02-28T22:27:35+00:00"
+    },
+    {
+      "id": "0903db55319c0d34",
+      "title": "\u2018Let him think he won': Inside Minnesota Dems' effort to fend off Trump's immigration surge",
+      "category": "politics_governance",
+      "source": "Politics",
+      "published_at": "2026-02-28T12:00:00+00:00"
+    },
+    {
+      "id": "2dcd2ec35c772eba",
+      "title": "House Dem. Leader Jeffries responds to air strikes on Iran by U.S. and Israel",
+      "category": "politics_governance",
+      "source": "NPR Topics: Politics",
+      "published_at": "2026-02-28T22:34:56+00:00"
+    },
+    {
+      "id": "b7d8926766065db8",
+      "title": "Retired Vice Admiral gives military perspective on US-Israel attacks on Iran",
+      "category": "politics_governance",
+      "source": "NPR Topics: Politics",
+      "published_at": "2026-02-28T22:34:54+00:00"
+    },
+    {
+      "id": "c071447bdf68a0a8",
+      "title": "Marco Rubio is pressing for change in Cuba. Will it work?",
+      "category": "politics_governance",
+      "source": "NPR Topics: Politics",
+      "published_at": "2026-02-28T22:34:53+00:00"
+    },
+    {
+      "id": "b4dc2fe5ec490c45",
+      "title": "'One year of failure.' The Lancet slams RFK Jr.'s first year as health chief",
+      "category": "politics_governance",
+      "source": "NPR Topics: Politics",
+      "published_at": "2026-02-28T19:16:25+00:00"
+    },
+    {
+      "id": "e952eb6b6206f13e",
+      "title": "Sen. Tim Kaine calls on the Senate to vote on the war powers resolution",
+      "category": "politics_governance",
+      "source": "NPR Topics: Politics",
+      "published_at": "2026-02-28T12:56:13+00:00"
+    },
+    {
+      "id": "e3cd026087d23894",
+      "title": "Iran strikes were launched without approval from Congress, deeply dividing lawmakers",
+      "category": "politics_governance",
+      "source": "NPR Topics: Politics",
+      "published_at": "2026-02-28T12:56:10+00:00"
+    },
+    {
+      "id": "015e9324706adc83",
+      "title": "Week in Politics: Does Trump have political support for his actions in Iran?",
+      "category": "politics_governance",
+      "source": "NPR Topics: Politics",
+      "published_at": "2026-02-28T12:56:00+00:00"
+    },
+    {
+      "id": "dab5343f5115b559",
+      "title": "North Carolina Democrats latest to chart future of the party in congressional primary",
+      "category": "politics_governance",
+      "source": "NPR Topics: Politics",
+      "published_at": "2026-02-28T12:00:00+00:00"
+    },
+    {
+      "id": "2d9845193453543d",
+      "title": "Trump says he is 'not happy' with the Iran nuclear talks but indicates he'll give them more time",
+      "category": "politics_governance",
+      "source": "NPR Topics: Politics",
+      "published_at": "2026-02-28T06:06:51+00:00"
+    },
+    {
+      "id": "07c503504e0c6b4e",
+      "title": "Bill Clinton says he 'did nothing wrong' with Epstein as he faced grilling over their relationship",
+      "category": "politics_governance",
+      "source": "NPR Topics: Politics",
+      "published_at": "2026-02-28T05:49:58+00:00"
+    },
+    {
+      "id": "a96250b3b5a60234",
+      "title": "Henrietta Lacks\u2019 estate settles with Novartis over the \u2018stolen cells\u2019 that advanced science",
+      "category": "health_biotech",
+      "source": "STAT",
+      "published_at": "2026-02-28T13:49:04+00:00"
+    },
+    {
+      "id": "1e98d3e4fefd2f53",
+      "title": "Kennedy announces new vaccine advisory committee members after meeting rescheduled",
+      "category": "health_biotech",
+      "source": "STAT",
+      "published_at": "2026-02-28T01:53:28+00:00"
+    },
+    {
+      "id": "1db422f53314d0b9",
+      "title": "Scientists discover a bacterial kill switch and it could change the fight against superbugs",
+      "category": "health_biotech",
+      "source": "Health & Medicine News -- ScienceDaily",
+      "published_at": "2026-02-28T14:20:04+00:00"
+    },
+    {
+      "id": "354429453a0653c5",
+      "title": "How the body really ages: 7 million cells mapped across 21 organs",
+      "category": "health_biotech",
+      "source": "Health & Medicine News -- ScienceDaily",
+      "published_at": "2026-02-28T15:25:43+00:00"
+    },
+    {
+      "id": "9506db12ec2d7273",
+      "title": "Your morning coffee could one day help fight cancer",
+      "category": "health_biotech",
+      "source": "Health & Medicine News -- ScienceDaily",
+      "published_at": "2026-02-28T14:03:20+00:00"
+    },
+    {
+      "id": "a8bb3ed5975706f6",
+      "title": "A major climate hope in Antarctica just melted away",
+      "category": "climate_environment",
+      "source": "Earth & Climate News -- ScienceDaily",
+      "published_at": "2026-02-28T14:59:08+00:00"
+    },
+    {
+      "id": "0cb3795c64e2449b",
+      "title": "This plastic is made from milk and it vanishes in 13 weeks",
+      "category": "climate_environment",
+      "source": "Earth & Climate News -- ScienceDaily",
+      "published_at": "2026-02-28T13:23:21+00:00"
+    },
+    {
+      "id": "69dc62951eddc60e",
+      "title": "The Trump administration\u2019s favorite nuclear startup has ties to Russia and Epstein",
+      "category": "climate_environment",
+      "source": "Grist",
+      "published_at": "2026-02-28T14:00:00+00:00"
+    },
+    {
+      "id": "de7b477b41e464ac",
+      "title": "Intuitive Machines raises $175 million in stock sale",
+      "category": "space_frontier",
+      "source": "SpaceNews",
+      "published_at": "2026-03-01T00:10:05+00:00"
+    },
+    {
+      "id": "f26e3052fdbd63f3",
+      "title": "NASA on \u2018aggressive\u2019 schedule to complete SLS repairs for April launch",
+      "category": "space_frontier",
+      "source": "SpaceNews",
+      "published_at": "2026-02-28T17:40:30+00:00"
+    },
+    {
+      "id": "f89cdb8d98261f6a",
+      "title": "This Week In Space podcast: Episode 199 \u2014 The Obsolete Astronaut?",
+      "category": "space_frontier",
+      "source": "Latest from Space.com",
+      "published_at": "2026-02-28T14:05:14+00:00"
+    },
+    {
+      "id": "58dbf8abedff4c37",
+      "title": "Is it legal to own, buy, or sell Apollo mission moon rocks and lunar samples?",
+      "category": "space_frontier",
+      "source": "Latest from Space.com",
+      "published_at": "2026-02-28T14:00:00+00:00"
+    },
+    {
+      "id": "34a2f22f41a7d4d6",
+      "title": "'Star Trek: Starfleet Academy' is making Trek horny again, and it's about time!",
+      "category": "space_frontier",
+      "source": "Latest from Space.com",
+      "published_at": "2026-02-28T13:00:00+00:00"
+    },
+    {
+      "id": "dd681fb77c530785",
+      "title": "See the 'impossible' as sunrise and a total lunar eclipse appear at the same time on March 3",
+      "category": "space_frontier",
+      "source": "Latest from Space.com",
+      "published_at": "2026-02-28T12:00:00+00:00"
+    },
+    {
+      "id": "44c42c7c62a17aec",
+      "title": "'Pushing this competition': SpaceX's Starship might not fly on NASA's newly revamped Artemis 3 mission",
+      "category": "space_frontier",
+      "source": "Latest from Space.com",
+      "published_at": "2026-02-28T11:00:00+00:00"
+    }
+  ]
+}
